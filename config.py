@@ -46,7 +46,7 @@ TOPIC_GROUPS = {
 }
 
 # --- 動作パラメータ -------------------------------------------------------
-RELDATE = 30 # 直近何日分（EDAT基準）を巡回するか。日次なら2-3で重複margin
+RELDATE = 3 # 直近何日分（EDAT基準）を巡回するか。日次なら2-3で重複margin
 MAX_FETCH = 400             # esearchで取る最大PMID数
 MAX_PAPERS_PER_RUN = 80     # 1回でClaude評価にかける新規論文の上限（暴走防止）
 MIN_USEFULNESS = 3          # この点未満は掲載しない（1-5）
