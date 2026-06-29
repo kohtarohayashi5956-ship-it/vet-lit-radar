@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vet Lit Radar — 小動物内科 新着論文</title>
+<style>
+  :root { --navy:#16294A; --teal:#0E7C86; --bg:#f5f7fa; --ink:#1f2733; --muted:#6b7280; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:-apple-system,"Hiragino Kaku Gothic ProN","Noto Sans JP",sans-serif;
+          background:var(--bg); color:var(--ink); line-height:1.6; }
+  header { background:var(--navy); color:#fff; padding:20px 16px; }
+  header h1 { margin:0; font-size:1.2rem; }
+  header .sub { opacity:.8; font-size:.8rem; margin-top:4px; }
+  .filters { position:sticky; top:0; background:#fff; padding:10px 12px; border-bottom:1px solid #e5e7eb;
+              display:flex; gap:6px; flex-wrap:wrap; z-index:10; }
+  .filter { border:1px solid var(--teal); background:#fff; color:var(--teal); border-radius:999px;
+             padding:4px 12px; font-size:.8rem; cursor:pointer; }
+  .filter.active { background:var(--teal); color:#fff; }
+  main { max-width:760px; margin:0 auto; padding:14px; }
+  .card { background:#fff; border-left:4px solid var(--teal); border-radius:8px; padding:14px 16px;
+           margin-bottom:14px; box-shadow:0 1px 3px rgba(0,0,0,.06); }
+  .meta { display:flex; gap:10px; align-items:center; font-size:.75rem; color:var(--muted); flex-wrap:wrap; }
+  .topic { background:var(--navy); color:#fff; border-radius:4px; padding:1px 8px; }
+  .stars { color:#e8a33d; letter-spacing:1px; }
+  .card h2 { font-size:1rem; margin:8px 0 4px; color:var(--navy); }
+  .orig { font-size:.82rem; color:var(--muted); margin:0 0 6px; }
+  .src { font-size:.8rem; color:var(--muted); margin:0 0 8px; }
+  .summary { margin:0 0 8px; }
+  .takeaway { background:#eef7f8; border-radius:6px; padding:8px 10px; margin:0 0 8px; font-size:.9rem; }
+  .abs summary { cursor:pointer; color:var(--teal); font-size:.85rem; }
+  .abstract { white-space:pre-line; font-size:.88rem; margin-top:8px; color:#333; }
+  .links a { color:var(--teal); text-decoration:none; font-size:.85rem; }
+  .empty { text-align:center; color:var(--muted); padding:40px; }
+  footer { text-align:center; color:var(--muted); font-size:.75rem; padding:24px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Vet Lit Radar — 小動物内科 新着論文</h1>
+  <div class="sub">一覧モード（無料） ／ 最終更新 2026-06-27 02:04 UTC ／ 収載 0 件</div>
+</header>
+<nav class="filters"><button class="filter active" data-f="all">すべて</button><button class="filter" data-f="消化器">消化器</button><button class="filter" data-f="肝胆膵">肝胆膵</button><button class="filter" data-f="リンパ腫">リンパ腫</button><button class="filter" data-f="副腎">副腎</button><button class="filter" data-f="甲状腺">甲状腺</button><button class="filter" data-f="MMVD">MMVD</button><button class="filter" data-f="心筋症">心筋症</button><button class="filter" data-f="腎臓">腎臓</button><button class="filter" data-f="IMHA/ITP">IMHA/ITP</button><button class="filter" data-f="FIP">FIP</button><button class="filter" data-f="免疫療法">免疫療法</button><button class="filter" data-f="その他">その他</button></nav>
+<main id="list">
+<p class="empty">まだ論文がありません。初回は --reldate 30 でシードしてください。</p>
+</main>
+<footer>PubMed E-utilities（＋任意でClaude）で自動生成。内容は必ず原著（PubMedリンク）を確認してください。</footer>
+<script>
+  const btns = document.querySelectorAll('.filter');
+  btns.forEach(b => b.addEventListener('click', () => {
+    btns.forEach(x => x.classList.remove('active'));
+    b.classList.add('active');
+    const f = b.dataset.f;
+    document.querySelectorAll('.card').forEach(c => {
+      c.style.display = (f === 'all' || c.dataset.topic === f) ? '' : 'none';
+    });
+  }));
+</script>
+</body>
+</html>
