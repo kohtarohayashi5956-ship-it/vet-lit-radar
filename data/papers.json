@@ -515,5 +515,27 @@
     "authors": "Castillo-Aliaga C et al.",
     "topic": "リンパ腫",
     "date_added": "2026-06-29"
+  },
+  {
+    "pmid": "42368342",
+    "title": "Enhancer of zeste 2 polycomb repressive complex 2 subunit overexpression suppresses apoptosis in canine T-cell lymphoma: an in vitro functional analysis.",
+    "abstract": "Lymphoma is one of the most common neoplastic diseases in dogs, and T-cell lymphoma in particular has frequently been reported to show limited sensitivity to conventional chemotherapy from the onset of treatment when compared with B-cell lymphoma. Owing to its high-grade and aggressive clinical behavior, there is a strong need to explore novel therapeutic approaches for canine T-cell lymphoma, including strategies targeting aberrant gene regulation. In this study, we focused on the epigenetic enzyme enhancer of zeste 2 polycomb repressive complex 2 subunit (EZH2) and investigated its functional role in canine T-cell lymphoma. The EZH2 gene was ectopically introduced into canine T-cell lymphoma cell lines using a lentiviral vector system, and colony-forming ability, and apoptosis rate were evaluated. EZH2 overexpression significantly enhanced colony-forming capacity, suppressed apoptosis, and increased the number of viable cells compared with control cells. These findings indicate that elevated EZH2 expression confers a survival advantage to canine T-cell lymphoma cells. The present study provides novel evidence that overexpression of EZH2 itself promotes tumor cell survival and aggressiveness. Our results suggest that EZH2 may play a functional role in the maintenance and progression of at least a subset of canine T-cell lymphoma and may represent a potential driver of tumor malignancy. These findings contribute to a deeper understanding of lymphomagenesis and support the potential of EZH2 as a therapeutic target in canine T-cell lymphoma.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1823343",
+    "authors": "Kawamura H et al.",
+    "topic": "リンパ腫",
+    "date_added": "2026-06-29"
+  },
+  {
+    "pmid": "42368340",
+    "title": "Duodenal mucosal RNA-Seq identifies coordinated bile acid-axis transcriptional alterations in food-responsive enteropathy in dogs.",
+    "abstract": "Food-responsive enteropathy (FRE) is a common form of chronic inflammatory enteropathy in dogs. Its underlying molecular mechanisms remain incompletely characterized. Increasing evidence from human studies and emerging canine data suggests that bile acids (BAs) influence intestinal homeostasis and inflammation. Duodenal mucosal biopsies from dogs with FRE (n = 8) and healthy controls (n = 4) were analyzed by bulk RNA sequencing. Differential expression analysis (DESeq2), KEGG and Reactome pathway enrichment, and GSEA were performed with a specific focus on BA transport, sensing, and metabolic pathways. FRE samples showed a distinct BA-associated transcriptional signature, including a non-significant decreasing trend of the BA receptor NR1H4 (FXR) expression (padj = 0.057), and significant upregulation of the nuclear receptor RXRA, together with increased expression of downstream mediators NR0B2 (SHP) and FGF19. BA transport components such as SLC51A (OSTα) and ABCC3 (MRP3) were differentially regulated, and the BA-synthetic enzyme HSD3B7 was increased. Bile secretion was among the top enriched KEGG pathways (ranked 9th; NES = 1.935; padj = 0.005). This study provides, to our knowledge, the first focused mucosal transcriptomic evidence of coordinated BA-axis alterations in canine FRE. The findings align with mechanisms described in human inflammatory bowel disease and support further investigation of bile acid signaling in canine chronic enteropathy. Findings should be interpreted as exploratory due to cohort heterogeneity.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1829399",
+    "authors": "Mózes B et al.",
+    "topic": "消化器",
+    "date_added": "2026-06-29"
   }
 ]
