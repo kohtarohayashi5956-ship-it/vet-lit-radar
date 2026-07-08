@@ -691,5 +691,16 @@
     "authors": "Stumpf C et al.",
     "topic": "消化器",
     "date_added": "2026-07-07"
+  },
+  {
+    "pmid": "42414994",
+    "title": "Off-label use of dapagliflozin in a dog with recurrent calcium oxalate urolithiasis: a case report.",
+    "abstract": "BACKGROUND: Calcium oxalate (CaOx) urolithiasis is a common and recurrent condition in dogs, typically managed with dietary modification, thiazide diuretics, and potassium citrate. In human medicine, sodium-glucose cotransporter 2 (SGLT2) inhibitors such as dapagliflozin are increasingly used to manage diabetes mellitus and chronic kidney disease and have been shown to alter urinary factors associated with nephrolithiasis. Their effects in veterinary patients, however, remain uncharacterized. This case report describes the novel off-label use of dapagliflozin in a dog with refractory CaOx cystolithiasis despite standard preventive therapies.\nCASE PRESENTATION: An 8-year-old neutered male Chihuahua with a history of recurrent CaOx urolithiasis experienced multiple episodes of stone recurrence despite adherence to a therapeutic stone-prevention diet, hydrochlorothiazide, and potassium citrate. Dapagliflozin was initiated off-label as adjunctive therapy to evaluate its potential impact on urinary calcium excretion. Pre- and post-treatment urinalyses and urine calcium-to-creatinine ratios were compared. Following initiation, the dog developed glucosuria, acidic urine, and increased urine specific gravity, while urinary calcium-to-creatinine ratios remained elevated. The medication was discontinued after 12 days due to concerns about underhydration.\nCONCLUSIONS: Short-term SGLT2 inhibition combined with a thiazide diuretic did not reduce hypercalciuria and may increase lithogenic risk if fluid intake is insufficient to offset the osmotic diuresis. This case underscores the importance of hydration monitoring and highlights potential pharmacologic interactions when using SGLT2 inhibitors off-label in dogs. Further controlled studies are needed to elucidate their safety and therapeutic role in managing CaOx urolithiasis in veterinary patients.",
+    "journal": "BMC Vet Res",
+    "year": "2026",
+    "doi": "10.1186/s12917-026-05684-5",
+    "authors": "Pakhawala J",
+    "topic": "腎臓",
+    "date_added": "2026-07-08"
   }
 ]
