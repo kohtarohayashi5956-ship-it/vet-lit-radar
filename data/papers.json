@@ -702,5 +702,38 @@
     "authors": "Pakhawala J",
     "topic": "腎臓",
     "date_added": "2026-07-08"
+  },
+  {
+    "pmid": "42421062",
+    "title": "Glycyrrhiza polysaccharide inhibits feline infectious peritonitis virus infection screened by a recombinant virus expressing eGFP protein.",
+    "abstract": "BACKGROUND: Feline infectious peritonitis (FIP) is a fatal infectious disease caused by feline infectious peritonitis virus (FIPV) which causes death of young cats less than 2 years old. Until now, few drugs are available for treatment of FIP. Here, we developed a modified FIPV expressing eGFP reporter gene by reverse genetics to evaluate the ability of Chinese herbal polysaccharides on inhibition of FIPV infection in Crandell-Rees feline kidney (CRFK) cells.\nRESULTS: The results demonstrated that the recombinant FIPV could express eGFP reporter gene, replicated in the CRFK cells and grow in a similar way with wild-type FIPV. By using this recombinant FIPV, we found that glycyrrhiza polysaccharide (GPS) effectively inhibited FIPV when added at the same time with virus or post-infection in CRFK cells. Further studies revealed that GPS inhibited FIPV adsorption and replication, but did not affect FIPV internalization in CRFK cells.\nCONCLUSIONS: In the current study, we successfully established a modified FIPV platform which supports high-throughput drug screening in vitro, and we found that GPS is a promising candidate for treating FIP.",
+    "journal": "BMC Vet Res",
+    "year": "2026",
+    "doi": "10.1186/s12917-026-05679-2",
+    "authors": "Yang Y et al.",
+    "topic": "腎臓",
+    "date_added": "2026-07-09"
+  },
+  {
+    "pmid": "42420001",
+    "title": "Copper analysis of laparoscopic liver biopsy tissue samples from cats.",
+    "abstract": "Hepatic copper accumulation is assessed qualitatively via histopathology, and hepatic copper concentration is measured quantitatively. Laparoscopic biopsy provides samples adequate for histopathology; however, its suitability for copper quantification in cats remains unclear. Liver tissue samples from 19 cats undergoing laparoscopic liver biopsy were evaluated for hepatic copper score and concentration. Copper scores were determined by a board-certified pathologist using rhodanine-stained sections. Hepatic copper concentrations were determined using atomic absorption spectrometry, and the rhodanine-positive pixel ratio was calculated from histological images using ImageJ. Copper-associated hepatopathy was identified in three cats: two with a score of 4 and one with a score of 5. Seven cats demonstrated cholangiohepatitis (scores 0-3). The hepatic copper score was significantly correlated with copper concentration in the 19 cats (Spearman's r=0.757, P<0.001). Rhodanine-positive pixel ratio also correlated with copper concentration (Spearman's r=0.668, P<0.01). Therefore, laparoscopic biopsy provides feline liver tissue feasible for qualitative and quantitative copper analysis. The liver rhodanine-positive pixel ratio offers a useful quantitative alternative when hepatic copper concentration cannot be measured in cats.",
+    "journal": "J Vet Med Sci",
+    "year": "2026",
+    "doi": "10.1292/jvms.26-0074",
+    "authors": "Suzuki K et al.",
+    "topic": "肝胆膵",
+    "date_added": "2026-07-09"
+  },
+  {
+    "pmid": "42418836",
+    "title": "Neutrophilic inflammatory enteropathy in 27 dogs: a retrospective descriptive study.",
+    "abstract": "BACKGROUND: Dogs with chronic inflammatory enteropathy (CIE) are common in companion animal practice. Neutrophilic inflammatory enteropathy (NIE) is a subtype of CIE that is uncommonly reported, posing a dilemma in terms of etiology, treatment, and prognosis.\nHYPOTHESIS/OBJECTIVES: To describe historical, clinical, clinicopathological, imaging findings, treatment, and survival in dogs with histologically confirmed NIE.\nANIMALS: Twenty-seven client-owned dogs with NIE.\nMATERIALS AND METHODS: Retrospective interrogation of the hospital database between January 2015 and January 2025 identified dogs with NIE based on histological reports. Cases were regraded using modified WSAVA guidelines and classified into the minor (mild inflammation) or major (moderate or severe inflammation) groups.\nRESULTS: Twenty-seven dogs were identified, with 8 and 19 dogs in the minor and major groups, respectively. The mean age was 7.7 ± 3.5 (95% CI, 6.4-9.1) years. The most common presenting signs were diarrhea (n = 21/27; 78%), vomiting (n = 21/27; 78%), weight loss (n = 20/27; 74%), hyporexia/anorexia (n = 13/27; 48%), and melena (n = 7/27; 26%). Clinicopathological abnormalities included neutrophilia (n = 12/27, 44%), hypoalbuminemia (n = 14/27, 52%), hypoglobulinemia (n = 23/27, 85%), hypocholesterolemia (n = 11/27; 41%), total hypocalcemia (n = 11/27; 41%), and hypocobalaminemia (n = 14/24; 58%). Twenty-four (89%) dogs (6 minor and 18 major) survived to discharge, with an overall median survival time of 267 (95% CI, 0-569) days, with no statistically significant difference between the major and minor groups. Peripheral neutrophilia was associated with an increased hazard of death (4.43; 95% CI, 1.16-16.99; P = .03) on univariate analysis and a significantly shorter median survival time.\nCONCLUSION AND CLINICAL IMPORTANCE: Neutrophilic inflammatory enteropathy is potentially associated with poor survival. Peripheral neutrophilia might indicate a poorer prognosis.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag130",
+    "authors": "Murtagh K et al.",
+    "topic": "消化器",
+    "date_added": "2026-07-09"
   }
 ]
