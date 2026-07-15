@@ -812,5 +812,27 @@
     "authors": "Al Kafaji T et al.",
     "topic": "肝胆膵",
     "date_added": "2026-07-14"
+  },
+  {
+    "pmid": "42453970",
+    "title": "Case Report: Multimodality imaging features and serial metabolic changes on 18 F-FDG PET/CT in a dog with granulomatous hepatitis.",
+    "abstract": "Granulomatous hepatitis is an uncommon inflammatory liver disease that can mimic hepatic malignancy on diagnostic imaging. A 12-year-old spayed female Cocker Spaniel presented with multiple target-like hepatic and splenic lesions showing peripheral enhancement on triple-phase CT and markedly increased 18F-FDG uptake on PET/CT (SUVmax 11.2), raising strong suspicion for malignancy. However, histopathology confirmed granulomatous hepatitis. Serial PET-CT performed 4 months later demonstrated decreased metabolic activity, supporting a chronic inflammatory process. This case highlights the potential role of serial PET-CT beyond malignancy assessment, demonstrating its utility for evaluating metabolic activity and monitoring therapeutic response over time in inflammatory hepatic disease such as active granulomatous hepatitis.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1769462",
+    "authors": "Hong S et al.",
+    "topic": "肝胆膵",
+    "date_added": "2026-07-15"
+  },
+  {
+    "pmid": "42447949",
+    "title": "Diagnostic evaluation of a flow cytometry-based direct antiglobulin test and demographic analysis in dogs with suspected immune thrombocytopenia.",
+    "abstract": "Canine immune thrombocytopenia (ITP) is an autoimmune haematological disorder characterized by antibody-mediated platelet destruction, and diagnosis remains challenging because of limited definitive diagnostic tools. This study evaluated an in-house flow cytometry-based direct antiglobulin test (DAT) for the detection of platelet-bound IgG and investigated demographic factors associated with DAT positivity in thrombocytopenic dogs. A total of 100 healthy dogs and 1,127 thrombocytopenic dogs were included. Platelets were stained with anti-CD41/61 and anti-canine IgG antibodies and analysed by flow cytometry. A diagnostic cutoff was established using healthy control dogs and subsequently applied to thrombocytopenic dogs. Breed, age, and sex were evaluated as potential risk factors for DAT positivity. A cutoff value of 10% IgG-bound platelets was established, and 39.3% of thrombocytopenic dogs were classified as DAT-positive. DAT-positive dogs had significantly lower platelet counts than DAT-negative dogs (median, 10,000/µL; mean, 23,665/µL vs. median, 39,000/µL; mean, 53,193/µL; P < 0.05). A weak but statistically significant inverse correlation was observed between the percentage of IgG-bound platelets and platelet count (r = -0.17, P = 0.0062). Mixed-breed and Shih Tzu dogs, young to middle-aged dogs, and intact females had increased odds of being DAT-positive. These findings suggest that integrating flow cytometry-based DAT results with platelet count and demographic characteristics may improve the diagnostic workup for canine ITP and support therapeutic decision-making.",
+    "journal": "Vet J",
+    "year": "2026",
+    "doi": "10.1016/j.tvjl.2026.106782",
+    "authors": "Nedumpun T et al.",
+    "topic": "IMHA/ITP",
+    "date_added": "2026-07-15"
   }
 ]
