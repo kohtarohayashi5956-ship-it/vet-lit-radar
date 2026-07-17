@@ -856,5 +856,27 @@
     "authors": "Atkins C et al.",
     "topic": "腎臓",
     "date_added": "2026-07-16"
+  },
+  {
+    "pmid": "42465720",
+    "title": "Early activation of Virchow's triad in feline hypertrophic cardiomyopathy: beyond spontaneous echo contrast and insights into translational thromboembolism.",
+    "abstract": "The hypertrophic cardiomyopathy (HCM) phenotype is closely associated with arterial thromboembolism (ATE). The pathophysiology of ATE is linked to activation of Virchow's triad, characterized by endothelial injury, blood stasis, and hypercoagulability. Together, these factors create a prothrombotic microenvironment that may precede overt clinical manifestations. Although spontaneous echocardiographic contrast (SEC) is widely used in clinical practice as a marker of thromboembolic risk, it should be regarded as a late finding. This review explores the early activation of Virchow's triad in cats with HCM phenotype, with emphasis on atrial remodeling, hemodynamic alterations, and endothelial dysfunction preceding detectable SEC. Evidence suggests that changes in left atrial appendage dynamics contribute to localized stasis, while systemic mechanisms, including platelet activation, thrombin generation, and inflammatory processes, promote a hypercoagulable state. Additionally, the presence of SEC should be interpreted as a biomarker of blood stasis rather than a causal factor. Reliance on SEC for thrombotic risk assessment reflects limitations in identifying the pre-thrombotic state, particularly due to the lack of standardized biomarkers for routine clinical use. Therefore, improved thromboembolic risk stratification in cats with HCM phenotype is needed. Overall, thrombogenesis in cats with cardiac disease is a dynamic, multifactorial, and progressive process that begins prior to detectable echocardiographic changes. A clearer understanding of these mechanisms may enable earlier identification of high-risk patients and support preventive therapeutic strategies. This review analyzes the early activation of Virchow's triad in cats with HCM phenotype and its relationship with atrial thrombus formation, with emphasis on thrombogenic mechanisms preceding SEC and their implications for ATE.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1870206",
+    "authors": "de Sousa FG et al.",
+    "topic": "心筋症",
+    "date_added": "2026-07-17"
+  },
+  {
+    "pmid": "42462212",
+    "title": "Renoprotective effects of curcumin in cats with chronic kidney disease.",
+    "abstract": "BACKGROUND: Chronic kidney disease (CKD) in cats is characterized by oxidative stress, inflammation, and apoptosis. Curcumin has shown renoprotective effects in experimental models, but clinical evidence in cats with CKD remains limited.\nHYPOTHESIS/OBJECTIVES: Evaluate whether PO curcumin supplementation (80 mg/cat/day), administered with standard treatment, favorably modulates renal, oxidative, inflammatory, and apoptotic biomarkers in cats with International Renal Interest Society (IRIS) stage 3 CKD.\nANIMALS: Sixteen client-owned cats with IRIS stage 3 CKD.\nMETHODS: Prospective, randomized trial. Cats were allocated to medical treatment alone (MT; n = 8) or medical treatment plus curcumin (MT + C; n = 8). Curcumin was administered PO at 80 mg/cat/day in 2 divided doses for 60 days.\nRESULTS: Baseline renal biomarkers did not differ between groups. The primary outcome, serum symmetric dimethylarginine (SDMA) concentration, was significantly lower in the MT + C group than in the MT group on days 30, 45, and 60 (P < .01). Urinary protein-to-creatinine ratio decreased over time in the MT + C group and was lower than in the MT group at later time points. Total antioxidant status increased, whereas total oxidant status decreased in the MT + C group, with a significant between-group difference in total oxidant status on day 45. Findings for nuclear factor kappa B and caspase-3 were also consistent with decreased inflammatory and apoptotic activity in curcumin-treated cats.\nCONCLUSIONS AND CLINICAL IMPORTANCE: Curcumin supplementation was associated with improvement in SDMA and favorable changes in mechanistic biomarkers in cats with IRIS stage 3 CKD.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag138",
+    "authors": "İlgün M et al.",
+    "topic": "腎臓",
+    "date_added": "2026-07-17"
   }
 ]
