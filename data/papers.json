@@ -900,5 +900,16 @@
     "authors": "Wund Z et al.",
     "topic": "副腎",
     "date_added": "2026-07-18"
+  },
+  {
+    "pmid": "42473271",
+    "title": "Anaesthetic management of dogs with myxomatous mitral valve disease: results of a questionnaire survey of veterinary anaesthesiologists.",
+    "abstract": "OBJECTIVES: To describe current opinions and clinical preferences of veterinary anaesthesiologists regarding anaesthetic management of dogs with myxomatous mitral valve disease (MMVD).\nMATERIALS AND METHODS: This cross-sectional questionnaire survey presented American board-certified veterinary anaesthesiologists with seven standardised clinical scenarios involving nervous and potentially aggressive dogs with MMVD, of increasing severity (stage B1, B2 and C) and medication status. Respondents rated their level of agreement (5-point Likert scale) with the American Society of Anesthesiologists (ASA) physical status classification, pre-anaesthetic medication choices, use of ketamine, intraoperative fluid therapy rates and likelihood of using dobutamine. Responses were summarised as percentages of agreement (strongly agree and agree), neutrality or disagreement (strongly disagree and disagree).\nRESULTS: As MMVD severity increased, 21 respondents demonstrated a progressive shift towards higher ASA classifications and increased likelihood of cardiovascular support. Opioid-based premedication strategies were generally favoured, while combinations including acepromazine or ɑ-2 agonists were increasingly avoided in advanced disease stages. Ketamine use was more commonly supported in earlier disease stages and less frequently endorsed in stage C cases. Lower intraoperative fluid rates (2 to 3 mL/kg/hour) were preferred across scenarios, particularly in advanced MMVD. The likelihood of dobutamine use increased with disease severity.\nCLINICAL SIGNIFICANCE: This survey highlights substantive consensus among veterinary anaesthesiologists regarding cautious anaesthetic management of dogs with advanced MMVD. Disease stage strongly influencing drug selection, fluid therapy and cardiovascular support strategies. Understanding prevailing expert opinion may assist clinicians in decision-making for anaesthetic management of dogs with MMVD, particularly in the absence of definitive clinical guidelines.",
+    "journal": "J Small Anim Pract",
+    "year": "2026",
+    "doi": "10.1111/jsap.70180",
+    "authors": "Vettorato E et al.",
+    "topic": "MMVD",
+    "date_added": "2026-07-20"
   }
 ]
