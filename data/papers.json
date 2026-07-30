@@ -1021,5 +1021,71 @@
     "authors": "Chandler M",
     "topic": "その他",
     "date_added": "2026-07-27"
+  },
+  {
+    "pmid": "42529517",
+    "title": "Case Report: Multi-drug-resistant pneumonia and chronic enteropathy in a Bernadoodle with selective IgA deficiency.",
+    "abstract": "This case is the first to describe a selective immunoglobulin A deficiency (sIgAD) in a Bernadoodle with recurrent multi-drug-resistant (MDR) pneumonia and a chronic enteropathy. The patient experienced chronic coughing and regurgitation from puppyhood, and advanced imaging and endoscopic procedures documented MDR Bordetella bronchisceptica (Bb) and Mycoplasma infections. Serum immunology testing documented sIgAD. Clinical signs have been well-managed with long-term prophylactic antibiotics, anti-inflammatory steroids, probiotics, and hydrolyzed protein diet. Low serum IgA levels have not been previously documented in the Bernese Mountain dog nor designer cross breeds, such as the Bernadoodle.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1830827",
+    "authors": "Kovarsky M et al.",
+    "topic": "消化器",
+    "date_added": "2026-07-30"
+  },
+  {
+    "pmid": "42528249",
+    "title": "Liver histopathological findings and clinical associations in dogs undergoing cholecystectomy for gallbladder mucocele.",
+    "abstract": "Gallbladder mucocele is frequently associated with concurrent hepatic pathology. However, studies examining the clinical relevance of concurrent liver histopathological findings in this condition remain scarce. This retrospective study evaluated liver histopathological findings in dogs that underwent cholecystectomy with concurrent liver biopsy and investigated their associations with preoperative variables, postoperative alanine aminotransferase (ALT) kinetics, and overall survival. Vacuolar degeneration was the most common histopathological finding, followed by hepatic fibrosis and neutrophilic cholangiohepatitis. The severity of neutrophilic cholangiohepatitis was positively correlated with preoperative serum bilirubin concentrations and common bile duct diameter and was associated with reduced postoperative survival. Conversely, the severity of fibrosis was primarily associated with the duration of postoperative ALT elevation. These findings suggest that concurrent liver histopathology, particularly the severity of neutrophilic cholangiohepatitis, may provide clinically relevant information regarding preoperative cholestatic changes and postoperative outcomes in dogs that underwent cholecystectomy for gallbladder mucocele.",
+    "journal": "J Vet Med Sci",
+    "year": "2026",
+    "doi": "10.1292/jvms.26-0193",
+    "authors": "Murakami Y et al.",
+    "topic": "肝胆膵",
+    "date_added": "2026-07-30"
+  },
+  {
+    "pmid": "42528237",
+    "title": "Comparison of the effects of four commercially available prescription diet regimens on the fecal microbiome in healthy cats.",
+    "abstract": "Diet significantly influences the gut microbiota, with variations in macronutrient content (proteins, fats, and carbohydrates) and the presence of non-digestible carbohydrates, such as fiber, playing crucial roles in shaping microbial composition. This study investigated the effects of four commercial prescription diets (low-carbohydrate, weight-loss, high soluble fiber, and renal) on the fecal microbiome of five healthy domestic cats using a 4×4 Latin square design. Fecal samples were analyzed using Illumina sequencing of the bacterial 16S rRNA gene to assess bacterial community structure and diversity. Results showed that cats fed the renal diet (low protein, high carbohydrate, high fat) were associated with higher relative abundances of the phylum Actinobacteria, particularly Bifidobacterium. The low-carbohydrate diet was associated with higher relative abundances of Adlercreutzia, Collinsella, and Slackia. The high-soluble fiber diet was associated with a higher relative proportion of Streptococcaceae. In contrast, the renal diet was associated with lower relative abundances of Blautia and Erysipelotrichaceae. No significant differences were observed in alpha-diversity indices among diets, whereas beta-diversity analysis showed significant differences in microbial community composition among dietary groups. These findings suggest that dietary composition may influence the fecal microbiome in healthy cats. However, given the exploratory design and compositional nature of the sequencing data, these findings should be interpreted cautiously and considered hypothesis-generating.",
+    "journal": "J Vet Med Sci",
+    "year": "2026",
+    "doi": "10.1292/jvms.24-0494",
+    "authors": "Komiya T et al.",
+    "topic": "腎臓",
+    "date_added": "2026-07-30"
+  },
+  {
+    "pmid": "42526683",
+    "title": "Anti-tumour Activity of Canine Activated T-Cells and Cytokine-Induced Killer Cells against Canine Malignant Melanoma In Vitro.",
+    "abstract": "Adoptive cell transfer (ACT) immunotherapy represents a promising therapeutic approach for cancer treatment, utilising ex vivo-expanded immune effector cells such as T-lymphocytes, natural killer (NK) cells, and cytokine-induced killer (CIK) cells. CIK cells are characterised by dual T-cell and NK cell-like properties, exhibiting high proliferative capacity, cytolytic activity, and non-MHC-restricted tumour recognition. Canine malignant melanoma (CMM) is an aggressive neoplasm with significant translational relevance to human melanoma, yet the cytotoxic potential of CIK cells against CMM remains unexplored. This study aimed to expand and functionally characterise canine CIK and T-cells from healthy donors, comparing their cytotoxic activity against CMM cell lines in allogeneic and autologous settings. Peripheral blood mononuclear cells were isolated and expanded using standardised protocols with IFN-γ, anti-CD3/CD28 activation, and IL-2 supplementation. Flow cytometry confirmed successful expansion with CIK cells showing 85% NKp46 expression and T-cells reaching 91.96% CD8 expression, with comparable expansion folds (7.94 vs. 7.88). Cytotoxicity assays against seven CMM cell lines demonstrated robust anti-tumour activity for both effector populations, with CIK cells achieving 61.5% mean killing and T-cells 59.8% in allogeneic assays at 10:1 effector-to-target ratios. Pearson's correlation analysis revealed strong negative correlations between effector cell numbers and target viability (r = -0.960 for CIK cells; r = -0.790 for T cells). Cytokine profiling showed distinct secretion patterns, with T-cells producing a broader cytokine repertoire. These findings establish the feasibility and comparable efficacy of both CIK cells and T-cells against CMM, supporting their therapeutic development for canine melanoma immunotherapy.",
+    "journal": "Vet J",
+    "year": "2026",
+    "doi": "10.1016/j.tvjl.2026.106787",
+    "authors": "Conti LC et al.",
+    "topic": "免疫療法",
+    "date_added": "2026-07-30"
+  },
+  {
+    "pmid": "42526494",
+    "title": "Clinically important abnormalities are common in senior cats perceived to be healthy by owners.",
+    "abstract": "OBJECTIVE: To describe physical examination findings, diagnostic abnormalities, and owner-reported assessments of senior cats perceived as healthy by their owners, and to evaluate agreement between owner perceptions and objective findings to inform diagnostic prioritization within a spectrum-of-care framework.\nMETHODS: Client-owned cats aged ≥ 12 years presenting to the University of Wisconsin-Madison School of Veterinary Medicine were prospectively enrolled between 2022 and 2024. Cats were included if their owners reported good health; cats with stable, chronic conditions were also eligible. Owner questionnaires, examinations, and diagnostic testing were performed. Prevalence of abnormalities and agreement between owner perceptions and findings were assessed.\nRESULTS: 129 cats were included in the study. All cats had abnormalities on physical examinations, most commonly dental (129 of 129 [100%]) and orthopedic disease (63 of 81 [77.8%]). Diagnostic testing revealed a high prevalence of previously unrecognized disease, including chronic kidney disease (49 of 80 [61.3%]), hypertension (54 of 56 [96.4%]), and hyperthyroidism (11 of 17 [64.7%]). Owner-reported mobility scores were not associated with orthopedic abnormalities. Although increased urination was associated with chronic kidney disease, 75.6% (34 of 45) of affected cats had no owner-reported change and only 1.3% (1 of 78) had reported increased thirst. Physical examination, urine specific gravity, renal parameters, total T4, and blood pressure were most informative for disease detection.\nCONCLUSIONS: Clinically important abnormalities are common in apparently healthy senior cats. Reliance on owner-reported changes underestimated disease burden. Physical examination revealed most abnormalities, with urine specific gravity, renal values, total T4, and blood pressure abnormalities being prevalent.\nCLINICAL RELEVANCE: These findings support routine screening and a prioritized diagnostic approach, particularly when constraints limit comprehensive evaluation.",
+    "journal": "J Am Vet Med Assoc",
+    "year": "2026",
+    "doi": "10.2460/javma.26.04.0326",
+    "authors": "Herrera K et al.",
+    "topic": "甲状腺",
+    "date_added": "2026-07-30"
+  },
+  {
+    "pmid": "42525883",
+    "title": "Survival outcomes of dogs with multicentric lymphoma treated with sequential half-body radiotherapy and L-CHOP without maintenance chemotherapy.",
+    "abstract": "BACKGROUND: L-CHOP (L-asparaginase, cyclophosphamide, doxorubicin, vincristine, prednisone) is the standard therapy for lymphoma in dogs, but relapse and limited long-term survival are common. Given the radiosensitivity of lymphoma, sequential half-body radiotherapy (HBRT) has been investigated to improve outcomes.\nHYPOTHESIS/OBJECTIVES: Evaluate progression-free survival (PFS), overall survival (OS), and adverse events in dogs treated with a no-maintenance L-CHOP protocol combined with low-dose-rate (LDR, 6 Gy; 8-14 cGy/min) HBRT compared to L-CHOP alone.\nANIMALS: Client-owned dogs with intermediate- to high-grade multicentric lymphoma treated with L-CHOP-LDR-HBRT or a 6-month L-CHOP protocol (controls).\nMETHODS: Medical records were retrospectively reviewed in this case-control study. Adverse events were graded using VCOG-CTCAE v2 (Veterinary Cooperative Oncology Group-Common Terminology Criteria for Adverse Events guidelines) criteria.\nRESULTS: Seventy-five dogs received L-CHOP-LDR-HBRT and were compared with 115 controls. Median PFS and OS for the L-CHOP-LDR-HBRT group were 532 days (95% confidence interval [CI], 389-782) and 752 days (95% CI, 526-963), significantly longer than in controls (296 days [95% CI, 260-331] and 457 days [95% CI, 382-553], respectively, P < .0001). A delay in irradiating the caudal half negatively affected PFS and OS. Adverse event data were available for 30 dogs treated with L-CHOP-LDR-HBRT; most were low-grade, with grade 3 and 4 toxicities occurring in 4.5% of all administered treatments. One dog required hospitalization after HBRT. Dose reductions and treatment delays were observed in 39 and 74 instances, respectively, over the 28-week protocol in this cohort.\nCONCLUSIONS AND CLINICAL IMPORTANCE: Combining L-CHOP with LDR-HBRT, without maintenance chemotherapy, might substantially extend PFS and OS over L-CHOP alone in dogs with multicentric lymphoma, with predominantly mild, manageable toxicities.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag144",
+    "authors": "Colosi J et al.",
+    "topic": "リンパ腫",
+    "date_added": "2026-07-30"
   }
 ]
