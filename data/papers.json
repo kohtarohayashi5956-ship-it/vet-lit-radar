@@ -1087,5 +1087,16 @@
     "authors": "Colosi J et al.",
     "topic": "リンパ腫",
     "date_added": "2026-07-30"
+  },
+  {
+    "pmid": "42532333",
+    "title": "Deep Learning for Canine Cardiac Radiography: A Comprehensive Review of Automated Vertebral Heart Score Estimation.",
+    "abstract": "Myxomatous mitral valve disease (MMVD) is the most common acquired cardiac disorder in dogs and represents a large proportion of cases encountered in small animal veterinary practice. Thoracic radiography is routinely used to evaluate cardiac enlargement, with the vertebral heart score (VHS) serving as a widely accepted radiographic measurement. However, VHS assessment depends on manual landmark identification and measurement, which can result in variation between observers. This review summarizes recent advances in deep learning methods developed for automated VHS estimation, including convolutional neural networks, EfficientNet models, and hybrid architectures incorporating transformer-based components. A systematic search of three major scientific databases, followed by backward citation screening, identified 3,729 records. After eligibility assessment, 94 studies met the inclusion criteria, and 17 representative studies were selected for detailed evaluation. The reviewed studies were compared with respect to landmark localization, feature extraction strategies, predictive performance, and their ability to generalize across different datasets. Among the reported approaches, EfficientNet-B3 and EfficientNet-B7 demonstrated consistently strong performance for landmark regression and VHS prediction. The literature also suggests that transfer learning has contributed substantially to model performance, particularly where annotated veterinary imaging datasets are limited. Despite encouraging results, differences in dataset characteristics, annotation protocols, and the limited availability of multi-centre validation continue to restrict broader clinical implementation. Future work should focus on improving dataset diversity, model interpretability, and external validation to support the reliable integration of automated VHS estimation into veterinary practice.",
+    "journal": "Vet J",
+    "year": "2026",
+    "doi": "10.1016/j.tvjl.2026.106797",
+    "authors": "Buch H et al.",
+    "topic": "MMVD",
+    "date_added": "2026-07-31"
   }
 ]
