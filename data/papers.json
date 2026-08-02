@@ -1098,5 +1098,16 @@
     "authors": "Buch H et al.",
     "topic": "MMVD",
     "date_added": "2026-07-31"
+  },
+  {
+    "pmid": "42542129",
+    "title": "Serum iodine concentrations in euthyroid dogs and dogs with autoimmune thyroiditis and hypothyroidism.",
+    "abstract": "OBJECTIVE: To characterize the total and inorganic serum iodine concentrations of canines with varying thyroid disease status.\nMETHODS: Leftover serum samples submitted to the Michigan State University Veterinary Diagnostic Laboratory for diagnostic thyroid panel screening between January and June 2023 were utilized for this retrospective study. Thyroglobulin autoantibody was used as a marker for autoimmune thyroiditis. Inorganic and total iodine were measured via an inductively coupled plasma-mass spectrometer. An estimated reference interval was calculated for inorganic and total iodine using results from euthyroid dogs.\nRESULTS: Iodine concentrations were measured in dogs with autoimmune thyroiditis (n = 101) and hypothyroidism (97) and euthyroid dogs (86). Serum iodine concentrations ranged widely but were not increased in dogs with autoimmune thyroiditis or hypothyroidism in comparison to euthyroid animals. Concentrations of both total and inorganic iodine were statistically different between dogs suffering from autoimmune thyroiditis and those with hypothyroidism.\nCONCLUSIONS: Elevated serum iodine is not associated with autoimmune thyroiditis or hypothyroidism in dogs.\nCLINICAL RELEVANCE: The concentration of iodine alone in canine serum is not a marker for thyroid disease in dogs.",
+    "journal": "Am J Vet Res",
+    "year": "2026",
+    "doi": "10.2460/ajvr.26.05.0204",
+    "authors": "Egbert RJ et al.",
+    "topic": "甲状腺",
+    "date_added": "2026-08-02"
   }
 ]
