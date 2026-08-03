@@ -1109,5 +1109,27 @@
     "authors": "Egbert RJ et al.",
     "topic": "甲状腺",
     "date_added": "2026-08-02"
+  },
+  {
+    "pmid": "42544949",
+    "title": "EXPRESS: Evaluation of the clinical course of immune-mediated polyneuropathy in cats following treatment with human intravenous immunoglobulins.",
+    "abstract": "OBJECTIVES: Immune-mediated polyneuropathy (IMPN) manifests with generalized lower motor neuron (LMN) weakness and a remittent or relapsing clinical course. Evidence-based treatment recommendations for severely or chronically affected cats are limited. The objective of this study was to evaluate the clinical course and outcome of cats with IMPN following treatment with human intravenous immunoglobulins (hIVIg).\nMETHODS: Medical records from two veterinary referral hospitals were reviewed (2018-2025) for cats with IMPN treated with hIVIg. Cats were treated with 1-2 g/kg hIVIg divided over 2-4 days (0.5 g/kg/day).Clinical information, diagnostic findings, treatment details and short- and long-term follow-up were evaluated retrospectively. Follow-up information was obtained from medical records and owner communication. Minimum follow-up duration was 8 months (8-51 months; median 17 months).Clinical course (partial and complete recovery, relapses) was compared between cats with acute/recent onset (4 cats) or chronic presentation (5 cats).\nRESULTS: Eight of nine cats exhibited clinical improvement following hIVIg administration, achieving ambulatory status (walking >5 steps) within a median of 4 days (2-8 days). One cat failed to respond to hIVIg but improved after subsequent prednisolone therapy. For the overall cohort, the median time to complete recovery was 20 days, while the median time to partial recovery was 14 days. Relapses occurred in four cats, but weakness was less severe, and all cats recovered again. The remaining five cats remained relapse-free.\nCONCLUSIONS AND RELEVANCE: Human IVIg was well tolerated in this small cohort, and rapid clinical improvement was observed in most treated cats. These findings suggest that hIVIg may be considered as a treatment option in selected cats with IMPN, including those with acute and chronic presentations. Larger prospective studies, including comparison with no treatment or corticosteroids, are warranted to further assess its efficacy.",
+    "journal": "J Feline Med Surg",
+    "year": "2026",
+    "doi": "10.1177/1098612X261478277",
+    "authors": "Schmitz AK et al.",
+    "topic": "その他",
+    "date_added": "2026-08-03"
+  },
+  {
+    "pmid": "42544488",
+    "title": "Retrospective evaluation of C-reactive protein for discriminating between lower urinary tract infections and acute pyelonephritis in dogs.",
+    "abstract": "BACKGROUND: The role of C-reactive protein (CRP) in differentiating pyelonephritis from other types of urinary tract infection in dogs is not well defined.\nHYPOTHESIS/OBJECTIVES: Compare serum CRP concentrations at diagnosis in dogs with acute pyelonephritis (APy), acute prostatitis (APr), and bacterial cystitis (BC). Serum CRP concentration is hypothesized to be higher in APy and APr than in BC.\nANIMALS: One hundred fifteen client-owned dogs were included: 56 with BC, 32 with APy, 23 with APr, and 4 with both APy and APr.\nMETHODS: Retrospective observational study. Dogs with positive urine culture were included and divided into 3 groups (BC, APy, and APr), based on medical history. Dogs with comorbidities potentially affecting CRP concentrations and dogs with subclinical bacteriuria were excluded. Data were compared among groups, and the diagnostic accuracy of CRP was assessed post-hoc.\nRESULTS: Dogs with BC had lower median CRP (1.04 mg/dL; range, 0.08-7.21) than those with APy (23.65 ± 11.96 mg/dL; median difference [MD], 22.9 mg/dL; 95% CI, 18.2-26.5; P < .001) and APr (20.9 mg/dL; range, 5.93-55.97; MD, 19.9 mg/dL; 95% CI, 10.7-25.6; P < .001), whereas APy and APr did not differ (MD, -3.0 mg/dL; 95% CI, -10.6 to 4.4; P > .99). Serum CRP concentration had high discriminative ability to differentiate dogs with BC and APy, APr, or both (area under the curve [AUC], 0.99; 95% CI, 0.99-1).\nCONCLUSIONS AND CLINICAL IMPORTANCE: Serum CRP concentration evaluated at diagnosis, when highly increased, may help differentiate BC from APy in dogs without concurrent inflammatory diseases.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag147",
+    "authors": "Fidanzio F et al.",
+    "topic": "その他",
+    "date_added": "2026-08-03"
   }
 ]
