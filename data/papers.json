@@ -1142,5 +1142,49 @@
     "authors": "Akiyoshi M et al.",
     "topic": "腎臓",
     "date_added": "2026-08-04"
+  },
+  {
+    "pmid": "42561146",
+    "title": "Clinical and imaging findings after antiviral treatment in cats with presumptive neurologic feline infectious peritonitis: 9 cases (2020-2024).",
+    "abstract": "BACKGROUND: Limited information is available regarding comparison between clinical outcomes and post-treatment imaging findings in cats with the neurologic form of feline infectious peritonitis (FIP).\nHYPOTHESIS/OBJECTIVE: Describe post-treatment imaging findings and clinical outcomes in cats with neurologic FIP treated with antiviral drugs.\nANIMALS: Nine cats with a presumptive diagnosis of neurologic FIP undergoing advanced imaging before and after antiviral treatment (GS-441524, remdesivir, or both).\nMETHODS: Medical records from 8 institutions were reviewed retrospectively (January 1, 2020 to December 31, 2024). Included cats had pre- and post-treatment magnetic resonance imaging (MRI) or computed tomography (CT) studies. Treatments consisted of GS-441524 (6/9), remdesivir (2/9), or both (1/9). All cats received corticosteroids. Follow-up imaging was performed at variable time points after completion of antiviral treatment.\nRESULTS: Central vestibular disease was the most common neuroanatomical localization (6/9). Obstructive hydrocephalus was present in all cases on initial and follow-up imaging. Cerebrospinal fluid analysis, available in 4 cats, included pleocytosis (neutrophilic in 3/4; lymphocytic in 1/4). Complete clinical recovery occurred in 5/9 cats. Four of 9 had residual neurologic deficits and 2/9 experienced recurrence of neurologic signs. None showed complete resolution of imaging abnormalities. Imaging changes did not consistently reflect clinical outcomes. In 4/9 cats, progression of obstructive hydrocephalus was observed, including cases with clinical improvement.\nCONCLUSIONS AND CLINICAL IMPORTANCE: Clinical improvement is not always consistent with radiologic resolution in cats with neurologic FIP treated with antivirals. Post-treatment MRI findings, particularly persistent or worsening obstructive hydrocephalus, should be interpreted alongside clinical status rather than as a sole indicator of therapeutic response.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag162",
+    "authors": "Santos Hernández C et al.",
+    "topic": "FIP",
+    "date_added": "2026-08-07"
+  },
+  {
+    "pmid": "42561145",
+    "title": "Survival of dogs with glomerular disease in Europe: insights from the European Veterinary Renal Pathology Service.",
+    "abstract": "BACKGROUND: Although glomerular disorders contribute to chronic kidney disease in dogs, few studies have evaluated the usefulness of renal biopsy for predicting outcome.\nHYPOTHESIS/OBJECTIVES: Investigate morphologic diagnoses, clinicopathological findings, comorbidities, treatment, and their associations with survival in dogs after renal biopsy.\nANIMALS: One hundred ten client-owned dogs with glomerular disease.\nMETHODS: Retrospective cohort study of medical records from the European Veterinary Renal Pathology Service (2018-2023). Data were obtained before referral for renal biopsy and during follow-up. Survival analysis was performed using the Kaplan-Meier method, followed by log-rank tests. Relative risk was calculated using contingency tables.\nRESULTS: Dogs were classified into 3 groups: immune complex glomerulonephritis (ICGN) (61 dogs, 56%), non-ICGN (39 dogs, 35%), and juvenile nephropathy (JN) (10 dogs, 9%). Survival was longer in ICGN dogs than non-ICGN (mean ± SEM: 951 ± 78 days vs. 613 ± 92 days; P = .02), with no difference versus JN (1004 ± 169). No survival differences were observed among the morphological subtypes of ICGN. Dogs with amyloidosis had shorter survival than all other morphologic non-ICGN subtypes (384 ± 95 vs. 650 ± 56 days, P = .02). Risk of a creatinine increase of ≥50% during follow-up was greater in the JN group (RR = 2.78; 95% CI, 1.60-4.84; P = .03). Reduction in proteinuria ≥50% during follow-up did not differ between groups. Immunosuppressive treatment was more frequently administered to ICGN dogs (P < .001).\nCONCLUSIONS AND CLINICAL IMPORTANCE: Immune complex glomerulonephritis dogs had better outcomes and slower disease progression than non-ICGN and JN. Proteinuria decreased by approximately 50% within each group over time; however, the retrospective design precludes conclusions regarding the effect of antiproteinuric treatment.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag161",
+    "authors": "Zini E et al.",
+    "topic": "腎臓",
+    "date_added": "2026-08-07"
+  },
+  {
+    "pmid": "42561144",
+    "title": "Prevalence of disease in 549 older cats undergoing health screening at two United Kingdom-based veterinary clinics.",
+    "abstract": "BACKGROUND: Risk of some diseases of cats increases with age, including chronic kidney disease (CKD) and hyperthyroidism, but clinical signs can be dismissed by caregivers as age-related changes.\nHYPOTHESIS/OBJECTIVES: Quantify the prevalence of disease and other major clinical findings in older cats.\nANIMALS: Data from cats (≥8 years old) that underwent routine health screening at 2 United Kingdom (UK)-based primary care veterinary clinics over a 52-month period (October 2, 2018 to February 14, 2023) were analyzed.\nMETHODS: At screening visits, history, physical examination, and blood tests for plasma biochemistry with or without plasma total thyroxine concentration were performed. When possible, systolic blood pressure measurement (97.1% of cases; Doppler method) and urinalysis (41.3% of cases; 98.2% by cystocentesis; and bacterial culture if indicated based on sediment examination) were performed.\nRESULTS: A total of 549 cats were screened with a median age of 13.5 (IQR: 11.3-15.8) years old. Diagnoses of hyperthyroidism, azotemic CKD, and hypertension were made in 89/464 (19.2%; 95% CI, 15.9%-23.0%), 62/542 (11.4%; 95% CI, 9.0%-14.4%), and 37/524 (7.1%; 95% CI, 5.2%-9.6%) of cats, respectively. Severe dental disease was present in 32/522 (6.1%; 95% CI, 4.4%-8.5%) and bacteriuria was identified in 22/227 (9.7%; 95% CI, 6.5%-14.2%) of urine samples. Other diagnoses included suspected neoplasia (8 cats), diabetes mellitus (8 cats), and suspected primary gastrointestinal disease (4 cats).\nCONCLUSIONS AND CLINICAL IMPORTANCE: Routine medical health screening in older cats is useful in detecting diseases, many of which would benefit from prompt veterinary intervention. These results can assist veterinarians in explaining the value of health screening to cat caregivers.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag157",
+    "authors": "Bestwick JP et al.",
+    "topic": "消化器",
+    "date_added": "2026-08-07"
+  },
+  {
+    "pmid": "42558402",
+    "title": "Taurine in canine physiology and metabolic regulation.",
+    "abstract": "Taurine is a conditionally essential amino acid in dogs and plays a fundamental role in maintaining physiological homeostasis and metabolic health. This review systematically summarizes the biosynthesis, tissue distribution, and core physiological functions of taurine in dogs, and provides an in-depth analysis of its regulatory mechanisms across multiple organ systems, including the myocardium, retina, nervous system, reproductive system, and lipid metabolism. Particular emphasis is placed on the mechanistic links between taurine deficiency and dilated cardiomyopathy, a prevalent and clinically significant cardiac disorder in dogs. In addition, major determinants influencing taurine metabolic homeostasis are examined, with particular attention to genetic variability among breeds, differences related to body size, changes across physiological stages, and the modulatory effects of dietary composition. Accumulating evidence indicates substantial inter-individual variability in endogenous taurine synthesis capacity in dogs, which is generally insufficient to meet dynamic physiological demands under various conditions. Consequently, exogenous dietary supplementation has emerged as a critical strategy for maintaining taurine homeostasis and supporting canine health. By integrating current advances in taurine-related canine nutrition and physiology, this review provides a scientific framework for the development of precision nutritional strategies, the prevention and management of metabolic disorders, and the formulation of functional dog foods, while highlighting key knowledge gaps and future research directions in this field.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1812065",
+    "authors": "Wang P et al.",
+    "topic": "心筋症",
+    "date_added": "2026-08-07"
   }
 ]
