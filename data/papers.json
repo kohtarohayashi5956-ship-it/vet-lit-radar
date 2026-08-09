@@ -1208,5 +1208,16 @@
     "authors": "Kadowaki K et al.",
     "topic": "肝胆膵",
     "date_added": "2026-08-08"
+  },
+  {
+    "pmid": "42569263",
+    "title": "Multicentre aortic thromboembolism thrombolysis evaluation in a retrospective study of 183 cats: the MATTERS study.",
+    "abstract": "INTRODUCTION: Although intravenous tissue plasminogen activator (TPA) is a mainstream treatment for humans with acute ischaemic stroke, it is uncommonly used in feline arterial thromboembolism (FATE). The purpose of this study was to retrospectively compare clinical reperfusion, functional recovery, complications, and survival in a large multicentre FATE population treated with or without systemic thrombolysis.\nMETHODS: A retrospective evaluation of electronic medical records from two veterinary hospitals (2007-2020) was conducted. The inclusion criteria were a clinical diagnosis of FATE or ultrasound visualization of distal aortic thrombi. 'Reperfusion' was defined as a clinician-detected pulse if absent at admission, and 'functional recovery' as voluntary motor activity with self-ambulatory status. After exclusion of cats euthanized at admission, statistical analysis was used to compare TPA-treated and non-TPA-treated cats.\nRESULTS: A total of 183 cats were identified, with 115 available for treatment comparison after the exclusion of 8 with incomplete records and 68 euthanized within 6 h of presentation (early euthanasia rate, 37%). The groups were homogeneous at the time of admission. The in-hospital clinical reperfusion rate was significantly higher in the TPA group than in the non-TPA group (54% vs. 20%, p < 0.001). Functional recovery was more frequent in the TPA group (36% vs. 14%; p = 0.008). Acute kidney injury and hyperkalaemia rates did not differ between groups (10% vs. 3%; p = 0.237; 14% vs. 8%; p = 0.359, respectively). Survival to discharge was similar in both groups (34% vs. 35%, p > 0.999). Sudden death, defined as unexpected death or peracute cardiovascular collapse during hospitalization, occurred more frequently in the TPA group (46% of all TPA-treated cats and 70% of non-survivors) than in the non-TPA group (19 and 29%, respectively; p = 0.002).\nCONCLUSION: Thrombolysis with TPA was associated with significantly higher in-hospital rates of clinical reperfusion and functional recovery, with no statistically significant increase in acute kidney injury (AKI) or hyperkalaemia. Survival to discharge did not differ significantly between groups; however, the higher rate of sudden death in treated cats warrants careful monitoring for reperfusion-related complications, including hyperkalaemia. Admission rectal temperature has emerged as a simple prognostic marker for reperfusion, functional recovery, and survival, with a consistent optimal threshold of 35.9 °C. Prospective controlled studies are required to confirm these findings.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1845133",
+    "authors": "Cambournac M et al.",
+    "topic": "腎臓",
+    "date_added": "2026-08-09"
   }
 ]
