@@ -1241,5 +1241,38 @@
     "authors": "Sun Z et al.",
     "topic": "心筋症",
     "date_added": "2026-08-10"
+  },
+  {
+    "pmid": "42578319",
+    "title": "Retrospective Characterization of Clot Waveform Analysis in Canine Immune-Mediated Hemolytic Anemia Using the Turbidimetric ACL-TOP 300 Analyzer (2018-2022): 35 Cases.",
+    "abstract": "OBJECTIVE: To characterize clot waveform analysis (CWA) parameters (delta and derivative values), alongside standard coagulation parameters (prothrombin time [PT], activated partial thromboplastin time [aPTT], and fibrinogen) in dogs diagnosed with immune-mediated hemolytic anemia (IMHA) using a turbidimetric optical clot detection-based analyzer.\nDESIGN: Retrospective study from January 2018 to October 2022.\nSETTING: University teaching hospital.\nANIMALS: Thirty-five client-owned dogs diagnosed with IMHA.\nMEASUREMENTS AND MAIN RESULTS: CWA parameters were characterized by an increased PT delta in 35 of 35 dogs with IMHA (100%) and an increased PT first derivative, aPTT delta, and aPTT second derivative in 34 of 35 (97.1%). Compared with healthy controls, the PT was prolonged and the fibrinogen concentration was increased in most of the IMHA cohort, while the aPTT fell within the reference interval. Of the 18 patients that had D-dimers performed, 17 (94.4%) measured above the reference interval.\nCONCLUSIONS: CWA of patients with IMHA revealed increased parameters compared with the reference intervals, consistent with a hypercoagulable state. This measurement may be helpful in identifying patients that may benefit from antithrombotic therapy.",
+    "journal": "J Vet Emerg Crit Care (San Antonio)",
+    "year": "2026",
+    "doi": "10.1111/vec.70145",
+    "authors": "Richter LG et al.",
+    "topic": "IMHA/ITP",
+    "date_added": "2026-08-11"
+  },
+  {
+    "pmid": "42576538",
+    "title": "Pituitary tumour shrinkage and diabetic remission in two cats with Cushing syndrome treated with cabergoline.",
+    "abstract": "We describe two cats with diabetes mellitus and Cushing's syndrome. Diabetes mellitus was initially managed with insulin glargine (Lantus; Sanofi-Aventis, Paris, France), nutritional therapy and continuous glucose monitoring. Hypercortisolism was suspected based on severe hypertension (Case 1), and insulin resistance in combination with typical clinical features of Cushing's syndrome (Case 2). Endocrine testing revealed non-suppressible cortisol concentrations on low-dose-dexamethasone suppression test, elevated endogenous adenocorticotrophic hormone (ACTH) concentration and pituitary enlargement on computed tomography. Cabergoline (Holiday®, Holliday-Scott S.A., Buenos Aires, Argentina) was initiated at a dose of 10 μg/kg po every 48 hours targeting both the pituitary tumour and hypercortisolism. In Case 2, the cabergoline dosage was gradually increased to a final dose of 10 μg/kg po every 12 hours. Both cats achieved diabetic remission within 1 and 6 months of treatment, respectively. Serial monitoring demonstrated a decrease in endogenous ACTH concentrations and a reduction in pituitary volume of 29% of baseline (Case 1) and of 52% of baseline (Case 2) after 8 months of treatment. These findings suggest that cabergoline may be a potential medical treatment option in cats with pituitary-dependent hypercortisolism.",
+    "journal": "J Small Anim Pract",
+    "year": "2026",
+    "doi": "10.1111/jsap.70185",
+    "authors": "Teyssandier S et al.",
+    "topic": "副腎",
+    "date_added": "2026-08-11"
+  },
+  {
+    "pmid": "42575087",
+    "title": "Assessment of gastrointestinal health and the coagulation system in dogs with right-sided heart disease: an exploratory study.",
+    "abstract": "BACKGROUND: Right-sided heart disease (RHD) affects gastrointestinal function and hemostasis.\nHYPOTHESIS/OBJECTIVES: Dogs with progressively severe RHD have impaired gastrointestinal function and altered hemostasis.\nANIMALS: Eighteen client-owned dogs with RHD; group 1: 6 dogs without hepatic venous congestion, group 2: 6 dogs with hepatic venous congestion but no ascites, and group 3: 6 dogs with ascites.\nMETHODS: Prospective, cross-sectional, exploratory study. Dogs underwent routine blood, urine, and fecal testing, measures of gastrointestinal health, coagulation testing, C-reactive protein (CRP), N-terminal pro-B-type natriuretic peptide (NT-proBNP), and comprehensive echocardiography.\nRESULTS: Right atrial area higher from groups 1 to 3 (1.34 ± 0.66, 2.48 ± 1.33, 3.1 ± 0.93 cm2/kg0.71; P = .02). NT-proBNP (median; range) higher across group 1 (821; 493-3016 pmol/L), group 2 (1694; 1125-8117 pmol/L), and group 3 (5165; 3492-10 000 pmol/L) (P = .006). Measures of gastrointestinal dysfunction including serum methylmalonic acid (group 1 = 857.5 ± 322.6; group 2 = 1031.1 ± 222.5; and group 3 = 1460.5 ± 516.3 nmol/L; P = .037) and intestinal fatty acid binding protein (group 1 median = 9.3, range = 5.6-11.5; group 2 = 10.1, 8.0-20.4; and group 3 = 13.8, 10.3-17.5 ng/mL) were worse in more severely affected dogs (P = .032). Hyperfibrinolysis was observed with worsening RHD (none in group 1, 2 in group 2, and 3 in group 3). Activated partial thromboplastin time was higher with disease severity. No difference was detected among groups in cobalamin, folate, or CRP (all P > .05).\nCONCLUSIONS AND CLINICAL IMPORTANCE: Clinicians should be aware of derangements within the gut-heart axis and coagulation system when managing dogs with RHD.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag160",
+    "authors": "Shropshire S et al.",
+    "topic": "消化器",
+    "date_added": "2026-08-11"
   }
 ]
