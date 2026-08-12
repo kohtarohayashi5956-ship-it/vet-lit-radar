@@ -1274,5 +1274,38 @@
     "authors": "Shropshire S et al.",
     "topic": "消化器",
     "date_added": "2026-08-11"
+  },
+  {
+    "pmid": "42585566",
+    "title": "Endoscopic reduction of true gastrogastric intussusception in a dog.",
+    "abstract": "A 9-year-old neutered male Toy Poodle was diagnosed with true gastrogastric intussusception based on clinical signs, imaging studies, and endoscopic findings. The dog presented with vomiting, hematochezia, and decreased activity. Abdominal ultrasonography identified edematous thickening of the gastric wall and invagination of the gastric fundus into the gastric body. The diagnosis was confirmed by computed tomography (CT). Endoscopic examination clearly identified the intussuscepted portion of the gastric fundus, which was successfully reduced without surgery using insufflation. Histopathologic analysis of gastrointestinal biopsy samples identified chronic gastritis, enteritis, and colitis. After the procedure, the dog remained free of recurrence through day 216. This case emphasizes the value of early ultrasonographic diagnosis and successful endoscopic reduction in the management of true gastrogastric intussusception.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag173",
+    "authors": "Ogawana T et al.",
+    "topic": "消化器",
+    "date_added": "2026-08-12"
+  },
+  {
+    "pmid": "42583834",
+    "title": "Causes and Outcome of Systemic Inflammatory Response Syndrome in Dogs: An Observational Study of 172 Cases.",
+    "abstract": "OBJECTIVE: To evaluate the clinical characteristics, underlying diseases, organ dysfunctions, and survival of dogs with systemic inflammatory response syndrome (SIRS) or sepsis.\nDESIGN: Prospective observational study from January to December, 2023.\nSETTING: Single-center, veterinary university teaching hospital.\nANIMALS: One hundred sixty-six dogs; six dogs with distinct cases of SIRS were included twice (172 cases).\nINTERVENTIONS: None.\nMEASUREMENTS AND MAIN RESULTS: Dogs were included if they met two or more of the four SIRS criteria (hypothermia or fever; tachycardia; tachypnea; leukocytosis, leukopenia, or left shift) and had a disease causing systemic inflammation. Cases were categorized into groups (G) \"nonseptic SIRS\" (G1: n = 73), \"sepsis\" (G2: n = 92), \"sepsis without organ dysfunction\" (G2a: n = 25), \"severe sepsis\" (G2b: n = 59; dysfunction of one or more organ systems), \"septic shock\" (G2c: n = 8; hypotension despite adequate fluid resuscitation), and \"SIRS of unclear origin\" (G3: n = 7). The most common causes of SIRS/sepsis were gastrointestinal diseases (n = 61 [35.5%]), vector-borne diseases (n = 28 [16.3%]), and neoplasia (n = 22 [12.8%]). There was dysfunction of one or more organs in 114 cases (66.3%). The coagulation system was most frequently affected (n = 78 [45.3%]), followed by the cardiovascular system (n = 47 [27.3%]), respiratory tract (n = 14 [8.1%]), kidney (n = 13 [7.6%]), and liver (n = 6 [3.5%]). Overall, 128 of 165 cases (77.6%) survived until discharge (short-term), and 116 of 159 (73%) survived ≥4 weeks after discharge (long-term). Differences in outcome were found between G1 and G2 (short-term: p = 0.046, long-term: p = 0.015), with dogs in G2 having better survival. Short-term mortality was higher in cases with one or more organ dysfunctions than in cases without (p = 0.031).\nCONCLUSIONS: SIRS can be triggered by a variety of diseases in dogs. Strict and regular monitoring is important for early detection of organ dysfunction.",
+    "journal": "J Vet Emerg Crit Care (San Antonio)",
+    "year": "2026",
+    "doi": "10.1111/vec.70143",
+    "authors": "Knopf MA et al.",
+    "topic": "消化器",
+    "date_added": "2026-08-12"
+  },
+  {
+    "pmid": "42581420",
+    "title": "EXPRESS: Positional Impact on Ocular Lens and Thyroid Radiation Doses During Feline Cranial CT: A TLD Study of 70 Cases.",
+    "abstract": "OBJECTIVES: The increasing use of computed tomography (CT) in feline medicine necessitates the optimization of radiation protocols to adhere to ALARA principles. This prospective study aimed to evaluate the impact of patient positioning dorsoventral (DV) versus ventrodorsal (VD) on radiation doses absorbed by the ocular lenses and the thyroid gland during feline cranial CT.\nMETHODS: Seventy cats were divided into two equal groups (DV, n = 35; VD, n = 35). Radiation doses were measured using thermoluminescent dosimeters (TLD-100) placed at the anatomical projections of the target organs.\nRESULTS: While no statistically significant difference was observed in ocular lens doses between the groups (p > 0.05), VD positioning resulted in a 24.4% reduction in the mean radiation dose absorbed by the thyroid gland compared to the DV position (1.33 ± 0.17 mGy vs. 1.76 ± 0.35 mGy, respectively; p = 4.97 × 10⁻⁹). This reduction is attributed to the \"natural shielding\" effect provided by the dorsal axial skeleton and epaxial muscles in the VD position.\nCONCLUSIONS AND RELEVANCE: VD positioning offers a significant dosimetric advantage for protecting the thyroid gland without requiring additional equipment or compromising diagnostic quality. Adopting the VD position as a routine standard in feline cranial CT is recommended to minimize radiation exposure to the thyroid gland.",
+    "journal": "J Feline Med Surg",
+    "year": "2026",
+    "doi": "10.1177/1098612X261478797",
+    "authors": "Parlak K et al.",
+    "topic": "甲状腺",
+    "date_added": "2026-08-12"
   }
 ]
