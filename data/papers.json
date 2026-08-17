@@ -1395,5 +1395,16 @@
     "authors": "Saint-Pierre LM et al.",
     "topic": "消化器",
     "date_added": "2026-08-15"
+  },
+  {
+    "pmid": "42604803",
+    "title": "A dog with suspected hypothalamic hypoadrenocorticism classified by corticotropin-releasing hormone (CRH) testing.",
+    "abstract": "A 7-year-old intact male toy poodle presented with abdominal distension, polydipsia, and polyuria. Abdominal ultrasonography revealed bilateral adrenal atrophy, and adrenocorticotropic hormone (ACTH) stimulation testing showed persistently low cortisol concentrations with concurrent low endogenous ACTH, indicating central hypoadrenocorticism. To localize dysfunction within the hypothalamic-pituitary-adrenal axis, a corticotropin-releasing hormone (CRH) stimulation test was performed. Endogenous ACTH increased markedly after CRH administration, whereas cortisol remained undetectable, demonstrating preserved pituitary responsiveness and supporting a diagnosis of hypothalamic hypoadrenocorticism. Treatment of hypoadrenocorticism with prednisolone alone resulted in long-term clinical stabilization without electrolyte abnormalities for over one year. To our knowledge, this is the first canine report classifying suspected hypothalamic hypoadrenocorticism using CRH stimulation testing.",
+    "journal": "J Vet Med Sci",
+    "year": "2026",
+    "doi": "10.1292/jvms.26-0056",
+    "authors": "Komiya T et al.",
+    "topic": "副腎",
+    "date_added": "2026-08-17"
   }
 ]
