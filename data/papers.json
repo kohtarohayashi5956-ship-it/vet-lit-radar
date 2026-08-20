@@ -1406,5 +1406,27 @@
     "authors": "Komiya T et al.",
     "topic": "副腎",
     "date_added": "2026-08-17"
+  },
+  {
+    "pmid": "42622352",
+    "title": "EXPRESS: Agreement between point-of-care and external reference laboratory RT-qPCR testing for feline coronavirus in cats with suspected feline infectious peritonitis.",
+    "abstract": "OBJECTIVES: To evaluate the agreement of a commercially available point-of-care FCoV RT-qPCR assay and external laboratories RT-qPCR testing in cats with effusive and non-effusive FIP, and in cats with other diseases presenting with similar clinical signs.\nMETHODS: Client-owned cats suspected of FIP were enrolled with owner consent. Effusions and ultrasound-guided fine-needle aspirates (FNAs) from liver, spleen, or mesenteric lymph nodes were collected, split, and analysed using both a point-of-care RT-qPCR and an external laboratory RT-qPCR. FIP was diagnosed based on AAFP/EveryCat guidelines. Sensitivity and negative predictive values were calculated, agreement assessed with Cohen's kappa, paired differences tested with McNemar's test, and correlation of crossing point (Cp) values analysed using Pearson's coefficient and paired t-tests.\nRESULTS: One hundred cats were included (effusions n = 62, FNAs n = 38). Overall agreement between assays was substantial (κ = 0.73), with near-perfect concordance for effusions (κ = 0.81) and lower agreement for FNAs (κ = 0.61). Relative sensitivity was highest in effusions (98.1% point-of-care, 92.3% external) and lower in FNAs (63.3-64.5%), with negative predictive values showing similar trends. Cp values were moderately correlated between assays, with minor mean differences (~1 cycle).\nCONCLUSION AND RELEVANCE: The point-of-care FCoV RT-qPCR assay is a practical and reliable tool and shows very good agreement with external reference laboratory RT-qPCR testing. FNAs remain useful when effusions are unavailable but carry higher risk of false negatives likely due to low viral loads and heterogeneous distribution. Point-of-care testing offers rapid turnaround, supporting timely clinical decision-making, but results must be interpreted alongside clinical presentation and other diagnostics.",
+    "journal": "J Feline Med Surg",
+    "year": "2026",
+    "doi": "10.1177/1098612X261483596",
+    "authors": "Knies M et al.",
+    "topic": "FIP",
+    "date_added": "2026-08-20"
+  },
+  {
+    "pmid": "42622030",
+    "title": "Effects of a resveratrol-containing nutraceutical on cardiac biomarkers, echocardiographic parameters, and oxidative stress in dogs with naturally occurring cardiac disease.",
+    "abstract": "INTRODUCTION: Cardiac diseases such as myxomatous mitral valve disease (MMVD) and dilated cardiomyopathy (DCM) are common in dogs and are associated with progressive cardiac dysfunction and increased oxidative stress. Despite the widespread use of nutraceuticals in veterinary medicine, clinical evidence supporting their efficacy remains limited. This study aimed to evaluate the effects of a resveratrol-containing nutraceutical on cardiac biomarkers, echocardiographic parameters, oxidative stress, and safety in dogs with naturally occurring cardiac disease.\nMETHODS: This prospective, non-randomized, open-label study included 24 client-owned dogs allocated to a treatment group (n = 12) or a control group (n = 12). Dogs in the treatment group received a resveratrol-containing nutraceutical (with taurine, vitamin E, and coenzyme Q10) once daily for approximately one month, while control dogs received standard cardiac medications without nutraceutical supplementation. Cardiac biomarkers (NT-proBNP, cTnI), echocardiographic variables including global longitudinal strain (GLS), and oxidative stress markers (TAC, MDA) were evaluated.\nRESULTS: The percent change in NT-proBNP was significantly lower in the treatment group than in controls (-4.51 ± 46.21% vs. +44.61 ± 62.36%, P = 0.024), indicating attenuation of NT-proBNP elevation. TAC increased in the treatment group but decreased in controls (7.85 ± 7.07% vs. -8.00 ± 5.31%, P < 0.0001). No significant between-group differences were observed for cTnI (P = 0.164), GLS (P = 0.214), or MDA (P = 0.590). A significant negative association was observed between changes in TAC and NT-proBNP (r = -0.471, P = 0.020). No clinically relevant adverse effects were observed.\nDISCUSSION: Findings from this exploratory pilot study suggest that a resveratrol-containing nutraceutical was associated with attenuation of NT-proBNP elevation and an increase in total antioxidant capacity in dogs with cardiac disease. These preliminary findings suggest a potential role for antioxidant-based nutraceuticals as adjunctive therapy, although further studies with larger populations and longer follow-up are needed.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1867081",
+    "authors": "Kim DY et al.",
+    "topic": "MMVD",
+    "date_added": "2026-08-20"
   }
 ]
