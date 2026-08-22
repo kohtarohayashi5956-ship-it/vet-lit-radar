@@ -1461,5 +1461,16 @@
     "authors": "Zayed M et al.",
     "topic": "消化器",
     "date_added": "2026-08-21"
+  },
+  {
+    "pmid": "42627936",
+    "title": "Rethinking clinical response criteria in trials of chronic enteropathy in dogs: what change is truly meaningful?",
+    "abstract": "Rethinking response criteria of treatment of chronic enteropathy in dog is necessary, as clinical activity indices are widely used as primary endpoints despite substantial variability in how \"response,\" \"remission,\" and \"relapse\" are defined. Across recent studies, response thresholds range from modest relative reductions (eg, ≥25%) to stringent targets (eg, ≥75%), absolute score cut-offs, shifts between severity categories, or binary resolution of clinical signs. This methodological heterogeneity undermines comparability between trials and complicates evidence synthesis. An often-overlooked contributor to this issue is the intrinsic variability of the Canine Inflammatory Bowel Disease Activity Index and the Canine Chronic Enteropathy Clinical Activity Index, particularly their limited inter-observer reproducibility for total scores and several core items. When commonly used response thresholds overlap with expected measurement error, apparent clinical improvement might reflect scoring variability rather than true change in disease activity. We therefore propose a pragmatic framework for response classification anchored in the measurement properties of these instruments. For research endpoints, an absolute change of at least 4 points (Δ ≥ 4) is suggested as a conservative minimal detectable change to reduce misclassification of responders and non-responders. In dogs with low baseline scores driven by 1 or 2 isolated abnormalities, an item-centered approach (Δ item ≥2) might be more appropriate, particularly for variables such as stool consistency or defecation frequency. Finally, transparent reporting of scoring conditions, prioritization of evaluator consistency, and integration of complementary outcomes, including validated health-related quality-of-life measures and longitudinal symptom tracking, might help better capture clinically meaningful effects.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag164",
+    "authors": "Méric T et al.",
+    "topic": "消化器",
+    "date_added": "2026-08-22"
   }
 ]
