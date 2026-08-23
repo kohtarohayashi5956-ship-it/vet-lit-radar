@@ -1472,5 +1472,16 @@
     "authors": "Méric T et al.",
     "topic": "消化器",
     "date_added": "2026-08-22"
+  },
+  {
+    "pmid": "42630792",
+    "title": "A simplified feline phantom and Monte-Carlo simulation can be used to evaluate radiation exposure to veterinary staff during [211At]NaAt treatment.",
+    "abstract": "INTRODUCTION: Targeted alpha therapy using 211At offers high therapeutic efficacy with relatively low occupational radiation exposure. However, in veterinary medicine, staff exposure-particularly during close animal handling-remains insufficiently evaluated. We quantitatively evaluated external occupational radiation exposure to veterinary staff during simulated clinical use of 211At-labeled radiopharmaceuticals, utilizing dose measurements and numerical simulations based on a feline phantom model.\nMATERIALS AND METHODS: A spherical [211At]NaAt source was placed in the neck of a CT-derived, 3D-printed feline phantom. Ambient dose equivalent rates were measured at two to five distances ranging from the phantom surface to 1 m using a NaI(Tl) scintillation survey meter, with measurement geometry reproducibly controlled by a dedicated 3D-printed phantom. Concurrently, Monte Carlo simulations using the Particle and Heavy Ion Transport Code System (PHITS) modeled 211At photon transport to calculate ambient dose equivalent rates. Simulation results were compared with experimental measurements to validate dosimetric evaluations.\nRESULTS: Measurements of the ambient dose equivalent rate, Ḣ*(10), using a spherical source and simplified 3D-printed feline phantom showed good agreement with PHITS Monte Carlo simulations at distances within 1 m, except at very low dose rates near the detection limit. Simplified analytical calculations (FORM) consistently overestimated dose rates, particularly at distances within 10 cm, by up to two orders of magnitude, whereas PHITS provided conservative yet realistic estimates. Gamma-ray spectroscopy demonstrated that photons emitted from 211At and its progeny were detectable only at close distances (~10 cm), suggesting that local shielding may be necessary when high activities are administered. In a simplified clinical scenario, the estimated occupational radiation exposure per [211At]NaAt treatment was low, with effective dose, skin equivalent dose, and eye lens equivalent dose values not exceeding 1.11 μSv for any veterinary staff category.\nCONCLUSION: The combined use of a 3D-printed phantom and numerical simulations demonstrated that occupational doses associated with [211At]NaAt treatment were within acceptable levels, and well below the occupational dose limits recommended by the ICRP, supporting the radiological safety of the procedure. The framework is readily applicable to other organs or animal species, thereby supporting the safe and feasible expansion of veterinary nuclear medicine.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1897774",
+    "authors": "Sakashita T et al.",
+    "topic": "その他",
+    "date_added": "2026-08-23"
   }
 ]
