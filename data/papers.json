@@ -1483,5 +1483,16 @@
     "authors": "Sakashita T et al.",
     "topic": "その他",
     "date_added": "2026-08-23"
+  },
+  {
+    "pmid": "42633785",
+    "title": "A newly derived formula outperforms published formulae for estimating urine osmolality in healthy dogs receiving intravenous fluids.",
+    "abstract": "OBJECTIVE: To derive a formula to estimate urine osmolality (Uosm) in dogs with urine sodium, potassium, glucose, and urea nitrogen and to compare the performance of the derived formula with published formulae.\nMETHODS: A prospective observational study was conducted using purpose-bred Beagles housed at a university research facility. Healthy dogs, confirmed by physical examination and laboratory testing, received isotonic or hypotonic IV fluids in a randomized sequence for 48 hours, with a 10-day washout period between treatments. Urine samples were collected through indwelling urinary catheters at baseline and every 12 hours. Urine osmolality and urinary osmolytes were measured. Linear mixed models were used to derive formulae, and agreement was assessed using the concordance correlation coefficient (CCC), Bland-Altman analysis, and Passing-Bablok regression. Performance was compared with published formulae.\nRESULTS: 9 dogs provided 89 urine measurements. The proposed formula was Uosm = 2 X sodium + 1.8 X potassium + urea nitrogen2.5 (mg/dL) + glucose3.9 (mg/dL). The CCC was 0.96 (95% CI, 0.94 to 0.97), and the fixed bias was +7.99 mOsm/kg. Passing-Bablok regression revealed no proportional or constant bias. Compared with the published formulae, the proposed formula had the highest CCC and lowest fixed bias.\nCONCLUSIONS: The proposed formula provided a simple and reliable method to estimate Uosm in healthy dogs receiving isotonic and hypotonic IV fluids and outperformed the published formulae. Further validation in pathologic states is warranted.\nCLINICAL RELEVANCE: This formula improves the assessment of renal water handling, fluid balance, and kidney concentration ability when measuring Uosm is unavailable.",
+    "journal": "Am J Vet Res",
+    "year": "2026",
+    "doi": "10.2460/ajvr.26.05.0195",
+    "authors": "Jeong Y et al.",
+    "topic": "腎臓",
+    "date_added": "2026-08-24"
   }
 ]
