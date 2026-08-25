@@ -1494,5 +1494,38 @@
     "authors": "Jeong Y et al.",
     "topic": "腎臓",
     "date_added": "2026-08-24"
+  },
+  {
+    "pmid": "42639128",
+    "title": "Case Report: Fatal copper-associated hepatopathy in a Belgian Shepherd Malinois dog initially investigated as suspected malicious poisoning.",
+    "abstract": "Copper-associated hepatopathy (CAH) is a recognized cause of severe liver injury and acute hepatic decompensation in dogs and may present as chronic hepatitis, cirrhosis, or peracute death. This report describes a fatal case of CAH in a 9-year-old, 30-kg female Belgian Shepherd Malinois dog that was initially investigated as suspected malicious poisoning because of sudden death, tongue protrusion, and bloody feces at the scene. At forensic necropsy, approximately 55 mL of blood-tinged pleural effusion and 10 mL of blood-tinged ascitic fluid were present, the spleen was markedly enlarged, and both kidneys showed multiple dark cortical foci, whereas the liver lacked striking gross abnormalities apart from increased fragility. Histologically, the liver showed multifocal to coalescing hepatocellular degeneration and necrosis with abundant coarse brown intracytoplasmic pigment, raising suspicion of copper accumulation. Rhodanine staining confirmed copper-associated pigment within centrilobular hepatocytes, and toxicologic screening of stomach contents, liver, and kidneys was negative for common exogenous toxicants relevant to malicious poisoning. Quantitative analysis by inductively coupled plasma optical emission spectrometry (ICP-OES) yielded a hepatic copper concentration of 887.4 μg/g wet weight, corresponding to approximately 3176.4 μg/g on a dry-matter basis (estimated, not directly measured) when an assumed hepatic dry-matter content of 28% is applied. This estimated dry-weight concentration exceeds the commonly cited toxic threshold of >1,000 μg/g dry weight and, considered together with the histologic lesions and copper-specific staining, was interpreted as supportive evidence of copper-associated hepatopathy contributing to the fatal outcome. This case highlights CAH as an important differential diagnosis in dogs that die suddenly with hemorrhagic findings, even when the liver is grossly unremarkable and the initial forensic suspicion is malicious poisoning. It also emphasizes the diagnostic value of integrating necropsy, histopathology, copper-specific histochemistry, toxicologic screening, and quantitative copper analysis in veterinary forensic investigations.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1899864",
+    "authors": "Kim AY et al.",
+    "topic": "肝胆膵",
+    "date_added": "2026-08-25"
+  },
+  {
+    "pmid": "42636344",
+    "title": "Assessment of CD3+ T cell density in the intestinal mucosa of dogs with inflammatory bowel disease.",
+    "abstract": "BACKGROUND: T lymphocytes play a central role in the intestinal immune response in dogs with immunomodulator-responsive enteropathy (IRE), but the clinical relevance of mucosal T-cell infiltration remains unclear.\nHYPOTHESIS/OBJECTIVES: Compare mucosal CD3+ T-cell density between dogs with IRE and healthy comparison dogs across intestinal segments, and assess associations with clinical, biochemical, and histologic severity markers.\nANIMALS: Forty-two client-owned dogs with IRE and 12 healthy research dogs.\nMETHODS: Retrospective multicenter study. Archived endoscopic biopsy samples from the duodenum, ileum, and colon were evaluated using the Simplified Histopathological Scoring System. Immunohistochemistry for CD3 was quantified by digital image analysis (QuPath) and expressed as relative CD3+ density (RCD3). Group comparisons, receiver operating characteristic curve analyses, mixed linear models, and correlation analyses were performed.\nRESULTS: Relative CD3+ density was significantly higher in dogs with IRE than in comparison dogs in the duodenum (median, 6.34% vs 1.42%; P = .03), ileum (9.79% vs 0.85%; P < .001), and colon (3.88% vs 1.32%; P = .002). The area under the curve values were 0.833, 0.896, and 0.811, respectively. The RCD3 was not correlated with clinical indices, serum albumin concentration, or histologic scores, but ileal histologic score was negatively correlated with RCD3 (ρ = -0.37; P = .04).\nCONCLUSIONS AND CLINICAL IMPORTANCE: Mucosal CD3+ T-cell density is increased in dogs with IRE but is not associated with clinical or overall histologic disease severity. Quantification of CD3+ should not be used as a solitary monitoring tool but may contribute to immunophenotyping.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag175",
+    "authors": "Bouillet G et al.",
+    "topic": "消化器",
+    "date_added": "2026-08-25"
+  },
+  {
+    "pmid": "42636342",
+    "title": "Prolonged survival of 3 dogs with Prototheca bovis infection treated with posaconazole.",
+    "abstract": "Primary enteric or disseminated infections with Prototheca bovis in dogs typically are associated with short survival times despite treatment. We describe the extended clinical course of 3 dogs diagnosed with enteric P. bovis infection treated with antifungal therapy incorporating posaconazole. One dog was alive 45 months after starting treatment, exhibiting only mild, intermittent diarrhea and no detectable algae on rectal cytology. This dog also received SC amphotericin B (AMB) infusions during the first month after diagnosis. The second dog, managed exclusively with posaconazole, was alive after 39 months with moderate mixed-bowel diarrhea and ongoing P. bovis shedding but without clinical signs of dissemination. The third dog survived 21 months before death because of central nervous system dissemination; additional treatments included itraconazole, AMB, terbinafine, and immunotherapy using an autologous vaccine. Posaconazole was well tolerated in all dogs and can be considered a therapeutic option for dogs with enteric protothecosis.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag170",
+    "authors": "Langner KFA et al.",
+    "topic": "免疫療法",
+    "date_added": "2026-08-25"
   }
 ]
