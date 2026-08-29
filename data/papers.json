@@ -1659,5 +1659,27 @@
     "authors": "Larson L et al.",
     "topic": "免疫療法",
     "date_added": "2026-08-29"
+  },
+  {
+    "pmid": "42666034",
+    "title": "EXPRESS: Colonization of Helicobacter Species and Associated Gastritis in Cats with Gastrointestinal disease: a Cross-Sectional Study on 154 Cases.",
+    "abstract": "ObjectivesThis study aimed to determine the occurrence of gastric Helicobacter species colonization in cats with confirmed gastrointestinal disease and to investigate possible associations between Helicobacter species colonization and gastric histopathological changes. It also aimed to identify the Helicobacter species present in cats in countryX.MethodsPrivately owned cats were prospectively enrolled between May 2018 and December 2022. Regardless of the reason for presentation, the owners of all cats presented to the cat clinic during that time period were systematically interviewed regarding chronic gastrointestinal signs. Cats with suspected chronic gastrointestinal disease underwent non-invasive diagnostic evaluation, and those with persistent suspicion proceeded to gastrointestinal biopsies. Full-thickness gastric and small intestinal biopsies were collected from each cat to evaluate histopathological lesions and to determine the presence and localization of Helicobacter species in the stomach. A total of 154 cats that underwent biopsies were included in the study. A subset of Helicobacter-positive samples was further analyzed to the species level using the nanopore sequencing technique.ResultsAll cats had chronic small intestinal disease. Of these, 79% had inflammatory enteropathy and 21% had lymphoma. Helicobacter species were detected in 75% of cats. Colonization with multiple Helicobacter species was common, with Helicobacter heilmannii being the most prevalent species. Gastritis was present in 58% of cats and occurred with similar frequency in both small intestinal diseases. The presence of Helicobacter species was significantly associated with lymphoplasmacytic gastritis. However, the density of bacterial colonization was not associated with gastritis severity.Conclusions and relevanceOur findings indicate that colonization by Helicobacter species is common in cats with gastrointestinal clinical signs and is associated with chronic lymphoplasmacytic gastritis. Nevertheless, the causal relationship between Helicobacter species and gastritis cannot be established with this study design due to the lack of a control group. Most cats were colonized with mixed Helicobacter species.",
+    "journal": "J Feline Med Surg",
+    "year": "2026",
+    "doi": "10.1177/1098612X261485559",
+    "authors": "Immonen TK et al.",
+    "topic": "消化器",
+    "date_added": "2026-08-29"
+  },
+  {
+    "pmid": "42665890",
+    "title": "EXPRESS: Efficacy and tolerability of sequential COP and doxorubicin chemotherapy protocol for treatment of high-grade lymphoma in cats.",
+    "abstract": "ObjectivesThe aim of this study was to evaluate tolerability of a COP/DOX protocol, where cats received COP (vincristine, cyclophosphamide, and prednisolone) induction weekly for 6 weeks followed by doxorubicin (DOX) consolidation every three weeks for 6 doses. A secondary objective was to evaluate the efficacy of COP/DOX protocol in this cohort of cats.MethodsRecords were retrospectively reviewed for cats with high-grade lymphoma treated with the COP/DOX protocol from 2005-2024. Data collected included signalment, method of diagnosis, tumor location, staging, baseline diagnostics, drug dosages, adverse events, re-staging diagnostics and treatment response. Progression free survival (PFS) and survival time (ST) were estimated using the Kaplan-Meier method and compared across selected variables using log-rank test. ResultsTwenty-seven cats met inclusion criteria. The most common form of lymphoma was gastrointestinal in 33.3% of cats. The number of cats achieving a maximal response of clinical remission (CR) and partial remission (PR) throughout COP were 10 (37.0%) and 12 (44.4%), respectively. Of the 5 cats that had stable disease (SD) or progressive disease (PD) during COP, 1 achieved PR on doxorubicin. Four cats (14.8%) did not respond either to the COP or DOX part of the protocol. The overall response rate at 6 weeks after initiation of COP/DOX was 77.7%. PFS was 98 days (Interquartile range (IQR) 41 - 141) and MST was 154 days (IQR 102 - 546). The cats that had CR at the completion of DOX had PFS of 554.5 days and MST of 546 days. High grade adverse events included grade 3 and 4 neutropenia (n=3 for each) during COP. Lymphocyte: monocyte ratio and response at the completion of DOX were significantly associated with PFS and MST.Conclusions and relevanceWe conclude that the COP/DOX protocol was well tolerated by this population. PFS and MST were similar to previous reports. The COP/DOX protocol is an effective treatment approach for cats with lymphoma.",
+    "journal": "J Feline Med Surg",
+    "year": "2026",
+    "doi": "10.1177/1098612X261484858",
+    "authors": "Neiderfer K et al.",
+    "topic": "消化器",
+    "date_added": "2026-08-29"
   }
 ]
