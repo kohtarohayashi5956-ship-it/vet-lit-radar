@@ -1615,5 +1615,49 @@
     "authors": "Shin PT et al.",
     "topic": "腎臓",
     "date_added": "2026-08-28"
+  },
+  {
+    "pmid": "42661763",
+    "title": "Case Report: Diet-associated iodine-deficiency goitrous hypothyroidism in a dog: a longitudinal clinical, endocrine, and ultrasonographic evaluation.",
+    "abstract": "Iodine-deficiency hypothyroidism is well recognized in humans, but is considered rare in dogs, largely because commercial canine diets typically meet the established iodine requirements. Herein, we describe a dog that developed primary hypothyroidism with bilateral goiter attributable to dietary iodine deficiency. A 9-year-old spayed female Chihuahua fed a non-standardized home-prepared diet without vitamin and mineral supplementation presented with mild weight gain and bilaterally enlarged thyroid lobes, but without the classic clinical signs of hypothyroidism. Basal thyroid hormone testing revealed markedly decreased total and free thyroxine concentrations with pronounced elevation of thyroid-stimulating hormone levels, consistent with primary hypothyroidism. Ultrasonography revealed symmetric thyroid enlargement with preserved architecture and mild diffuse hypoechogenicity. Fine-needle aspiration excluded neoplasia, and the serum inorganic iodine concentration was severely decreased. The dog's diet was changed to a commercially prepared, iodine-supplemented formula without thyroid hormone replacement. Over the following 2 months, serum thyroid hormone concentrations normalized, serum iodine concentrations returned to reference values, and ultrasonographic abnormalities improved markedly, with a substantial reduction in thyroid size and restoration of homogeneous echogenicity. This case highlights the potential for iodine-deficiency hypothyroidism to occur in dogs consuming unbalanced home-prepared diets and demonstrates the reversibility of functional abnormalities and marked ultrasonographic improvement following restoration of adequate dietary iodine intake.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1761152",
+    "authors": "Lim S et al.",
+    "topic": "甲状腺",
+    "date_added": "2026-08-29"
+  },
+  {
+    "pmid": "42660406",
+    "title": "Impact of Needle-to-Suture Ratio and Suture Diameter on Acute Leakage Pressure in an Ex Vivo Canine Jejunal Enterotomy Model.",
+    "abstract": "Postoperative intestinal leakage is a serious complication of gastrointestinal surgery; however, the immediate mechanical factors affecting enterotomy sealing remain incompletely understood. This ex vivo study evaluated the association of needle-to-suture ratio (N:S Ratio) and suture diameter with acute leakage pressure in a canine jejunal enterotomy model. Eight needle-suture product groups were tested using 80 fresh jejunal segments obtained from 10 canine cadavers. A randomized complete block design was used, with each dog contributing one jejunal segment to each suture group. After standardized enterotomy closure, the initial leakage pressure (ILP), maximum intraluminal pressure (MIP), and initial leakage location were recorded. Linear mixed-effects models were used, with the suture group as a fixed effect and dog identity as a random intercept. Initial leakage occurred predominantly at the needle-hole site, accounting for 75 of the 80 samples (93.75%). The suture group had a significant overall effect on both log-transformed ILP and MIP. In predefined comparisons under more comparable needle-suture conditions, higher N:S Ratio were associated with lower acute leakage pressures. However, within the SHMP commercial suture series, leakage pressure did not follow a simple monotonic relationship with the N:S Ratio. Together, these findings indicate that needle-suture matching is relevant to acute sealing under more comparable product conditions, whereas the performance of commercial needle-suture products cannot be explained by N:S Ratio alone. These findings suggest that needle-hole sealing is a major component of acute leakage resistance after canine jejunal enterotomy closure. Further in vivo and clinical studies are required before specific recommendations regarding needle-suture selection can be made.",
+    "journal": "Vet J",
+    "year": "2026",
+    "doi": "10.1016/j.tvjl.2026.106848",
+    "authors": "Li S et al.",
+    "topic": "消化器",
+    "date_added": "2026-08-29"
+  },
+  {
+    "pmid": "42660198",
+    "title": "Urinary angiotensinogen indexed to creatinine or protein is higher in cats with surgically induced chronic kidney disease compared to healthy cats.",
+    "abstract": "OBJECTIVE: To compare urinary angiotensinogen, a proposed biomarker for intrarenal renin-angiotensinogen system (RAS) activity, between cats with surgically induced chronic kidney disease (CKD) and healthy cats and explore its correlation with select clinical and circulating renin-angiotensin-aldosterone system (RAAS) markers.\nMETHODS: Urine was banked from September 2022 through April 2023 during a study comparing circulating RAAS markers between cats with induced CKD and sex- and life stage-matched healthy cats. Urinary angiotensinogen concentration was measured from October 2025 through July 2026 using a validated in-house ELISA. Urinary concentration of angiotensinogen was indexed to that of creatinine or protein to account for urine concentration or indiscriminate urinary protein loss, respectively.\nRESULTS: 28 cats (n = 14/group) were included. The median (IQR) indexed urinary angiotensinogen was higher in cats with CKD than in healthy cats (urinary angiotensinogen-to-protein ratio, 9.80 [5.47, 17.22] vs 3.38 [1.09, 5.52]; urinary angiotensinogen-to-creatinine ratio, 0.99 [0.40, 2.34] vs 0.31 [0.21, 0.60]). In cats with CKD, indexed urinary angiotensinogen correlated positively with serum creatinine concentration (urinary angiotensinogen-to-protein ratio, ρ = 0.573; urine angiotensinogen-to-creatinine ratio, ρ = 0.642). In healthy cats, urinary angiotensinogen-to-creatinine ratio correlated negatively with several circulating RAAS markers, including serum angiotensin II (ρ = -0.547) and angiotensin 1-7 (ρ = -0.631) equilibrium concentrations.\nCONCLUSIONS: The intrarenal RAS, assessed by urinary angiotensinogen, is activated in cats with induced CKD, and its activity is inversely related to that of the circulating RAAS in healthy cats but not those with CKD.\nCLINICAL RELEVANCE: Concurrent evaluation of circulating RAAS and intrarenal RAS markers is required for complete assessment of this system.",
+    "journal": "Am J Vet Res",
+    "year": "2026",
+    "doi": "10.2460/ajvr.26.06.0262",
+    "authors": "Huang JHC et al.",
+    "topic": "腎臓",
+    "date_added": "2026-08-29"
+  },
+  {
+    "pmid": "42660184",
+    "title": "Canine parvovirus monoclonal antibody successfully prevented disease when administered before canine parvovirus experimental challenge.",
+    "abstract": "OBJECTIVE: To determine the effectiveness of canine parvovirus (CPV-2) monoclonal antibody (CPMA) to prevent CPV-2 disease after an experimental challenge to support a label claim for prophylactic use.\nMETHODS: 25 Beagle pups aged 7 to 8 weeks were randomized to CPMA-treated (n = 20) or PBS-treated control (5) groups. One day after SC administration of PBS or CPMA (0.1 mL/kg) on study day (SD) 0, all pups were challenged by intranasal administration of virulent CPV-2b. Personnel masked to treatment groups monitored clinical signs, including rectal temperature, vomiting, and/or abnormal feces, over SD 2 through SD 14. Samples collected included sera, whole blood, and feces to assess antibody responses, lymphopenia, and fecal shedding of CPV-2, respectively. The CPV-2 disease case definition included at least 3 of 4 criteria: fever of 39.7 °C (103.4 °F) or greater, decreased lymphocytes to 50% of baseline or below, presence of diarrhea, and detection of CPV-2 virus in feces.\nRESULTS: All 5 control pups developed parvovirosis and met the CPV-2 case definition. In contrast, none of the 19 CPMA prophylactically treated pups developed more than 1 of the criteria for CPV-2 disease. One pup infected with CPV-2 via environmental exposure and treated therapeutically was also protected against CPV-2 disease signs.\nCONCLUSIONS: Prophylactic CPMA treatment successfully protected all pups from experimental CPV-2 disease.\nCLINICAL RELEVANCE: Prophylactically administered CPMA provides a reasonable expectation of passive protection of naïve pups against parvovirosis in high-risk settings, such as outbreak situations.",
+    "journal": "Am J Vet Res",
+    "year": "2026",
+    "doi": "10.2460/ajvr.26.05.0203",
+    "authors": "Larson L et al.",
+    "topic": "免疫療法",
+    "date_added": "2026-08-29"
   }
 ]
