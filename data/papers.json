@@ -1692,5 +1692,71 @@
     "authors": "Houri YY et al.",
     "topic": "肝胆膵",
     "date_added": "2026-09-01"
+  },
+  {
+    "pmid": "42679218",
+    "title": "Presentations of idiopathic hemorrhagic diarrhea syndrome in dogs in relation to meteorological factors.",
+    "abstract": "BACKGROUND: Causes for idiopathic acute hemorrhagic diarrhea syndrome (AHDS) in dogs remain uncertain. Recent discoveries suggest a role for enterotoxin-producing Clostridium perfringens, but the triggers for toxin production and AHDS onset are unknown. Meteorological factors have not been examined as a possible AHDS trigger.\nHYPOTHESIS/OBJECTIVES: Retrospective case-control study aiming to examine the effects of weather conditions and weather changes on the prevalence of idiopathic AHDS.\nANIMALS: Dogs (n = 412) presented with acute gastrointestinal (GI) clinical signs between January 2016 and January 2021 at a tertiary veterinary care center.\nMETHODS: Dogs were stratified into 3 groups: idiopathic AHDS, acute gastroenteritis, and other causes for acute GI signs. This categorization was based on the combination of patient history, physical examination, and further diagnostic evaluation (eg, laboratory and imaging diagnostics). Meteorological data were extracted for each dog based on the geocodes of their primary location and were analyzed for associations with AHDS presentations by building a random forest model and calculating odds ratios.\nRESULTS: Increased wind speeds and shortwave radiation exposure, lower temperatures and sunlight intensity, and dry weather were linked to increased idiopathic AHDS presentations in dogs in the investigated geographical region.\nCONCLUSIONS AND CLINICAL IMPORTANCE: Our explorative study provides an outlook for prospective investigations to further evaluate potential effects of meteorological factors on the gut-brain-microbiome axis and their role in the development of idiopathic AHDS. In addition to shedding more light on pathogenetic mechanisms of an idiopathic condition, understanding these environmental and weather-related effects could be important in predicting and managing this condition.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag184",
+    "authors": "Karnstedt M et al.",
+    "topic": "消化器",
+    "date_added": "2026-09-01"
+  },
+  {
+    "pmid": "42679217",
+    "title": "Effect of trilostane treatment on proteinuria secondary to spontaneous hypercortisolism in dogs.",
+    "abstract": "BACKGROUND: Proteinuria is reported in 68%-71% of dogs with spontaneous hypercortisolism (HC). The long-term effect of trilostane on HC-associated proteinuria remains poorly documented.\nHYPOTHESIS/OBJECTIVES: To evaluate the efficacy of trilostane on proteinuria in dogs with HC and identify potential clinical, anamnestic, and analytical differences between responders and nonresponders.\nMETHODS: Retrospective longitudinal cohort study including dogs with proteinuric HC treated exclusively with trilostane. Clinical history and laboratory data at diagnosis (T0) were retrieved. When available, urine protein-to-creatinine ratio (UPC), disease clinical score (DCS), blood pressure (BP), and daily trilostane dosage (TD) were recorded at 30, 90, 180, and 365 days (T30, T90, T180, and T365) after treatment initiation. Dogs achieving a ≥ 50% UPC reduction or a final UPC < 0.5 were defined as \"responders.\"\nRESULTS: One hundred sixty dogs met inclusion criteria: 89% had pituitary-dependent HC and 10% adrenal-dependent HC. At diagnosis, 64% were proteinuric. A significant UPC reduction over time occurred (P = .0005; F(4,153.9) = 5.26), with statistically significant decreases at T90 (P = .020; difference, 1.093; 95% CI, 0.115-2.071), T180 (P = .031; difference, 1.122; 95% CI, 0.064-2.181), and T365 (P = .002; difference, 1.599; 95% CI, 0.436-2.761) compared to baseline. At the last follow-up, 76 dogs were evaluable; 48% were responders and had lower median DCS, BP, and TD (P = .029, P = .025, and P = .048, respectively) than nonresponders.\nCONCLUSIONS AND CLINICAL IMPORTANCE: Trilostane induces a significant and sustained reduction in proteinuria in some dogs with spontaneous HC, evident from 3 months of treatment. Responders exhibit better control of hypertension and clinical signs despite lower TD. Nonresponders account for 52% of proteinuric dogs.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag189",
+    "authors": "Tagliasacchi F et al.",
+    "topic": "副腎",
+    "date_added": "2026-09-01"
+  },
+  {
+    "pmid": "42676414",
+    "title": "Correlation between clinical variables and overall survival time in dogs with multicentric B-cell lymphoma: a retrospective study in Taiwan.",
+    "abstract": "INTRODUCTION: Multicentric B-cell lymphoma (MBCL) is one of the most commonly diagnosed spontaneous hematopoietic malignancies in dogs. However, few studies have characterized dogs with MBCL in Taiwan, and the prognostic value of clinical variables, including clinical substage and treatment response, remains under investigation. This study aimed to characterize canine MBCL in Taiwan and evaluate associations between selected clinical variables and overall survival time (OST).\nMETHODS: Medical records of 441 dogs diagnosed with lymphoma were retrospectively reviewed. Cases with peripheral lymph node enlargement and uniformly large neoplastic cells on cytology and/or histopathology were included. Immunophenotypes were primarily determined by flow cytometry, with PCR for antigen receptor rearrangement used in a small subset for clonality assessment. Dogs that completed at least one full cycle of CHOP chemotherapy were included in the OST analysis and stratified by clinical variables.\nRESULTS: Dogs with clinical signs (substage b) had shorter OST (median, 140 days; 95% CI, 126-199) than asymptomatic dogs (substage a: median, 186 days; 95% CI, 164-248). Dogs achieving complete or partial response to CHOP had longer OST (median, 196 days; 95% CI, 151-239) than dogs with stable or progressive disease (median, 182 days; 95% CI, 140-196). No significant differences in OST were observed according to serum calcium concentration (>10.5 mg/dL) or advanced clinical stage (IV-V). Cox proportional hazards analyses indicated that clinical signs (HR, 2.27; 95% CI, 1.04-4.96; p = 0.040) and failure to achieve an objective response (HR, 2.09; 95% CI, 1.06-4.16; p = 0.035) were associated with increased mortality.\nDISCUSSION: This study provides the first epidemiological and immunophenotypic characterization of canine MBCL in Taiwan. Clinical substage and initial response to CHOP were associated with OST, although further prospective studies are needed to validate these findings and more comprehensively characterize canine lymphoma in Taiwan.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1870235",
+    "authors": "Ke CH et al.",
+    "topic": "リンパ腫",
+    "date_added": "2026-09-01"
+  },
+  {
+    "pmid": "42675961",
+    "title": "Retrospective Evaluation of the Indications, Complications, and Outcomes of Extracorporeal Therapies in Companion Animals in a Veterinary Teaching Hospital.",
+    "abstract": "OBJECTIVE: To decribe the indications, complications, and outcomes of companion animals treated with extracorporeal therapy (ECT).\nDESIGN: Retrospective case series from November 2023 to December 2024, with a 1-month follow-up.\nSETTING: Single-center study at a veterinary university teaching hospital.\nANIMALS: Forty-one client-owned animals (37 dogs, four cats) treated with ECT for endogenous substance accumulation (ESA [n = 28], including acute kidney injury [AKI; n = 27] or post-attenuation neurologic signs [PANS; n = 1]), immune-mediated disease (IMD; n = 3), or intoxication (n = 10).\nMEASUREMENTS AND MAIN RESULTS: Data collected included signalment, indication, ECT type (hemodialysis [HD], hemoperfusion [HP], or therapeutic plasma exchange [TPE]), complications, and outcome. A total of 103 ECT sessions were performed. Session complications were frequent (HD: 27%, HP: 71%, TPE: 64%), most commonly circuit clotting (15/103), hypocalcemia (10/103), bleeding (9/103), and hemodynamic instability (9/103); none were fatal. Assessment of specific complication risks by ECT type was limited by sample size, but the complication rate of HD was lower compared with other modalities (p = 0.012). Overall, 25 of 41 animals were discharged, and 20 of 25 survived 1 month. Survival in dogs differed by indication: 100% (10/10) for intoxication, 57% (13/23) for AKI, and 33% (1/3) for IMD (p = 0.006). Among dogs with AKI, those with probable or confirmed leptospirosis had higher 1-month survival (9/19) compared with other causes of AKI (1/4) (p = 0.014).\nCONCLUSIONS: ECT is associated with a moderate to high complication rate, but most complications were mild and transient. Intoxicated patients receiving ECT had an excellent prognosis, while dogs with AKI and confirmed or probable leptospirosis showed better survival than those dogs with AKI unlikely to be due to leptospirosis.",
+    "journal": "J Vet Emerg Crit Care (San Antonio)",
+    "year": "2026",
+    "doi": "10.1111/vec.70156",
+    "authors": "Escande E et al.",
+    "topic": "腎臓",
+    "date_added": "2026-09-01"
+  },
+  {
+    "pmid": "42674009",
+    "title": "Canine parvovirus cases (2010-2023): a retrospective study of 78,977 cases demonstrates declining incidence, but mortality risk remains.",
+    "abstract": "OBJECTIVE: To investigate changes in characteristics of dogs diagnosed with canine parvovirus (CPV) disease presenting to a national network of primary care veterinary hospitals.\nMETHODS: Records were searched from January 1, 2010, through June 30, 2023. Data were collected on signalment, clinical signs, laboratory results, and mortality for CPV-affected dogs. Variables were assessed via stepwise logistic regression models for association with mortality.\nRESULTS: Across > 1,000 hospitals, CPV was diagnosed in 78,977 dogs, declining from 45.2 cases per 10,000 dogs per year in 2010 to 6.5 cases per 10,000 dogs per year in 2022. Diagnoses were greatest in April to June, while 46.3% of cases were aged between 8 and 16 weeks. From 2010 to 2022, median age at diagnosis declined from 17 to 14 weeks. The most commonly affected breeds were pit bull-type dog, Chihuahua, Labrador Retriever, German Shepherd Dog, and mixed breed (combined, 54.3% of the study population). Of 37,707 patients with 14-day survival information, 43.6% died or were euthanized. Being neutered or spayed (OR, 0.04; 95% CI, 0.02 to 0.08), having increased body weight, or having multiple intestinal parasites significantly reduced odds of mortality. Variables significantly associated with increased odds of mortality were hypoproteinemia (OR, 4.44; 95% CI, 2.01 to 9.81), underweight (OR, 2.99; 95% CI, 1.40 to -6.36), lymphopenia, leukopenia, and increased ALT.\nCONCLUSIONS: The number of CPV cases and mortality declined over the study period. However, CPV infections still occur in thousands of dogs annually, and risks of mortality persist.\nCLINICAL RELEVANCE: Dogs remain at risk of fatal CPV infection. Identification of mortality-associated factors may allow more targeted interventions and improve prognostic capabilities.",
+    "journal": "J Am Vet Med Assoc",
+    "year": "2026",
+    "doi": "10.2460/javma.26.05.0332",
+    "authors": "Morrison J et al.",
+    "topic": "その他",
+    "date_added": "2026-09-01"
+  },
+  {
+    "pmid": "42674007",
+    "title": "Retrospective analysis of 68 domestic ferrets with urethral obstruction shows high rate of euthanasia at presentation despite good survival to discharge.",
+    "abstract": "OBJECTIVE: To establish a hospital proportional morbidity rate (HPMR) for urethral obstructions (UOs) in domestic ferrets; describe clinical presentation, interventions, and outcomes; and report associations with UO etiologies and survival.\nMETHODS: In this retrospective, descriptive, epidemiological study, electronic medical records were evaluated from ferrets presenting to 3 academic institutions in the US between 2013 and 2023. Descriptive and bivariate statistical analyses were performed. Parametric and nonparametric results are reported as mean ± SD or median (IQR).\nRESULTS: A total of 3,242 records were reviewed. The HPMR was 2.09% (68 of 3,242). Urethral obstruction etiologies included urolithiasis (57.4% [39 of 68]), adrenal disease-associated prostatic disease (19.12% [13 of 68]), and undiagnosed etiology (23.53% [16 of 68]). Twenty-seven of 66 ferrets (40.91%) were euthanized on presentation. Of the remaining ferrets, 92.31% (36 of 39) survived to discharge. Average hospitalization time was 2.82 ± 2.21 days. Complications occurred in 23.08% (9 of 39) of ferrets, and recurrence rate after discharge was 31.6% (6 of 19) with a median of 19 days (IQR, 1 to 1,164 days). Ferrets with urolithiasis were significantly younger (median, 2 years old) and had significantly higher blood glucose (median, 127 mg/dL) compared to ferrets with adrenal disease-associated prostatic disease (median age, 5 years old; median blood glucose, 91 mg/dL). Ferrets that survived to discharge had significantly higher body temperature on admission (median, 37.4 °C [99.4 °F]) compared to ferrets that were euthanized (median, 36.7 °C [98 °F]).\nCONCLUSIONS: Ferrets with UO had an HPMR, hospitalization times, and survival and recurrence rates that were similar to those of cats.\nCLINICAL RELEVANCE: These findings provide objective prognostic data to better inform treatment recommendations and client decision-making.",
+    "journal": "J Am Vet Med Assoc",
+    "year": "2026",
+    "doi": "10.2460/javma.26.05.0343",
+    "authors": "O'Malley B et al.",
+    "topic": "副腎",
+    "date_added": "2026-09-01"
   }
 ]
