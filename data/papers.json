@@ -1879,5 +1879,16 @@
     "authors": "Da Silva AJ et al.",
     "topic": "副腎",
     "date_added": "2026-09-04"
+  },
+  {
+    "pmid": "42704875",
+    "title": "Evaluation of renal microvascular perfusion in dogs with cardiac disease using Superb Microvascular Imaging.",
+    "abstract": "BACKGROUND: Renal dysfunction in cardiac disease is attributed to both reduced cardiac output and venous congestion; however, relative contributions of these mechanisms are difficult to evaluate clinically.\nHYPOTHESIS/OBJECTIVES: Renal microvascular perfusion assessed by Superb Microvascular Imaging (SMI) would be associated with indices of cardiac output and venous congestion in dogs with cardiac disease.\nANIMALS: Forty-three client-owned dogs were enrolled: 15 healthy dogs (Control), 21 dogs with cardiac disease but without right-sided heart failure (non-RHF), and 7 dogs with signs of right-sided heart failure (RHF).\nMETHODS: Prospective cross-sectional observational study. SMI images were obtained from renal cortex, and mean SMI signal intensity (SMI-SI) was calculated as an index of renal perfusion. The left ventricular outflow tract velocity-time integral (LVOT-VTI) was used as an index of cardiac output, while caudal vena cava short-to-long axis ratio at minimal inspiratory diameter (CVC SD/LD) was used to indicate venous congestion.\nRESULTS: Median SMI-SI was 41.3 (95% CI, 39.1-43.8) in Control, 21.6 (95% CI: 19.4-23.9) in non-RHF, and 18.6 (95% CI, 16.4-21.0) in RHF. Both cardiac disease groups had lower values than Control (P < .001). SMI-SI was negatively correlated with CVC SD/LD (ρ = -0.59, P < .001) and positively correlated with LVOT-VTI (ρ = 0.43, P = .007). In full multivariable analysis, only CVC SD/LD was independently associated with SMI-SI (P = .001).\nCONCLUSIONS AND CLINICAL IMPORTANCE: SMI detects reduced renal microvascular perfusion in dogs with cardiac disease, which is associated with venous congestion rather than cardiac output.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag198",
+    "authors": "Yasuda R et al.",
+    "topic": "腎臓",
+    "date_added": "2026-09-07"
   }
 ]
