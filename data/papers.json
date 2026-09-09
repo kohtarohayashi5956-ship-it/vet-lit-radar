@@ -1901,5 +1901,16 @@
     "authors": "Bardhi A et al.",
     "topic": "副腎",
     "date_added": "2026-09-08"
+  },
+  {
+    "pmid": "42710546",
+    "title": "Gilvetmab advances immune checkpoint inhibitor immunotherapy for canine cancer.",
+    "abstract": "Immune checkpoint inhibitors (ICIs) have revolutionized human oncology and are emerging as a promising strategy in veterinary cancer care. These agents unleash antitumor immunity by targeting inhibitory pathways that suppress T-cell function, enabling durable responses in select patients. In dogs, the immune checkpoint programmed cell death protein 1 (PD-1) axis is a primary focus due to conserved structural and functional homology with the PD-1 axis in humans, documented PD-1/programmed death-ligand 1 (PD-L1) signaling in the canine tumor microenvironment, and its role in reversing tumor-induced immune exhaustion. Several caninized anti-PD-1 and anti-PD-L1 antibodies have demonstrated favorable safety profiles and notable antitumor activity in spontaneously occurring canine cancers, particularly melanoma and mast cell tumors. Gilvetmab, currently the only veterinary ICI available commercially, has conditional licensure in the United States for these indications. This caninized anti-PD-1 monoclonal antibody has demonstrated target engagement, acceptable tolerability, and clinical efficacy in a subset of treated dogs. Although reported adverse events are generally manageable, further work is needed to better characterize immune-mediated toxicities. Furthermore, response patterns may differ from those of cytotoxic therapies, including potential pseudoprogression, necessitating careful selection of response assessment methods. Key challenges remain in optimizing patient selection, refining biomarker development, establishing effective combination strategies, and defining the efficacy of immune checkpoint blockade across diverse tumor histologic subtypes (histotypes). Continued study of gilvetmab and related agents should advance the clinical application of immunotherapy in veterinary oncology and inform the next generation of comparative cancer care.",
+    "journal": "J Am Vet Med Assoc",
+    "year": "2026",
+    "doi": "10.2460/javma.26.06.0517",
+    "authors": "Chon E et al.",
+    "topic": "免疫療法",
+    "date_added": "2026-09-09"
   }
 ]
