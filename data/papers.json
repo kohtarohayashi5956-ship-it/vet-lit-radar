@@ -1934,5 +1934,38 @@
     "authors": "Cazer CL et al.",
     "topic": "消化器",
     "date_added": "2026-09-10"
+  },
+  {
+    "pmid": "42725899",
+    "title": "Citation clarification regarding feline eltrombopag in the \"ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats\".",
+    "abstract": "",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag213",
+    "authors": "Kim J et al.",
+    "topic": "IMHA/ITP",
+    "date_added": "2026-09-11"
+  },
+  {
+    "pmid": "42723064",
+    "title": "Baicalin alleviates Trueperella pyogenes-induced endometritis with associated changes in gut microbiota composition.",
+    "abstract": "BACKGROUND: Endometritis is a prevalent reproductive disorder in livestock characterized by inflammation, oxidative stress, and microbial imbalance; however, the mechanistic links among these processes remain incompletely understood. This study investigated the protective effects of baicalin in a Trueperella pyogenes (T. pyogenes)-induced mouse model of endometritis by integrating network pharmacology, in vivo validation, and gut microbiota profiling.\nRESULTS: Network pharmacology analysis identified prostaglandin-endoperoxide synthase 2 (PTGS2, also known as cyclooxygenase-2, COX-2) and epidermal growth factor receptor (EGFR) as key targets of baicalin, with enrichment in arachidonic acid metabolism pathways. Baicalin treatment alleviated uterine pathology and suppressed inflammatory responses, as indicated by reduced tumor necrosis factor-alpha (TNF-α), interleukin-1 beta (IL-1β), interleukin-6 (IL-6), and myeloperoxidase (MPO) activity. Baicalin also restored redox homeostasis by activating the Nrf2/Keap1/HO-1 pathway, increasing catalase (CAT) and superoxide dismutase (SOD) activities while decreasing malondialdehyde (MDA) levels, and concurrently reduced apoptosis, as evidenced by a lower ratio of Bcl-2-associated X protein (Bax) to B-cell lymphoma 2 (Bcl-2) (the Bax/Bcl-2 ratio). Concurrently, 16 S rRNA gene sequencing revealed that baicalin treatment was associated with alterations in gut microbiota composition, including changes in the relative abundance of several bacterial taxa linked to inflammation and metabolic functions. However, whether these microbial changes play a causal role in the observed protection remains to be determined.\nCONCLUSIONS: These findings indicate that baicalin protects against endometritis through coordinated regulation of inflammation, oxidative stress, and apoptosis, and this protection was associated with shifts in gut microbiota composition. The results provide insight into the host-microbiota interactions accompanying endometritis and support baicalin as a potential therapeutic candidate, while highlighting the need for further causal investigations.",
+    "journal": "BMC Vet Res",
+    "year": "2026",
+    "doi": "10.1186/s12917-026-05715-1",
+    "authors": "Peng Z et al.",
+    "topic": "リンパ腫",
+    "date_added": "2026-09-11"
+  },
+  {
+    "pmid": "42723045",
+    "title": "Correction: Clinico-pathological and renal morphological findings in dogs naturally infected with Dirofilaria repens.",
+    "abstract": "",
+    "journal": "BMC Vet Res",
+    "year": "2026",
+    "doi": "10.1186/s12917-026-05836-7",
+    "authors": "Szabó KÉ et al.",
+    "topic": "腎臓",
+    "date_added": "2026-09-11"
   }
 ]
