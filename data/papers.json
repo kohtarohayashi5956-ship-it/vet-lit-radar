@@ -1967,5 +1967,27 @@
     "authors": "Szabó KÉ et al.",
     "topic": "腎臓",
     "date_added": "2026-09-11"
+  },
+  {
+    "pmid": "42733290",
+    "title": "Predictors of clinically significant bleeding in dogs with severe thrombocytopenia: 159 cases (2012-2021).",
+    "abstract": "OBJECTIVES: To evaluate risk factors for clinically significant bleeding in dogs with severe thrombocytopenia and to assess whether predictors of bleeding differ between immune thrombocytopenia and other causes, and whether platelet mass is more predictive than platelet count.\nMATERIALS AND METHODS: Medical records of dogs presenting to a referral institution between 2012 and 2021 with severe thrombocytopenia (platelet count <50 × 109/L) were retrospectively reviewed. Dogs were classified by underlying cause and presence of clinically significant bleeding. Univariable and multivariable logistic regression analyses were performed.\nRESULTS: A total of 159 dogs were included, of which 74 developed clinically significant bleeding. Eighty-four dogs were classified as having immune thrombocytopenia. Dogs with clinically significant bleeding had lower platelet counts and plateletcrit, and higher leucocyte and monocyte counts. On univariable analysis, immune thrombocytopenia was associated with increased odds of bleeding (odds ratio 3.49, 95% confidence interval 1.83 to 6.85). In the final multivariable model, increasing platelet count was associated with reduced odds of bleeding (odds ratio 0.72 per 10 × 109/L increase, 95% confidence interval 0.55 to 0.95), while increasing monocyte count was associated with increased odds (odds ratio 1.09 per 0.1 × 109/L increase, 95% confidence interval 1.05 to 1.13). Plateletcrit was not independently associated with bleeding. Within the immune thrombocytopenia subgroup, platelet count was not associated with bleeding, whereas monocyte count remained independently associated.\nCLINICAL SIGNIFICANCE: When considering all dogs with severe thrombocytopenia, the lower the platelet count the more likely the dogs are to develop clinically significant bleeding. However, for dogs with immune thrombocytopenia, the relationship between platelet count and the development of clinically significant bleeding is not clear-cut, suggesting that factors beyond platelet number contribute to bleeding risk in this cohort of thrombocytopenic dogs.",
+    "journal": "J Small Anim Pract",
+    "year": "2026",
+    "doi": "10.1111/jsap.70197",
+    "authors": "Smith G et al.",
+    "topic": "IMHA/ITP",
+    "date_added": "2026-09-14"
+  },
+  {
+    "pmid": "42732914",
+    "title": "Successful use of insect-based (Hermetia illucens) diet in dogs with food-responsive enteropathy.",
+    "abstract": "OBJECTIVE: Diet is an integral component of the management of chronic enteropathy in dogs. The role of insect-based diets in this disease remains unknown. The objective of this study was to evaluate the impact of an insect-based (Hermetia illucens) diet in dogs with presumed food-responsive enteropathy.\nMETHODS: Twenty-seven client-owned dogs with evidence of chronic enteropathy, in which diet was required as sole management, were enrolled onto this prospective, uncontrolled diet trial. Canine inflammatory bowel disease activity index, faecal score, body condition score and body weight (kg) were recorded pre-enrolment (T0). Dogs were exclusively fed insect diet and reassessed at 14 (T1), 30 (T2) and 90 (T3) days. Dogs remained in the study if responding and exited the study at various times for additional investigations or alternative treatment(s) if not responding. Comparisons were made within responders over time and between responders and non-responders at T0. Data are expressed as median (range).\nRESULTS: Twenty-seven dogs were recruited; seven cases were withdrawn, leaving 20 dogs for analysis. Fourteen/20 dogs (70%) were classified as responders with a decrease in median faecal score from 6.25 (5 to 7) at T0 to 2 (2 to 5) at T1 and a median decrease in canine inflammatory bowel disease activity index from 8 (5 to 14) at T0 to 1 (0 to 5) at T1. All responders had adequate control at day 90 (T3), with a median faecal score of 2 (2 to 5) and a median canine inflammatory bowel disease activity index of 0 (0 to 3).\nCLINICAL SIGNIFICANCE: Insect diet improved clinical signs in 70% of chronic enteropathy dogs and could represent another dietary option in the management of this disease.",
+    "journal": "J Small Anim Pract",
+    "year": "2026",
+    "doi": "10.1111/jsap.70195",
+    "authors": "Murtagh K et al.",
+    "topic": "消化器",
+    "date_added": "2026-09-14"
   }
 ]
