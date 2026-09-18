@@ -2011,5 +2011,71 @@
     "authors": "Huk M et al.",
     "topic": "その他",
     "date_added": "2026-09-15"
+  },
+  {
+    "pmid": "42756254",
+    "title": "Owner reported prevalence of autonomic signs in epileptic dogs.",
+    "abstract": "INTRODUCTION: Epilepsy is a common neurological disorder in dogs. Autonomic manifestations are commonly recognised but poorly reported in veterinary literature. This study aimed to determine owner reported prevalence and course of autonomic signs in epileptic dogs.\nMETHODS: A survey for owners of dogs with epilepsy created with Qualtrics was circulated on Facebook between March 2025 and August 2025.\nRESULTS: There were 1,154 responses, with 704 included in statistical analysis. The overall frequency of autonomic signs was 697/704 dogs (99.0%). When analysed by body system, gastrointestinal signs [96.9% (682/704)], and urogenital signs [91.1% (641/704)] were most common. Individually, commonly reported signs included ptyalism [87.6% (617/704)], urination [79.1% (556/703)], polydipsia [78.4% (551/703)], mydriasis [71.8% (505/703)], and owner-reported appetite changes [73.9% (520/704)]; the latter could not be confidently attributed to seizure-associated autonomic dysfunction. The least prevalent were priapism [14.6% (66/452)], apnoea [16.7% (117/701)], anisocoria [18.8% (132/702)], cyanosis [20.5% (144/702)], and abdominal pain [21.3% (150/703)]. Antiseizure drugs, defined as any medications used for epileptic seizure control for both acute and maintenance management, were significantly associated with increased prevalence of several autonomic signs. Additionally, mean course of progression (deterioration) rate (3.6%) was significantly higher than mean course of regression (improvement) rate (2.9%; p < 0.001). When analysed by body system, overall regression was most common for gastrointestinal [11.2% (79/704)] and urogenital [8.8% (62/704)] autonomic signs, and overall progression was most common for gastrointestinal [15.9% (112/704)] and cardiorespiratory [15.8% (111/704)] autonomic signs.\nCONCLUSION: This study demonstrated that autonomic signs are ubiquitous in epileptic dogs, progression of autonomic signs is uncommon, and progression occurs more often than regression. The prevalence of autonomic signs in epileptic dogs appears to be significantly higher than previously reported. Additionally, changes in the course of autonomic signs indicate the need to monitor autonomic activity in individuals managed for epilepsy, due to the potential impact on quality of life (QoL).",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1891856",
+    "authors": "Skinner C et al.",
+    "topic": "消化器",
+    "date_added": "2026-09-18"
+  },
+  {
+    "pmid": "42754084",
+    "title": "Integrative Copy-Number and Dependency Mapping in Canine High-Grade Nodal Lymphoma Identifies Candidates for Targeted Therapy.",
+    "abstract": "High-grade nodal lymphomas (HGNL) in dogs are aggressive malignancies and important comparative models for human non-Hodgkin lymphoma; however, their copy-number architecture remains incompletely defined. This study applied high-density SNP arrays optimized for FFPE DNA to 90 canine HGNLs (77 B-cell [BCL], 13 T-cell [TCL]) to map genome-wide copy-number alterations (CNAs) and recurrent copy-number altered regions (CNARs), and to integrate them with candidate gene drivers and potential therapeutic targets. Across immunophenotypes, CNAs were dominated by gains on CFA13, syntenic to human 8q24 and encompassing MYC and additional oncogenes, supporting conserved MYC-driven programs in aggressive lymphoma. BCLs displayed a markedly higher CNA burden and broader CNAR genome coverage (~24%) than TCLs (6.8%); TCL CNARs were fewer and shorter, suggesting reliance on a limited set of highly impactful lesions rather than widespread chromosomal instability. CNAR analysis demonstrated distinct genomic divergence between BCLs and TCLs with minimal regional overlap. The underrepresentation of deletion events likely reflects reduced sensitivity for detecting losses in FFPE-derived DNA rather than a purely biological absence. Integration of CNAR genes with human DepMap dependency data and DGIdb identified eight druggable genes linked to 17 antineoplastic agents, nominating both repurposable drugs already used in canine lymphoma and new candidates (e.g., proteasome and HDAC inhibitors, pathway modulators) for biomarker-guided trials. These findings define distinct yet partially convergent copy-number architectures in canine B- and T-cell HGNL, refine the catalogue of recurrent lesions, and uncover actionable genomic alterations with cross-species therapeutic relevance. These exploratory findings require validation in larger, multicenter cohorts using orthogonal methods before they can support translational applications.",
+    "journal": "Vet J",
+    "year": "2026",
+    "doi": "10.1016/j.tvjl.2026.106881",
+    "authors": "Garnica TK et al.",
+    "topic": "リンパ腫",
+    "date_added": "2026-09-18"
+  },
+  {
+    "pmid": "42751143",
+    "title": "Mitochondria-associated endoplasmic reticulum membranes in canine and feline diabetic kidney disease: mechanistic links and nutritional implications.",
+    "abstract": "Diabetic kidney disease in dogs and cats is clinically relevant but mechanistically underdefined, and the dietary management of diabetic pets is still dominated by empirical control of glycemia, body weight, and renal nutrient load. Mitochondria-associated endoplasmic reticulum membranes (MAMs) are dynamic contact domains that coordinate calcium transfer, lipid exchange, ER stress, mitochondrial quality control, inflammatory signaling, and cell death. This review first summarizes the veterinary clinical context of canine and feline diabetic kidney disease, including proteinuria, microalbuminuria, hypertension, chronic kidney disease, and species-specific differences in diabetes pathophysiology. It then integrates MAM biology into core renal injury modules involving structural tethering proteins, the IP3R-GRP75-VDAC-MCU/MICU1 calcium axis, lipid metabolic enzymes, PERK/GRP78-mediated ER stress, mPTP opening, mitophagy, and inflammatory amplification. Because direct MAM evidence in diabetic dogs and cats remains limited, the MAM-related pathways discussed here are presented as hypotheses inferred from rodent DKD models, human cell lines, and broader metabolic-disease studies rather than as confirmed mechanisms in companion animals. Finally, we discuss how MAM-centered mechanisms may guide the development of functional prescription diets incorporating EPA/DHA, medium-chain triglycerides, L-carnitine, taurine, magnesium, N-acetylcysteine, antioxidants, resveratrol, and selected plant extracts, provided that efficacy and safety are validated using species-specific renal endpoints. This perspective may support a transition from empirical formulation to mechanism-informed precision nutrition for diabetic dogs and cats.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1848289",
+    "authors": "Yang Q et al.",
+    "topic": "腎臓",
+    "date_added": "2026-09-18"
+  },
+  {
+    "pmid": "42750239",
+    "title": "Retrospective evaluation of outcomes in dogs with non-associative immune-mediated haemolytic anaemia treated with rivaroxaban as a sole or adjunctive thromboprophylaxis agent: 34 cases (2018-2024).",
+    "abstract": "OBJECTIVES: To describe clinical outcomes, thromboembolic and haemorrhagic complications, and treatment characteristics in dogs with non-associative immune-mediated haemolytic anaemia treated with rivaroxaban at a UK referral hospital.\nMATERIALS AND METHODS: Retrospective descriptive study of dogs diagnosed with non-associative immune-mediated haemolytic anaemia and prescribed rivaroxaban as part of their management protocol between January 2018 and July 2024.\nRESULTS: Thirty-four dogs met inclusion criteria. Median admission haematocrit was 14.1% (range 7.0% to 25.5%). Primary management of immune-mediated haemolytic anaemia was with corticosteroids (34/34; 100%), which were the sole agent in 8/34 (24%). Adjunctive therapies included mycophenolate mofetil (26/34; 70.6%), azathioprine (1/34; 2.9%) and leflunomide (1/34; 2.9%). Rivaroxaban was administered at a median total daily dose of 1.2 mg/kg/day (range 1.03 to 1.97 mg/kg/day); 29/34 dogs (85.3%) received concurrent clopidogrel. Confirmed or suspected thromboembolic events occurred in 7/34 dogs (20.6%), all during initial hospitalisation. Gastrointestinal bleeding occurred in 5/34 dogs (14.7%); all five were receiving concurrent corticosteroids, mycophenolate mofetil and rivaroxaban. Two bleeding events were classified as major adverse events, including one fatal case. Overall, 26 dogs (76.5%) survived to discharge. Remission was confirmed in 19/26 discharged dogs (73.1%) at a median of 33 days (range 15 to 156). Relapse occurred in 2/19 dogs (10.5%) post-remission. Of 21 dogs with follow-up available, 20 (95.2%) were alive at last known contact.\nCLINICAL SIGNIFICANCE: This represents one of the largest UK-based cohorts of dogs with non-associative immune-mediated haemolytic anaemia treated with rivaroxaban, demonstrating acceptable survival and remission rates with this thromboprophylaxis protocol. The occurrence of clinically significant gastrointestinal bleeding exclusively in dogs receiving concurrent corticosteroids, mycophenolate mofetil and rivaroxaban represents an important safety signal that warrants consideration and further study.",
+    "journal": "J Small Anim Pract",
+    "year": "2026",
+    "doi": "10.1111/jsap.70202",
+    "authors": "Conway S et al.",
+    "topic": "消化器",
+    "date_added": "2026-09-18"
+  },
+  {
+    "pmid": "42750106",
+    "title": "Management of Severe Bromethalin Toxicosis in a Dog, Including the Use of Prolonged Hemodiafiltration Therapy.",
+    "abstract": "OBJECTIVE: To describe the management of severe bromethalin intoxication in a dog, including the use of extracorporeal therapies and their effects on serum desmethylbromethalin levels.\nCASE SUMMARY: A 13-year-old neutered male miniature Australian Shepherd presented after suspected ingestion of bromethalin rodenticide. Despite intravenous fluids and activated charcoal, the dog progressively declined neurologically in a 24-h period, ultimately developing a Cushing reflex. Medical management included hyperosmotic therapies, antiepileptics, intralipids, and warm water enemas. Hemodiafiltration (HDF) was attempted due to the dog's continued decline and a persistently lipemic serum, which precluded repeated doses of intralipids. Serum desmethylbromethalin concentrations were measured before, during, and after HDF, and no clearance was noted across the filter or in the effluent. Regardless, the dog improved with a total hospitalization duration of 5 days and a complete return of neurologic function.\nNEW OR UNIQUE INFORMATION PROVIDED: This case describes the rapid and successful clinical recovery of a dog with the highest reported levels of desmethylbromethalin, with serum desmethylbromethalin concentrations decreasing faster than the expected half-life. HDF was attempted but was found to be unsuccessful in the clearance of bromethalin.",
+    "journal": "J Vet Emerg Crit Care (San Antonio)",
+    "year": "2026",
+    "doi": "10.1111/vec.70165",
+    "authors": "Gardiner DT et al.",
+    "topic": "副腎",
+    "date_added": "2026-09-18"
+  },
+  {
+    "pmid": "42750096",
+    "title": "Clinical Features, Medical Management, and Patient Outcomes Following Sand Ingestion in 55 Dogs (2018-2024).",
+    "abstract": "OBJECTIVE: To evaluate the management and outcome in dogs after sand ingestion.\nMETHODS: Retrospective study performed between January 2018 and December 2024, including 55 dogs with radiographically confirmed sand ingestion.\nRESULTS: Nineteen dogs (35%) had radiographs consistent with a gastrointestinal obstruction. All dogs were medically managed, and no dog underwent surgical intervention. Twenty-six dogs (47%) were hospitalized, while 29 (53%) received outpatient therapy. Hospitalization was recommended but was declined by the owner in 19 dogs (66%) managed as outpatients. Hospitalization was not recommended in 10 dogs due to the identification of sand only in the distal small intestines or colon. Dogs that were managed as outpatients were significantly younger and had lower total plasma protein concentration than dogs that were managed as inpatients. In addition, dogs managed as outpatients had lower blood lactate concentrations than inpatients. All hospitalized dogs (100%) had resolution of clinical signs, and 29 of the 30 dogs that received outpatient care (97%) had complete resolution of clinical signs. One dog (3%) was lost to follow-up.\nCONCLUSIONS: The prognosis associated with medical management for sand ingestion in dogs is excellent, and dogs managed as inpatients or outpatients had resolution of clinical signs.",
+    "journal": "J Vet Emerg Crit Care (San Antonio)",
+    "year": "2026",
+    "doi": "10.1111/vec.70150",
+    "authors": "Gao A et al.",
+    "topic": "消化器",
+    "date_added": "2026-09-18"
   }
 ]
