@@ -2077,5 +2077,16 @@
     "authors": "Gao A et al.",
     "topic": "消化器",
     "date_added": "2026-09-18"
+  },
+  {
+    "pmid": "42761127",
+    "title": "Cirevetmab, a novel canine anti-TGFβ monoclonal antibody, exerts antifibrotic effects on renal cells in vitro.",
+    "abstract": "INTRODUCTION: Transforming Growth Factor-β (TGF-β) has been implicated for its role in fibrosis and progression of chronic kidney disease (CKD) in both humans and rodents. Additionally, CKD is a common and progressive condition in canines, with striking pathological similarities to human disease. However, targeted therapies addressing fibrogenic mediators in dogs remain underexplored.\nMETHODS: We investigated the role of all three TGF-β isoforms (TGF-β1, TGF-β2, and TGF-β3) in CKD and renal fibrosis with in vitro model systems using human and canine primary renal proximal tubular epithelial cells. The studies assessed the induction of the canonical TGF-β pathway and the ability of a novel canine anti-TGF-β monoclonal antibody, cirevetmab, to neutralize these effects. All three TGF-β isoforms induced phosphorylation of SMAD3 (homologs of Drosophila mothers against decapentaplegic and C. elegans SMA proteins), nuclear translocation, and alpha-smooth muscle actin (αSMA).\nRESULTS: Treatment with cirevetmab led to robust neutralization of TGF-β1-induced SMAD phosphorylation and fibrotic marker changes. Notably, although cirevetmab exerted modest neutralization of TGF-β3-induced SMAD phosphorylation, this was not associated with a significant change in TGF-β3-induced fibrotic markers. Conversely, no neutralization of TGF-β2-induced activity was observed with cirevetmab.\nDISCUSSION: Our results demonstrate that cirevetmab selectively neutralizes TGF-β1 and, to a lesser extent, TGF-β3-induced SMAD phosphorylation in vitro, while only significantly neutralizing TGF-β1-induced fibrotic markers in renal proximal tubule cells.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1885917",
+    "authors": "Kappenman DL et al.",
+    "topic": "腎臓",
+    "date_added": "2026-09-20"
   }
 ]
