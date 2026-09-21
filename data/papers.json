@@ -2088,5 +2088,27 @@
     "authors": "Kappenman DL et al.",
     "topic": "腎臓",
     "date_added": "2026-09-20"
+  },
+  {
+    "pmid": "42765739",
+    "title": "Transforming growth factor-β in kidney disease in dogs and cats: a review of the evidence of its role in renal fibrosis.",
+    "abstract": "A growing body of literature implicates the transforming growth factor (TGF)-β pathway in the progression of chronic kidney disease (CKD) in dogs and cats by promoting renal fibrosis. In rodents and humans, TGF-β is a key player in development of glomerulosclerosis and renal interstitial fibrosis. The pathway is also immunomodulatory, underscoring the complexity of its downstream effects. Recently, evidence for the role of TGF-β in small animal CKD has been presented using multiple methodologies, including serum and urinary biomarkers, as well as gene and protein expression in renal tissue and primary renal cell cultures. The aim of this review is to integrate these data and highlight consistencies and discrepancies in the literature. Some of the most convincing data supporting the role of the TGF-β pathway includes biomarker levels and pathway analysis of transcriptional profiles in spontaneous CKD in cats and in the X-linked Alport model in dogs. Demonstration of the presence of TGF-β protein is challenging due to lack of commercially available immunohistochemistry (IHC) antibodies that are sensitive and specific for active variants and isoforms TGF-β in dogs and cats. Cross-reactivity of IHC antibodies with latent TGF-β isoforms (complexed with extracellular matrix proteins) complicates the interpretation of IHC labeling. The mechanisms by which TGF-β activates fibroblasts and injures glomeruli in small animals is an area for future research. Although the relationship between TGF-β and glomerulosclerosis is mostly theoretical based on extrapolation from humans and rodents, substantial evidence strongly supports a role for TGF-β in renal interstitial scarring of small animals.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag206",
+    "authors": "Cianciolo RE et al.",
+    "topic": "腎臓",
+    "date_added": "2026-09-21"
+  },
+  {
+    "pmid": "42765737",
+    "title": "Response to: citation clarification regarding feline eltrombopag in the ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
+    "abstract": "",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag214",
+    "authors": "LeVine DN et al.",
+    "topic": "IMHA/ITP",
+    "date_added": "2026-09-21"
   }
 ]
