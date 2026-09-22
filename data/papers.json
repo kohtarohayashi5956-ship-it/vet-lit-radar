@@ -2110,5 +2110,27 @@
     "authors": "LeVine DN et al.",
     "topic": "IMHA/ITP",
     "date_added": "2026-09-21"
+  },
+  {
+    "pmid": "42767337",
+    "title": "De Ritis Ratio and L-FABP as Supportive Biomarkers of Hepatic Involvement in Cats with Effusive FIP.",
+    "abstract": "Feline infectious peritonitis (FIP), caused by feline infectious peritonitis virus (FIPV), is a systemic disease affecting multiple organs. Although routine biochemical parameters are not diagnostic, they may aid in clinical suspicion. The aim of this study was to investigate the clinical utility of the De Ritis ratio (AST/ALT) and liver-type fatty acid-binding protein (L-FABP) as candidate biomarkers of liver-associated biochemical alterations in cats with effusive FIP. A total of 47 client-owned cats naturally infected with feline coronavirus (FCoV) were included: 37 cats with suspected effusive FIP (thoracic effusion, n = 14; abdominal effusion, n = 23) and 10 FCoV-positive asymptomatic cats as controls. FIPV infection was confirmed by RT-PCR of thoracic or abdominal effusion samples in all cats with suspected effusive FIP. Control cats were clinically healthy, FCoV-positive by fecal RT-PCR, and had no evidence of FIPV infection. The De Ritis ratio was significantly higher in cats with abdominal effusive FIP than in asymptomatic FCoV-positive controls and demonstrated excellent discriminatory performance for identifying abdominal effusive FIP (AUC = 0.843) and effusive FIP overall (AUC = 0.808). Although serum L-FABP concentrations did not differ significantly between groups, ROC analysis demonstrated acceptable-to-excellent discriminatory performance for cats with effusive FIP (AUC = 0.730-0.854), suggesting complementary rather than standalone clinical utility. These findings suggest that the De Ritis ratio may represent a supportive indicator of liver-associated biochemical alterations in cats with effusive FIP, whereas the clinical utility of L-FABP remains preliminary and warrants further clinical validation.",
+    "journal": "Top Companion Anim Med",
+    "year": "2026",
+    "doi": "10.1016/j.tcam.2026.101104",
+    "authors": "Gulersoy E et al.",
+    "topic": "FIP",
+    "date_added": "2026-09-22"
+  },
+  {
+    "pmid": "42766861",
+    "title": "Plasma proteomic profiling in dogs with pheochromocytoma.",
+    "abstract": "BACKGROUND: Pheochromocytomas (PCCs) in dogs are challenging to diagnose. Plasma proteomics offers a minimally invasive approach to identify circulating biomarkers and disease-relevant pathways.\nHYPOTHESIS/OBJECTIVES: To compare the plasma proteome of dogs with PCC and controls to (1) identify differentially abundant proteins, (2) characterize altered pathways, and (3) nominate candidate circulating biomarkers and therapeutic targets.\nANIMALS: Plasma from 10 client-owned PCC dogs and 10 healthy controls.\nMETHODS: Multicenter, retrospective, observational, exploratory study using label-free liquid chromatography-mass spectrometry. Primary outcomes were the identification of differentially abundant proteins and characterization of altered pathways and protein functions.\nRESULTS: Principal component analysis demonstrated clear separation between PCC and control dogs. Of 261 reliably quantified proteins, 51 were differentially abundant (false discovery rate-adjusted P < .05). Of these, 33 had a log2 fold change of >1 or < -1, with 15 showing higher and 18 lower plasma abundance in PCC. Compared with controls, PCC dogs showed increased abundance of proteins linked to cell adhesion/migration and metastatic potential, hemostasis, and regulation of apoptotic signaling, alongside alterations in oxidative stress and metabolic processes. Several proteins with higher abundance, including CD44, peroxiredoxin-2, and peptidyl-prolyl cis-trans isomerase, emerged as promising candidates for therapeutic exploration.\nCONCLUSIONS AND CLINICAL IMPORTANCE: Dogs with PCC exhibit a distinct circulating protein signature vs healthy controls, providing clues to PCC pathogenesis and nominating proteins as diagnostic biomarker candidates and potential therapeutic targets.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag212",
+    "authors": "van den Berg MF et al.",
+    "topic": "副腎",
+    "date_added": "2026-09-22"
   }
 ]
