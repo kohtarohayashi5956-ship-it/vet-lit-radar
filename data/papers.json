@@ -2132,5 +2132,16 @@
     "authors": "van den Berg MF et al.",
     "topic": "副腎",
     "date_added": "2026-09-22"
+  },
+  {
+    "pmid": "42773435",
+    "title": "Evaluation of urinary biomarkers for detection of renal tubular injury in Vipera berus-envenomated and critically ill dogs with and without clinically apparent acute kidney injury.",
+    "abstract": "BACKGROUND: Acute kidney injury (AKI) in dogs has high mortality and early diagnosis is essential, but traditional markers are not sensitive enough to detect renal injury in the absence of decreased glomerular filtration rate. The objective of this study was to compare urinary cystatin C (uCysC), N-acetyl-β-D-glucosaminidase (uNAG), and glucose (uGlu) among dogs hospitalised because of envenomation by Vipera berus (EVB) or admitted for intensive care without (IC) or with (AKIAPP) clinically apparent AKI, and 30 healthy dogs. Urine and serum samples were collected on days 1 and 2, and urine samples on days 7 and 14. Urinary CysC, NAG, and glucose concentrations were measured with an automated chemistry analyser, normalised to urinary creatinine concentration (uCr) and compared among groups.\nRESULTS: Ninety-seven dogs were included (30 HC, 28 EVB, 14 AKIAPP and 25 IC dogs). Age, bodyweight, and sex did not differ among groups. On day 1, median [IQR] uCysC/uCr (10-3) and uGlu/uCr were higher (p < 0.008) in EVB (0.05 [0.03-0.11], 0.04 [0.03-0.06)]), IC (0.06 [0.03-0.4], 0.05 [0.03-0.09]), and AKIAPP (4.4 [0.13-30.0], 0.12 [0.05-0.45]) groups, compared to healthy dogs (0.02 [0.01-0.03], 0.03 [0.02-0.04]). Urinary markers decreased over two weeks post hospitalisation in all groups except AKIAPP. Initial levels of uCysC/uCr were higher (p < 0.002) and remained elevated in non-survivors compared to survivors of AKIAPP, suggesting potential prognostic value.\nCONCLUSIONS: Urinary CysC/uCr and Glu/uCr are potential markers of tubular injury in early stages of AKI in dogs.",
+    "journal": "BMC Vet Res",
+    "year": "2026",
+    "doi": "10.1186/s12917-026-05939-1",
+    "authors": "Selin AK et al.",
+    "topic": "腎臓",
+    "date_added": "2026-09-23"
   }
 ]
