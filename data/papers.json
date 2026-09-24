@@ -2143,5 +2143,71 @@
     "authors": "Selin AK et al.",
     "topic": "腎臓",
     "date_added": "2026-09-23"
+  },
+  {
+    "pmid": "42781415",
+    "title": "Body condition, age, and sex as modulators of peripheral blood immune-cell populations and lymphocyte proliferation in cats.",
+    "abstract": "Feline obesity is common, and in other species it has been linked to immune dysregulation; yet its immunological consequences in cats, and their modulation by age and sex, remain poorly defined. Whole blood from 78 neutered client-owned cats (37 males, 41 females; 1-16 years) was analyzed by flow cytometry using a panel characterizing T cells (including CD5+CD4+ and CD5+CD8+ subsets), B cells (CD21+) and natural killer (CD56+) cells with their activation (CD80) and proliferation (Ki67) status. Cats were grouped by body condition score into normal-weight (4-5) and overweight (6-9); lymphocyte proliferation was assessed in a subset by a carboxyfluorescein succinimidyl ester assay after concanavalin A stimulation, and serum amyloid A, triglycerides and adiponectin were measured in overweight cats. Across the cohort, overweight cats displayed higher frequencies of proliferating CD21+Ki67+ B cells than normal-weight cats, while the proliferation assay was descriptively consistent with enhanced T-cell proliferation in both sexes. Increasing age was associated with a decline in CD5+CD4+ T cells in both sexes and, in females, additionally in CD5+CD21+ cells alongside rising CD80 expression. Sex differences shifted across life, from B-cell activation in young adults to T-cell subsets in adults (higher CD5+CD8+ in males, higher Ki67+ fractions in females) and CD56+ NK cells in the oldest cats. Body-condition effects were largely age- and sex-specific and emerged only after stratification: adult overweight males showed higher proliferating CD4+Ki67+ and CD8+Ki67+ T cells, young-adult overweight females higher CD5+ and activated CD5+CD21+CD80+ cells, and aged overweight females fewer proliferating CD5+CD21+Ki67+ B cells. Among overweight cats, higher adiponectin was associated with fewer CD5+ lymphocytes, with no associations for serum amyloid A or triglycerides. Overall, feline obesity was associated with subtle changes in immune-cell composition but more pronounced effects on lymphocyte proliferative responsiveness, both strongly modulated by age and sex.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1943507",
+    "authors": "Krüger H et al.",
+    "topic": "肥満/体重管理",
+    "date_added": "2026-09-24"
+  },
+  {
+    "pmid": "42780347",
+    "title": "In vitro effects of apigenin, curcumin, and fumaric acid on intracellular ROS and TNF-α responses in Escherichia coli-stimulated canine PBMCs.",
+    "abstract": "BACKGROUND: Chronic inflammatory enteropathy (CIE) is a common gastrointestinal disorder in dogs and is associated with dysregulated inflammatory and oxidative responses, potentially contributing to the development of endotoxemia.\nMETHODS: The present study investigated the effects of apigenin, curcumin, and fumaric acid on inflammatory and oxidative responses in canine peripheral blood mononuclear cells (PBMCs) under endotoxin- and bacteria-associated stimulation. PBMCs obtained from three healthy donor dogs were exposed to Escherichia coli O111:B4 or O127:B8 lipopolysaccharide (LPS), or to enrofloxacin-treated E. coli, and subsequently treated with the tested compounds. Cellular metabolic activity, LDH release, intracellular reactive oxygen species (ROS), H2O2 production, and TNF-α secretion were assessed. Minimum inhibitory concentration (MIC), mutant prevention concentration (MPC), and fractional inhibitory concentration (FIC) indices were determined to evaluate antimicrobial activity and interactions with enrofloxacin, amoxicillin-clavulanic acid, and gentamicin.\nRESULTS: None of the tested compounds significantly altered metabolic activity or LDH release under the applied conditions. Curcumin consistently reduced intracellular ROS and H2O2 production under selected stimulated conditions and decreased TNF-α secretion. Apigenin increased DCF-derived intracellular ROS under basal conditions and following lower-intensity O111 LPS stimulation, while reducing H2O2 and TNF-α production under several conditions, indicating a stimulus- and assay-dependent effect on cellular redox responses. Fumaric acid showed more limited, stimulus-dependent effects on oxidative and inflammatory parameters. Antimicrobial activity was also evaluated against four canine septicemic E. coli isolates. Due to limited solubility, the MIC and MPC values of the tested compounds were ≥1,024 μg/mL and could not be reliably determined above this concentration. Curcumin showed synergistic interaction with amoxicillin-clavulanic acid only against isolate No. 863, whereas fumaric acid exhibited concentration-dependent antagonism with enrofloxacin.\nCONCLUSION: Overall, the findings demonstrate compound- and stimulus-dependent modulation of oxidative and inflammatory responses in canine PBMCs and support further investigation of these compounds in disease-relevant models of endotoxemia and canine CIE.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1930766",
+    "authors": "Móritz AV et al.",
+    "topic": "消化器",
+    "date_added": "2026-09-24"
+  },
+  {
+    "pmid": "42778368",
+    "title": "Oxibendazole induces cell cycle arrest and apoptosis in canine large-cell alimentary lymphoma cells.",
+    "abstract": "Canine large-cell alimentary lymphoma (LCAL) responds poorly to chemotherapy and carries a poor prognosis. We investigated the antitumor effects of oxibendazole (OBZ), a benzimidazole anthelmintic identified by drug screening, in three canine LCAL cell lines. OBZ reduced cell viability in a dose-dependent manner, with half-maximal inhibitory concentration values of 0.08-0.16 μM. Cell cycle analysis showed increased G2/M and sub-G1 fractions, whereas an annexin V/propidium iodide assay demonstrated increased early and late apoptotic cells. Western blotting demonstrated caspase-3 cleavage following OBZ treatment. These findings indicate that OBZ exerts antitumor effects against canine LCAL cells by inducing G2/M cell cycle arrest and caspase-dependent apoptosis and suggest that OBZ may be a candidate for drug repurposing in canine LCAL.",
+    "journal": "J Vet Med Sci",
+    "year": "2026",
+    "doi": "10.1292/jvms.26-0360",
+    "authors": "Sakai K et al.",
+    "topic": "リンパ腫",
+    "date_added": "2026-09-24"
+  },
+  {
+    "pmid": "42778364",
+    "title": "Serum fibroblast growth factor-23 and magnesium concentrations in cats with acute kidney injury: association with disease pathophysiology.",
+    "abstract": "Cats with acute kidney injury (AKI) have a high mortality rate and are at risk of progression to chronic kidney disease (CKD). Fibroblast growth factor-23 (FGF-23) and magnesium, which are involved in mineral homeostasis and AKI outcomes, may contribute to this progression. This study aimed to evaluate serum FGF-23 and magnesium concentrations at diagnosis in cats with AKI and to investigate their associations with clinical outcomes. This retrospective study included client-owned cats with AKI. Serum FGF-23 and magnesium concentrations were measured at diagnosis, and their associations with AKI outcomes were analyzed. Forty-five cats were enrolled. Serum FGF-23 (P=0.01) and magnesium (P=0.01) concentrations were elevated. Serum FGF-23 tended to increase with prior CKD severity, although differences among CKD groups were not significant (P=0.10). Serum FGF-23 was significantly associated with treatment duration (P=0.008) and changes in serum creatinine during hospitalization (P=0.003), independent of prior CKD status and serum creatinine at diagnosis. A 10-fold increase in FGF-23 was associated with an approximately 47% decrease in the hazard of reaching the lowest serum creatinine concentration. Magnesium was not significantly associated with these outcomes. Measurement of serum FGF-23 at the time of AKI diagnosis may help predict hospitalization duration and renal function decline. Although the role of serum magnesium in the pathophysiology of AKI could not be clearly determined, further investigation of its relationship with FGF-23 may contribute to the development of novel therapeutic strategies.",
+    "journal": "J Vet Med Sci",
+    "year": "2026",
+    "doi": "10.1292/jvms.26-0210",
+    "authors": "Miyagawa A et al.",
+    "topic": "腎臓",
+    "date_added": "2026-09-24"
+  },
+  {
+    "pmid": "42778163",
+    "title": "Canine pleuroperitoneal diaphragmatic hernias: a multicentric, retrospective, observational analysis of 20 dogs (2009-2026).",
+    "abstract": "OBJECTIVES: To describe the signalment, clinical presentation, diagnostic findings, surgical management and outcomes of dogs undergoing surgical management for pleuroperitoneal diaphragmatic hernia.\nMATERIALS AND METHODS: Medical records from seven referral hospitals were retrospectively reviewed to identify dogs diagnosed with pleuroperitoneal diaphragmatic hernia during the study period. Data collected included signalment, clinical presentation, diagnostic imaging findings, surgical findings, post-operative complications and outcome. Complications were classified using the Clavien-Dindo grading system.\nRESULTS: Twenty dogs met the inclusion criteria. Median age at surgery was 8.9 months (3.0 months to 10.2 years) and Cavalier King Charles Spaniels represented 30% (6/20) of cases. Seventeen dogs presented with clinical signs attributable to pleuroperitoneal diaphragmatic hernia, most commonly vomiting (45%, 9/20), tachypnoea (40%, 8/20) and dyspnoea (35%. 7/20), while three hernias were diagnosed incidentally. The stomach was the most frequently herniated organ (65%, 13/20), followed by the spleen (50%, 10/20) and small intestine (45%, 9/20). Hernias were most commonly located in the dorsolateral left crus of the diaphragm (80%, 16/20). Surgical enlargement of the defect to facilitate reduction of herniated viscera was required in 35% (7/20) of cases. Nineteen dogs underwent successful herniorrhaphy; one dog was euthanased intraoperatively because of extensive jejunal necrosis associated with mesenteric volvulus. Post-operative complications occurred in 47% (9/19) dogs, and all dogs survived to discharge. One dog developed hernia recurrence.\nCLINICAL SIGNIFICANCE: Pleuroperitoneal diaphragmatic hernia may present with acute respiratory and gastrointestinal signs or be identified incidentally during diagnostic imaging or surgery. Surgical correction is associated with favourable outcomes and a low recurrence rate.",
+    "journal": "J Small Anim Pract",
+    "year": "2026",
+    "doi": "10.1111/jsap.70206",
+    "authors": "Mitchell F et al.",
+    "topic": "消化器",
+    "date_added": "2026-09-24"
+  },
+  {
+    "pmid": "42777771",
+    "title": "Gene electrotransfer for DNA immunotherapy in veterinary oncology: Technical Tutorial Video.",
+    "abstract": "OBJECTIVE: To demonstrate the technique of gene electrotransfer (GET) for administration of plasmid DNA immunotherapy in veterinary oncology.\nANIMALS: The method demonstrated in the video is relevant to both canine and feline cancer patients undergoing administration of DNA immunotherapies.\nMETHODS: This Technical Tutorial Video demonstrates patient preparation, IM plasmid administration, electrode positioning, electroporation pulse delivery, and postprocedural assessment for a GET procedure. Required equipment, procedure workflow, and practical technical considerations are reviewed.\nRESULTS: The video illustrates the general workflow for delivery of plasmid DNA immunotherapy using IM GET under general anesthesia, including patient preparation, plasmid administration, pulse delivery, and patient monitoring.\nCLINICAL RELEVANCE: GET is increasingly used in veterinary oncology to facilitate delivery of DNA immunotherapies targeting tumor-associated antigens and immunomodulatory molecules. This tutorial provides a practical overview of the technique.",
+    "journal": "J Am Vet Med Assoc",
+    "year": "2026",
+    "doi": "10.2460/javma.26.05.0428",
+    "authors": "Impellizeri JA et al.",
+    "topic": "免疫療法",
+    "date_added": "2026-09-24"
   }
 ]
