@@ -2209,5 +2209,38 @@
     "authors": "Impellizeri JA et al.",
     "topic": "免疫療法",
     "date_added": "2026-09-24"
+  },
+  {
+    "pmid": "42787421",
+    "title": "Case Report: Palliative benefit of hypofractionated radiation therapy (6 Gy × 6 fractions) with temporary tracheostomy in a cat with laryngeal B-cell lymphoma progressing during chemotherapy.",
+    "abstract": "A 12-year-old spayed female Maine Coon cat was diagnosed with cervical T-cell-rich B-cell lymphoma. During modified L-CHOP-based chemotherapy, the cat developed progressive upper airway obstruction associated with a laryngeal lesion. Initial CT suggested contiguous laryngeal involvement, and follow-up imaging revealed severe laryngeal narrowing. An emergency temporary tracheostomy was performed for airway stabilization, and subsequent punch biopsy of the laryngeal lesion was most consistent with diffuse large B-cell lymphoma. Hypofractionated palliative radiation therapy (6 Gy × 6 fractions; total dose 36 Gy) was initiated to address the obstructive mass. Progressive tumor shrinkage was observed during treatment, and by the fourth fraction the tracheostomy tube was successfully removed without recurrence of airway obstruction. Follow-up CT 17 days after radiation therapy initiation showed no visible laryngeal lesion, and no respiratory signs or airway obstruction recurred before the cat died on day 27 following clinically suspected systemic disease progression. This case suggests that hypofractionated radiation therapy, in combination with temporary tracheostomy, may provide rapid and effective relief of tumor-induced upper airway obstruction in cats with laryngeal B-cell lymphoma progressing during chemotherapy.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1855062",
+    "authors": "Kim J et al.",
+    "topic": "リンパ腫",
+    "date_added": "2026-09-25"
+  },
+  {
+    "pmid": "42785426",
+    "title": "Successful management of nesidioblastosis in a dog with persistent hyperinsulinemic hypoglycemia following staged bilateral partial pancreatectomies.",
+    "abstract": "Nesidioblastosis is a rare but important differential diagnosis for hyperinsulinemic hypoglycemia in dogs, a condition most commonly associated with insulinoma. A nine-year-old spayed female dog was presented with recurrent episodes of collapse and documented hyperinsulinemic hypoglycemia. Diagnostic imaging failed to identify a pancreatic mass, prompting exploratory laparotomy with left partial pancreatectomy and regional lymphadenectomy. Histopathological examination excluded insulinoma and established a diagnosis of nesidioblastosis. Although clinical signs initially resolved following surgery, hypoglycemia recurred 45 days later, prompting a right partial pancreatectomy. Following the second procedure, the patient remained euglycemic and free of clinical signs, without evidence of clinical diabetes mellitus or exocrine pancreatic insufficiency throughout an eight-month follow-up period. This case underscores the importance of considering nesidioblastosis in dogs with hyperinsulinemic hypoglycemia when a pancreatic mass is not identified. Furthermore, this case suggests that recurrence after unilateral partial pancreatectomy may occur because of the diffuse nature of nesidioblastosis. In this patient, staged bilateral partial pancreatectomy was associated with sustained glycemic control and clinical remission, without clinically apparent endocrine or exocrine pancreatic dysfunction during an eight-month follow-up period.",
+    "journal": "Top Companion Anim Med",
+    "year": "2026",
+    "doi": "10.1016/j.tcam.2026.101103",
+    "authors": "Teyssandier S et al.",
+    "topic": "肝胆膵",
+    "date_added": "2026-09-25"
+  },
+  {
+    "pmid": "42785356",
+    "title": "Feasibility of the ForeSight tissue oximetry system for estimating cerebral and renal tissue oxygen saturation in anesthetized dogs during hyperoxia, normoxia, and hypoxia.",
+    "abstract": "OBJECTIVE: To evaluate the feasibility of the ForeSight tissue oximetry system for assessing regional cerebral and renal tissue oxygen saturation in anesthetized dogs across 3 oxygenation states.\nMETHODS: 6 anesthetized Beagles were included. ForeSight tissue oximetry sensors were applied to the cranium and left lateral abdomen to estimate regional cerebral oxygen saturation (rScO2) and regional renal oxygen saturation (rSrO2). The left dorsal pedal artery, right femoral vein, and right jugular vein were cannulated for arterial and venous blood sampling. The distal tips of the jugular and femoral venous catheters were positioned in the renal vein and the most cranial aspect of the internal jugular vein. During hyperoxia, normoxia, and hypoxia, 1-mL blood samples were collected simultaneously from all 3 sites and analyzed using a blood gas analyzer. Weighted reference oxygenation values (REF-CXB) were calculated. Correlation and agreement between REF-CXB and rScO2 or rSrO2 were assessed using repeated-measures correlation and Bland-Altman analyses.\nRESULTS: rScO2 demonstrated moderate correlation with cerebral REF-CXB (r = 0.70; P < .01) but poor agreement. In contrast, rSrO2 showed no correlation with renal REF-CXB (r = 0.09; P = .62) and poor agreement.\nCONCLUSIONS: rScO2 demonstrated moderate correlation with the blood gas-derived cerebral oxygen saturation reference estimate in anesthetized dogs, whereas rSrO2 did not reliably reflect the corresponding renal oxygen saturation reference estimate.\nCLINICAL RELEVANCE: Trend monitoring of cerebral oxygenation with the ForeSight system may provide an adjunctive tool for real-time assessment of cerebral oxygenation in dogs undergoing general anesthesia.",
+    "journal": "Am J Vet Res",
+    "year": "2026",
+    "doi": "10.2460/ajvr.26.07.0305",
+    "authors": "Sakata H et al.",
+    "topic": "腎臓",
+    "date_added": "2026-09-25"
   }
 ]
