@@ -2627,5 +2627,27 @@
     "authors": "Becskei C et al.",
     "topic": "免疫療法",
     "date_added": "2026-10-03"
+  },
+  {
+    "pmid": "42832652",
+    "title": "Retrospective evaluation of lipiduria in urine from 140 dogs and 74 cats.",
+    "abstract": "BACKGROUND: Lipiduria has recognized physiopathological and diagnostic relevance in human medicine, while data regarding its relevance in animals remain limited.\nHYPOTHESIS/OBJECTIVES: To determine the frequency of lipiduria in dogs and cats and to assess whether lipiduria represents an epiphenomenon or is associated with animal-related factors.\nANIMALS: Urinalysis results from 140 dogs and 74 cats.\nMETHODS: Retrospective study. Cases were included if complete urinalysis data were available. Animals were classified as lipiduric or non-lipiduric. Animal characteristics, as well as selected hematologic and urinary abnormalities, were compared between groups. In dogs, factors potentially associated with the presence of lipiduria were further evaluated using multivariable logistic regression analysis.\nRESULTS: Overall, 58% (125/214) animals were lipiduric, including 46% (64/140) dogs and 82% (61/74) cats. Lipiduria was significantly more frequent in cats (82%) than in dogs (46%) (P < .00001). Among cats, lipiduric individuals were older (mean age 9.5 years; SD ± 4.5; P = .02). In dogs, females (63%; 40/64) were overrepresented in the lipiduric group (P = .0008). Lipiduric dogs had a higher mean urine pH (6.4; SD ± 1.2; P = .00054) and more frequently exhibited struvite crystalluria (17%; 11/64; P = .003). In multivariable analysis, female dogs had 3.5-fold higher odds of lipiduria (OR, 3.5; 95% CI, 1.7-7.3), and the odds of lipiduria increased by 5% for each 0.1-unit increase in urine pH.\nCONCLUSIONS AND CLINICAL IMPORTANCE: Lipiduria was a common finding in this study, particularly in cats. In dogs, our findings suggest a potential link between lipiduria, female status, and high urine pH.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag232",
+    "authors": "Cervone M et al.",
+    "topic": "その他",
+    "date_added": "2026-10-06"
+  },
+  {
+    "pmid": "42830157",
+    "title": "Complete Blood Count Interpretation in Dogs and Cats and Its Analytical Compatibility with Vis-NIR Point-of-Care Hematology: A Systematic Literature Review with Narrative Synthesis.",
+    "abstract": "This systematic literature review with narrative synthesis assessed the diagnostic contribution of complete blood count (CBC) interpretation in dogs and cats combined only with anamnesis and physical examination, without biochemistry or imaging, and the compatibility of the CBC variables and CBC-derived indices identified with emerging point-of-care (POC) hematology platforms using visible-short-wave-near-infrared (Vis-NIR) spectroscopy and self-learning artificial intelligence (SLAI). Following PRISMA 2020 guidelines, studies published from 2015 to January 2026 were identified and integrated into tables associating hematological patterns, CBC-derived indices, clinical presentation, and differential diagnoses. The technology component was appraised separately for analytical compatibility, not as an independent systematic review. Recurrent signatures included inflammatory leukograms, regenerative and non-regenerative anemia, stress leukograms, leukopenic syndromes, and thrombocytopenic disorders. Conventional CBC findings and CBC-derived indices (neutrophil-to-lymphocyte, monocyte-to-lymphocyte, platelet-to-neutrophil and platelet-to-lymphocyte ratios, and the systemic immune-inflammation index) were investigated across infectious, inflammatory, neoplastic, endocrine, cardiovascular, and immune-mediated diseases. However, this evidence is concentrated on pyometra, parvovirosis, pancreatitis, parasitism, cardiopathies and endocrinopathies, derives predominantly from small studies in dogs; these indices remain non-specific markers of systemic inflammatory burden. For POC technology, proof-of-concept studies report agreement with reference analyzers for erythrocyte parameters and total leukocyte counts, but not for the differential and platelet counts several of these indices require. Analytical compatibility is therefore supported for selected CBC parameters, but not clinical validity for CBC-derived indices or disease diagnosis. Whether these platforms can enable rapid, minimally invasive, decentralized CBC monitoring, particularly in fragile, pediatric, geriatric, chronic, and palliative-care patients, remains to be demonstrated in clinical studies.",
+    "journal": "Vet J",
+    "year": "2026",
+    "doi": "10.1016/j.tvjl.2026.106914",
+    "authors": "Bisiaux T et al.",
+    "topic": "肝胆膵",
+    "date_added": "2026-10-06"
   }
 ]
