@@ -2649,5 +2649,27 @@
     "authors": "Bisiaux T et al.",
     "topic": "肝胆膵",
     "date_added": "2026-10-06"
+  },
+  {
+    "pmid": "42833272",
+    "title": "Clinical outcomes were evaluated in 82 dogs with B-cell lymphoma treated with adoptive T-cell therapy following cyclophosphamide, doxorubicin, vincristine, and prednisone chemotherapy.",
+    "abstract": "OBJECTIVE: To describe clinical outcomes and adverse events in dogs with B-cell lymphoma treated with adoptive T-cell therapy (ACT) following cyclophosphamide, doxorubicin, vincristine, and prednisone (CHOP) chemotherapy.\nMETHODS: Medical records of 82 dogs with B-cell lymphoma that received ACT following CHOP chemotherapy between 2017 and 2025 were retrospectively reviewed. Overall survival was defined as the time from lymphoma diagnosis to death from any cause or last follow-up. Post-ACT survival was defined as the time from first ACT infusion to death from any cause or last follow-up. Time to next anti-lymphoma treatment was defined as the time from first ACT infusion to initiation of subsequent lymphoma-directed therapy. Survival outcomes were estimated using Kaplan-Meier analysis.\nRESULTS: 82 dogs met inclusion criteria. Median overall survival from diagnosis was 660 days (95% CI, 539 to 781 days). Median post-ACT survival was 368 days (95% CI, 261 to 474 days), and median time to next anti-lymphoma treatment was 317 days (95% CI, 284 to 350 days). Adoptive T-cell therapy was generally well tolerated following CHOP chemotherapy. Adverse events occurred in 5% (4 of 82) of dogs; most were grade 1 or 2, with 1 grade 3 event reported.\nCONCLUSIONS: Clinical outcomes varied among dogs with B-cell lymphoma treated with ACT following CHOP chemotherapy. Adoptive T-cell therapy was generally well tolerated, with adverse events reported in 4 of 82 dogs.\nCLINICAL RELEVANCE: This study describes clinical outcomes and adverse events in 82 dogs with B-cell lymphoma that received ACT following CHOP chemotherapy. These findings provide clinical data on the use of ACT in this patient population and may inform the design of prospective controlled studies evaluating ACT in canine B-cell lymphoma.",
+    "journal": "J Am Vet Med Assoc",
+    "year": "2026",
+    "doi": "10.2460/javma.26.05.0419",
+    "authors": "Westfall TE et al.",
+    "topic": "リンパ腫",
+    "date_added": "2026-10-07"
+  },
+  {
+    "pmid": "42833267",
+    "title": "Assessment of bowel preparation quality in dogs undergoing colonoscopy using the Boston Bowel Preparation Scale.",
+    "abstract": "OBJECTIVE: To evaluate the efficacy of a bowel preparation protocol consisting of at-home administration of clear broth and polyethylene glycol 3350 followed by colonic flushing immediately before colonoscopy in dogs.\nMETHODS: In this single-referral-center retrospective study, dogs with complete video documentation of the colon were included. Colonic cleanliness was assessed using the Boston Bowel Preparation Scale (BBPS), which scores the 3 colonic segments individually (total score range, 0 to 9 with higher scores indicating better preparation quality). Adequate preparation was defined as a total BBPS score ≥ 6 with no individual segment score < 2.\nRESULTS: Video footage from 49 colonoscopies performed in 47 dogs was assessed by a single examiner. Adequate colonic preparation was achieved in 41 of 49 (84%) colonoscopies. Median total BBPS score was 7 (range, 4 to 9), with median segment scores of 3, 2, and 2 for descending, transverse, and ascending colon, respectively. The ascending colon had significantly lower scores than the descending colon. In 57% of procedures, the indication for colonoscopy was evaluation of chronic enteropathy (combined upper and lower intestinal endoscopy) without specific suspicion of colonic disease.\nCONCLUSIONS: High-quality bowel preparation for colonoscopy can be achieved without complex or logistically demanding protocols. A straightforward, owner-friendly, at-home preparation regimen provided diagnostic-quality colonic visualization in dogs.\nCLINICAL RELEVANCE: These findings may facilitate broader clinical use of colonoscopy in dogs by supporting practical bowel preparation protocols that are feasible for owners and sufficient for diagnostic evaluation, particularly when complete colonic cleanliness is not essential for the intended diagnostic objective.",
+    "journal": "Am J Vet Res",
+    "year": "2026",
+    "doi": "10.2460/ajvr.26.07.0318",
+    "authors": "Ruedi GL et al.",
+    "topic": "消化器",
+    "date_added": "2026-10-07"
   }
 ]
