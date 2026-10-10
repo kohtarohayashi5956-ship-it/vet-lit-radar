@@ -2792,5 +2792,27 @@
     "authors": "André A et al.",
     "topic": "腎臓",
     "date_added": "2026-10-09"
+  },
+  {
+    "pmid": "42849778",
+    "title": "GASTROINTESTINAL TRANSIT TIME OF HEALTHY DOGS BEFORE AND AFTER ENEMA ASSESSED BY CONTRAST RADIOGRAPHS WITH BARIUM-IMPREGNATED POLYETHYLENE SPHERES.",
+    "abstract": "In this prospective experimental study, we aimed to assess the gastrointestinal (GI) transit of healthy dogs with and without an enema, using barium-impregnated polyethylene spheres (BIPS). Six healthy dogs underwent two experimental steps: evaluation of the GI transit using BIPS (BIPS group) before and after enema (BIPS+ENEMA group). All animals were fasted for 12hours, the transit was assessed in serial radiographs from 0 to 12h, and BIPS were counted in each segment of the GI tract, calculating the gastric emptying time and the time the spheres reached the descending colon. Blood cell count, serum biochemistry, electrolytes, and blood glucose levels were assessed during the experiment to evaluate the safety of both BIPs and enema. BIPS were easily identified in all segments of the GI tract. The BIPS group presented gastric emptying starting at H0 and H1, ending around H8. BIPS+ENEMA group showed a delayed gastric emptying, which began around H1 and extended to more than H12, and had a lower percentage of spheres in the descending colon at the end of the evaluation; however, the differences were not statistically significant. BIPS and enema did not cause changes in laboratory evaluation, and the 12-hour fast did not cause hypoglycemia. Based on the findings, when using BIPS for radiographic contrast, an enema is not a required procedure. The use of the enema and BIPS can be considered safe, with no apparent adverse effects in dogs.",
+    "journal": "Vet J",
+    "year": "2026",
+    "doi": "10.1016/j.tvjl.2026.106924",
+    "authors": "de Souza MR et al.",
+    "topic": "消化器",
+    "date_added": "2026-10-10"
+  },
+  {
+    "pmid": "42849777",
+    "title": "Echocardiographic changes in hyperthyroid cats: comparison of subclinical disease and congestive heart failure.",
+    "abstract": "BACKGROUND: Hyperthyroidism induces a wide spectrum of cardiovascular changes in cats, yet the factors distinguishing subclinical cardiac involvement from congestive heart failure (CHF) remain poorly defined. Previous studies have focused primarily on structural changes, with limited evaluation of atrial function or right-sided involvement.\nOBJECTIVES: To compare echocardiographic variables between hyperthyroid cats with subclinical cardiac disease and those presenting in CHF, with emphasis on left atrial remodelling, left atrial function, and left ventricular dimensional changes, and right-sided involvement assessed by right atrial diameter. The comparison of clinical and biochemical variables was a secondary objective.\nMETHODS: A retrospective case-control study was performed using medical records of 51 hyperthyroid cats with subclinical cardiac disease and 47 hyperthyroid cats presenting in CHF. All cats underwent standard echocardiography, serum biochemistry including total thyroxine (TT4). Type of congestion was determined by thoracic radiography or point-of-care ultrasound, and CHF cats were classified as having pulmonary oedema only or pleural/mixed effusion.\nRESULTS: Cats with CHF had significantly larger atrial dimensions and increased left ventricular internal diameter compared with subclinical cats. Left atrial dysfunction was the most robust discriminator between groups. Pleural or mixed effusion was the predominant CHF phenotype and, compared with pulmonary oedema alone, was associated with greater right-sided and global volume overload. TT4 concentrations did not differ significantly between cats with and without CHF. Similarly, biochemical variables showed no significant differences between subclinical or CHF cats or between CHF subtypes.\nCONCLUSIONS: Atrial remodelling - particularly impaired atrial function and biatrial enlargement - represents the clearest echocardiographic marker of decompensation in hyperthyroid cats. The predominance of pleural or mixed effusion highlights the importance of assessing right-sided cardiac measurements. Comprehensive echocardiographic evaluation is essential for early identification of cats at risk of CHF, whereas TT4 concentration alone does not predict cardiac status.",
+    "journal": "Vet J",
+    "year": "2026",
+    "doi": "10.1016/j.tvjl.2026.106915",
+    "authors": "Greil S et al.",
+    "topic": "甲状腺",
+    "date_added": "2026-10-10"
   }
 ]
