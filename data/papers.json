@@ -2814,5 +2814,49 @@
     "authors": "Greil S et al.",
     "topic": "甲状腺",
     "date_added": "2026-10-10"
+  },
+  {
+    "pmid": "42855437",
+    "title": "Presumptive paroxysmal dyskinesia in 41 dogs: is the diet change enough?",
+    "abstract": "BACKGROUND: Paroxysmal dyskinesia (PD) in dogs comprises episodic, involuntary, nonepileptic movement disorders. Recent evidence suggests that PD may be associated with gluten sensitivity, paralleling human gluten-related neurologic syndromes.\nHYPOTHESIS/OBJECTIVES: Characterize clinical features, gastrointestinal comorbidities, gluten-related serology, and response to a gluten-free diet (GFD) in dogs with presumptive gluten-sensitive PD. We hypothesized that dietary modification would decrease episode frequency, particularly in dogs with gastrointestinal signs, seropositivity for anti-gliadin and anti-transglutaminase-2 immunoglobulin A antibodies or both.\nANIMALS: Forty-one client-owned dogs with presumptive PD.\nMETHODS: Retrospective review of dogs diagnosed with presumptive PD at a single institution between 2019 and 2023. Inclusion criteria included > 1 episode, video-documented episodes, normal interictal neurologic examination, serum gluten-related antibody titers, and ≥ 6 months of follow-up after transition to GFD.\nRESULTS: Gastrointestinal signs were reported in 33/41 (80.5%) dogs; 21/41 (51.2%) had at least 1 positive antibody titer. After dietary change, 24/41 (58.5%) dogs achieved complete resolution, 15/41 (36.6%) showed partial response, and 2/41 (4.9%) remained unchanged, regardless of antibody status. All owners reported gastrointestinal improvement. Nine dogs relapsed after initial response: 6 after gluten ingestion, 1 associated with stress, and 2 despite strict GFD. Response to GFD was not significantly associated with gastrointestinal signs or antibody status.\nCONCLUSIONS AND CLINICAL IMPORTANCE: Although dietary response was not significantly associated with antibody status or gastrointestinal signs, GFD led to substantial clinical improvement in most dogs with PD across multiple breeds, supporting a potential link between gluten sensitivity and PD, and a possible role of the gut-brain axis in disease pathogenesis.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag238",
+    "authors": "Reyes HM et al.",
+    "topic": "消化器",
+    "date_added": "2026-10-11"
+  },
+  {
+    "pmid": "42855436",
+    "title": "ClotPro viscoelastic testing in coagulation disorders in dogs: a retrospective analysis.",
+    "abstract": "BACKGROUND: Viscoelastic testing provides whole-blood assessment of coagulation, but clinical data on the performance of the ClotPro in dogs with naturally occurring diseases are limited.\nHYPOTHESIS/OBJECTIVES: To evaluate pathway coherence of ClotPro variables with routine coagulation tests and to explore disease-associated viscoelastic phenotypes, fibrinolysis, and hypercoagulability.\nANIMALS: Eighty-four client-owned dogs admitted to a university hospital.\nMETHODS: Retrospective cohort study. ClotPro variables (clotting time, amplitude at 10 min, maximum clot firmness, maximum lysis across extrinsic pathway test [EX], intrinsic pathway test [IN], fibrinogen test channel, aprotinin test [AP] channels) were compared with prothrombin time (PT), activated partial thromboplastin time (aPTT), platelet count (PLT), and D-dimer using Spearman correlation with Benjamini-Hochberg adjustment. Group differences were assessed with Kruskal-Wallis and Dunn's post hoc. Hyperfibrinolysis (HF) was defined using paired EX-AP. A hypercoagulability index (HCI) and platelet/fibrin-adjusted residual firmness were derived.\nRESULTS: PT correlated with clotting time in EX channel (ρ = 0.48, q = 0.002) and aPTT with clotting time in IN channel (ρ = 0.42, q = 0.007). PLT correlated with maximum clot firmness in EX channel (EX_MCF) (ρ = 0.50, q = 0.001). maximum clot firmness in FIB channel correlated with EX_MCF (ρ = 0.58, q < 0.001) and maximum clot firmness in IN channel (ρ = 0.47, q = 0.003). maximum lysis in EX channel (EX_ML) correlated inversely with EX_MCF (ρ = -0.35, q = 0.028). D-dimer correlated with EX_ML (ρ = 0.30, q = 0.049). Group-level distributions overlapped substantially. HF was infrequent among cases (33% in dogs with hepatopathy and 21% in dogs with hemorrhagic diarrhea). The HCI differed across diseases (P = .0002), whereas platelet/fibrin-adjusted residual firmness did not.\nCONCLUSIONS AND CLINICAL IMPORTANCE: ClotPro variables demonstrated pathway-specific coherence with routine coagulation testing and consistent fibrinolysis patterns. Disease states did not define discrete viscoelastic phenotypes, supporting case-level interpretation.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag254",
+    "authors": "Doulidis PG et al.",
+    "topic": "肝胆膵",
+    "date_added": "2026-10-11"
+  },
+  {
+    "pmid": "42854896",
+    "title": "Biological Response Stability of Refrigerated Cosacthen after Opening and Non-Hormonal Effects of ACTH Stimulation Testing in Healthy Dogs.",
+    "abstract": "The adrenocorticotropic hormone stimulation test (ACTHST) is widely used to evaluate adrenal reserve in dogs. This study assessed the effects of refrigerated storage of tetracosactide (Cosacthen) after opening for up to three weeks and investigated hematological, biochemical, and electrolyte changes following ACTH stimulation. Ten healthy beagle dogs (five males and five females) were enrolled. Each dog received tetracosactide (5 μg/kg, IV) at vial opening (T0) and at 7-day intervals over 3 weeks (T1 to T3), using aliquots from the same vial stored at 2-8°C. Blood samples were collected before and 1 hour after ACTH administration to measure cortisol, hematology, biochemistry, and electrolytes. Clinical monitoring was performed after each test. Cortisol concentrations increased significantly after ACTH administration at all time points (T0-T3). Delta-cortisol was higher at T1 than at T0 (P = 0.0104) and lower at T2 than at T1 (P = 0.0059), with no differences among T0, T2, and T3. After ACTH administration, red blood cell count, hematocrit, hemoglobin, albumin, alkaline phosphatase, triglycerides, cholesterol, potassium, and total calcium decreased significantly, whereas glucose increased. All values remained within reference intervals, and no adverse effects were observed. Refrigerated storage of Cosacthen after opening did not alter cortisol responses. Post-ACTH changes in laboratory variables should be considered when interpreting results.",
+    "journal": "Top Companion Anim Med",
+    "year": "2026",
+    "doi": "10.1016/j.tcam.2026.101106",
+    "authors": "Oliveira MC et al.",
+    "topic": "副腎",
+    "date_added": "2026-10-11"
+  },
+  {
+    "pmid": "42854821",
+    "title": "Development of a feline Cetuximab with therapeutic potential against feline oral squamous cell carcinoma.",
+    "abstract": "Cetuximab is a chimeric murine-human anti-epidermal growth factor receptor (EGFR) monoclonal antibody (mAb) employed in the therapy of head and neck squamous cell carcinoma (HNSCC). Feline oral squamous cell carcinoma (FOSCC), the counterpart of HNSCC, is unresponsive to standard treatments and often lethal for affected cats. As EGFR is highly conserved between humans and cats, our research group attempted to test anti-cancer properties of Cetuximab in EGFR-positive FOSCC preclinical models, obtaining encouraging results in recent work. With the present study, we aimed at generating a \"felinized\" version of Cetuximab suitable for conducting future clinical trials in cat. A chimeric murine-feline IgG composed of variable regions of clinical Cetuximab fused with feline κ and γ constant regions was successfully generated with molecular biology methods. Immunofluorescence assays showed that the purified feline Cetuximab (f-Cetuximab) efficiently bound to human target in transfected cells (J-EGFR) as well as cancer cells endogenously overexpressing EGFR (MDA-MB-231, CAL-27); additionally, flow cytometry demonstrated that the engineered mAb bound feline EGFR in FOSCC cell lines SCCF1/2/3. Most importantly, f-Cetuximab impaired EGFR activity and inhibited cell proliferation in feline (SCCF1/3) and human (CAL-27) oral SCC cell lines. Moreover, LDH-based assays conducted by co-culturing SCCF3 cells and feline peripheral blood mononuclear cells revealed that f-Cetuximab elicited antibody-dependent cell-mediated cytotoxicity, which might be pivotal for therapeutic efficacy of this mAb in vivo. In conclusion, with this study we established a highly specific and effective candidate for an innovative mAb-based therapeutic approach against FOSCC, paving the way for the introduction of molecular targeted therapy in veterinary oncology.",
+    "journal": "Vet J",
+    "year": "2026",
+    "doi": "10.1016/j.tvjl.2026.106918",
+    "authors": "Altamura G et al.",
+    "topic": "免疫療法",
+    "date_added": "2026-10-11"
   }
 ]
