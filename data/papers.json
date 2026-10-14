@@ -2946,5 +2946,49 @@
     "authors": "Akiyoshi M et al.",
     "topic": "リンパ腫",
     "date_added": "2026-10-14"
+  },
+  {
+    "pmid": "42870559",
+    "title": "Reply to letter regarding \"ACVIM-endorsed statement: consensus statement and systematic review on guidelines for the diagnosis and treatment of chronic inflammatory enteropathy in dogs\".",
+    "abstract": "",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag258",
+    "authors": "Heilmann RM et al.",
+    "topic": "消化器",
+    "date_added": "2026-10-14"
+  },
+  {
+    "pmid": "42869081",
+    "title": "Low complication rates are reported in cats presenting for neurological complaints and undergoing cerebrospinal fluid collection.",
+    "abstract": "OBJECTIVE: To assess complications, outcomes, and associated risk factors of cats undergoing CSF collection.\nMETHODS: This was a single-center retrospective cohort study of client-owned cats presenting to 3 referral hospitals for CSF collection from January 2012 through December 2022. Cats were excluded for nonspecific and/or extraneural presenting complaints. If cats had multiple CSF collection presentations, only the first was included. Records were retrospectively assessed for signalment, physical examination findings, modified Glasgow coma scale, general anesthesia (GA) records, diagnostic imaging, clinical pathology results, and suspected or confirmed final diagnosis. Outcomes included complications and nonsurvival > 24 hours following CSF collection. Univariable logistic regression included breed, sex, body weight, age, modified Glasgow coma scale, evidence of herniation, evidence of intracranial hypertension (ICH) without herniation, GA protocol, GA duration, CSF analysis, collection site, inflammatory/infectious, and neoplasia diagnosis. P values were adjusted for multiple comparisons using the Benjamini-Hochberg procedure.\nRESULTS: 120 cats were identified, with 2 excluded for nonspecific and/or extraneural presenting complaint, leaving 118 cats. Seven (5.9%) did not survive > 24 hours following CSF procedure, and 9 (7.6%) reported complications, including apnea, suspected iatrogenic spinal cord trauma, and Cushing reflex. After multiple-comparison correction, no variable was significantly associated with outcome. Evidence of ICH without herniation and nonsurvival reported the largest effect estimate (OR, 36.99). Estimates are imprecise and reported as hypothesis generating.\nCONCLUSIONS: Feline CSF collection in this cohort reported low complication rates, and the majority survived > 24 hours after CSF collection.\nCLINICAL RELEVANCE: Imaging review for abnormalities associated with ICH is recommended prior to CSF collection.",
+    "journal": "Am J Vet Res",
+    "year": "2026",
+    "doi": "10.2460/ajvr.26.05.0232",
+    "authors": "Spinoglio GJ et al.",
+    "topic": "副腎",
+    "date_added": "2026-10-14"
+  },
+  {
+    "pmid": "42867939",
+    "title": "Myoclonus as a neurologic manifestation of hypoglycemia in dogs.",
+    "abstract": "BACKGROUND: Myoclonus consists of brief, shock-like jerks and is not reported in dogs as a neurological manifestation of hypoglycemia.\nHYPOTHESIS/OBJECTIVES: To describe hypoglycemia-associated myoclonus in dogs and report diagnostic findings, treatment, and outcome.\nANIMALS: Ten dogs presenting myoclonus and concurrent hypoglycemia.\nMETHODS: Multicenter, retrospective study of dogs presenting hypoglycemia-related myoclonus.\nRESULTS: All dogs presented with myoclonus. Neurological examination was abnormal in 5/10 (50%). Myoclonus was generalized in 8/10 (80%) dogs and focal (head) in 2/10 (20%), with progression to generalized tonic-clonic epileptic seizures in 5/10 (50%). Hypoglycemia (<3.3 mmol/L) was observed in all dogs (median, 2.07 mmol/L) during the myoclonic episodes. Insulinoma was a suspected (n = 1), presumptive (n = 5), or definitive (n = 3) diagnosis in 9/10 (90%) dogs. One dog (10%) developed iatrogenic hypoglycemia after IV administration of fast-acting human insulin and myoclonic episodes resolved after dose reduction. Among dogs with suspected, presumptive or confirmed insulinoma, 5/9 (56%) received medical treatment alone, 3/9 (33%) combined medical and surgical treatment, and 1/9 (11%) was not treated. Medical treatment included, prednisolone (n = 6), diazoxide (n = 3) and therapeutic diet (n = 6). Surgical treatment consisted of pancreatic mass resection. Medical or surgical treatment resulted in short-term improvement in myoclonus frequency in all dogs, however, four were later euthanized due to recurrence of hypoglycemia and myoclonus.\nCONCLUSIONS AND CLINICAL IMPORTANCE: Myoclonus might represent an underrecognized neurological manifestation of hypoglycemia in dogs. Measurement of blood glucose concentrations is a fundamental diagnostic approach for identifying hypoglycemia-related myoclonus. Treatment can lead to clinical improvement, but prognosis is dependent on the underlying cause.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag252",
+    "authors": "Polidoro D et al.",
+    "topic": "肝胆膵",
+    "date_added": "2026-10-14"
+  },
+  {
+    "pmid": "42867938",
+    "title": "Letter regarding \"ACVIM-endorsed statement: consensus statement and systematic review on guidelines for the diagnosis and treatment of chronic inflammatory enteropathy in dogs\".",
+    "abstract": "",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag241",
+    "authors": "Jablonski SA et al.",
+    "topic": "消化器",
+    "date_added": "2026-10-14"
   }
 ]
