@@ -2990,5 +2990,27 @@
     "authors": "Jablonski SA et al.",
     "topic": "消化器",
     "date_added": "2026-10-14"
+  },
+  {
+    "pmid": "42877635",
+    "title": "Assessment of the hepatoprotective effect of a multi-component preparation containing phospholipids, selected amino acids, betaine, and milk thistle extract in dogs with asymptomatic elevation of liver parameters: a pilot study.",
+    "abstract": "BACKGROUND: Liver diseases in dogs are often diagnosed at advanced stages due to the organ's high functional reserve. Early supportive therapy with hepatoprotective nutraceuticals may help slow disease progression in dogs with asymptomatic elevation of liver parameters.\nAIM: The aim of this pilot study was to evaluate the hepatoprotective effect of a multi-component preparation containing phospholipids, selected amino acids, betaine, and milk thistle extract in client-owned dogs with asymptomatic elevation of liver parameters.\nMATERIALS AND METHODS: Seventeen dogs were included in the open-label study. The animals received Hepatiale Forte Advanced (Vet Expert) for 8 weeks at the manufacturer's recommended dose. Liver enzyme activities (ALT, AST, ALP, GGT), total bilirubin, serum bile acids, hematological parameters, and abdominal ultrasonography were assessed at baseline and after 8 weeks.\nRESULTS: Supplementation resulted in statistically significant reductions in ALT (p = 0.004), AST (p = 0.004), ALP (p = 0.001), total bilirubin (p = 0.001) and serum bile acids (p = 0.007). A trend toward a decrease was observed for GGT (p = 0.052). Hematological parameters remained stable, and the preparation was well tolerated with no adverse effects reported. Ultrasonographic findings were mostly stable or improved (resolution of biliary sludge in some cases).\nCONCLUSION: Eight-week supplementation with the multi-component hepatoprotective preparation was associated with significant improvement in liver biochemical parameters in dogs with asymptomatic elevation of liver parameters. The results support further research in a randomized, placebo-controlled trial.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1938591",
+    "authors": "Nieradka R et al.",
+    "topic": "肝胆膵",
+    "date_added": "2026-10-15"
+  },
+  {
+    "pmid": "42876514",
+    "title": "Case Report: Epitheliotropic cutaneous presentation of multicentric diffuse large B-cell lymphoma in a dog.",
+    "abstract": "Diffuse large B-cell lymphoma (DLBCL) is the most common histological subtype of canine multicentric lymphoma, whereas epitheliotropism is classically associated with cutaneous T-cell lymphoma. A 9-year-old neutered male Chihuahua was diagnosed with stage IVb multicentric lymphoma and achieved complete remission with a UW-25 L-CHOP protocol. However, an upper lip mass, cytologically consistent with lymphoma, developed during remission. Electrochemotherapy was performed for local control and resulted in marked reduction of the lesion. The dog later developed recurrent peripheral lymphadenopathy and multiple progressive cutaneous masses despite various chemotherapy protocols and was euthanized at week 59 because of progressive clinical deterioration. Histopathology confirmed diffuse large cell lymphoma in the submandibular lymph node, whereas the cutaneous lesions showed neoplastic lymphoid infiltration with multifocal epidermal invasion, mimicking epitheliotropic T-cell lymphoma. Immunohistochemistry (IHC) confirmed diffuse CD20 expression in both sites, with CD3 labeling limited to scattered background lymphocytes. These findings supported the interpretation of secondary cutaneous involvement of DLBCL with a highly unusual epitheliotropic pattern and emphasize the importance of IHC for accurate immunophenotypic classification of cutaneous lymphoma lesions.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1949754",
+    "authors": "Kim GH et al.",
+    "topic": "リンパ腫",
+    "date_added": "2026-10-15"
   }
 ]
