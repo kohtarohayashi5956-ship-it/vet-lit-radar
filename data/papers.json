@@ -3023,5 +3023,16 @@
     "authors": "Culha N et al.",
     "topic": "腎臓",
     "date_added": "2026-10-16"
+  },
+  {
+    "pmid": "42889477",
+    "title": "Cross-sectional analysis of 152 hyperthyroid cats presented for radioactive iodine therapy in South Korea.",
+    "abstract": "INTRODUCTION: Feline hyperthyroidism is one of the most common endocrinopathies in cats; however, its epidemiological characteristics remain poorly understood in South Korea. Although radioactive iodine therapy (RAIT) is a definitive treatment, studies focusing specifically on cats with hyperthyroidism undergoing RAIT are limited.\nMETHODS: Medical records of 152 cats with hyperthyroidism presented for RAIT were retrospectively reviewed to describe their epidemiological and clinical features.\nRESULTS: The median age at diagnosis was 12 years, and 30.3% of the cats were diagnosed incidentally. RAIT was usually performed soon after diagnosis, with a median disease duration of 5 months; only 4.6% of cats had a disease duration >2 years. Unilateral thyroid disease was the predominant pattern (50.7%), and severe hyperthyroidism (total thyroxine ≥19.4 μg/dl) was observed in 10.5% of cats. Only 40.1% of cats underwent RAIT following the veterinarian's recommendation, whereas 59.9% of owners sought RAIT independently. Human-licensed or generic methimazole was used more frequently than veterinary-licensed methimazole (84.0 vs. 18.1%). Pruritus occurred more frequently with human-licensed or generic methimazole than with veterinary-licensed methimazole (p = 0.047). All cats were housed indoors. The regional distribution of cases differed from the reported national distribution of owned cats (p = 0.016). No cats originated from Jeju-do, which differed significantly from the mainland regions (p = 0.0004). Longer disease duration was associated with more advanced disease, including higher thyroid hormone levels and scintigraphic activity, increased bilateral involvement, and a higher rate of refractory response to antithyroid drugs (all p ≤ 0.001).\nCONCLUSIONS: This is the first study to characterize cats with hyperthyroidism that were presented for RAIT in South Korea. Key findings included an owner-driven pattern of RAIT selection, early use of definitive therapy despite a relatively late diagnosis, predominant use of non-veterinary methimazole formulations, and a higher frequency of pruritus as an adverse effect. These findings contribute to the epidemiological understanding of feline hyperthyroidism and may inform clinical decision-making in South Korea.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1906840",
+    "authors": "Son D et al.",
+    "topic": "甲状腺",
+    "date_added": "2026-10-18"
   }
 ]
