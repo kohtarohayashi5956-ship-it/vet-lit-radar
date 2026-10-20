@@ -3034,5 +3034,16 @@
     "authors": "Son D et al.",
     "topic": "甲状腺",
     "date_added": "2026-10-18"
+  },
+  {
+    "pmid": "42897632",
+    "title": "Use of plasma chromogranin a epitopes vasostatin and catestatin as biomarkers for catecholamine-producing tumours in dogs.",
+    "abstract": "BACKGROUND: Differentiation of catecholamine-producing tumours from other adrenal tumours remains difficult. Chromogranin A (CgA) is a marker for catecholamine secretion in the body. An assay for quantification of the CgA epitopes vasostatin and catestatin has been validated for use in dogs but not yet evaluated in dogs with catecholamine-producing tumours. The aims were to evaluate the assays foranalysis of plasma concentrations of the CgA epitopes vasostatin and catestatin in dogs with adrenal tumours and to compare concentrations between catecholamine-producing tumours and adrenocortical tumours in dogs that were subjected to adrenalectomy. Twelve dogs with histopathologically confirmed catecholamine-secreting tumours (eleven pheochromocytomas (PCCs), one extra-adrenal sympathetic paraganglioma (PGL)) and twelve with adrenocortical tumours were included in the study. Plasma concentrations of the CgA epitopes vasostatin and catestatin were determined byradioimmunoassay (RIA), before adrenalectomy in 23 out of 24 dogs and after adrenalectomy in six of the dogs with catecholamine-secreting tumours (five PCC, one PGL). Tumour diagnosis was made by histopathology in all cases.\nRESULTS: Overall, median plasma concentration of the CgA epitopevasostatin in dogs with catecholamine-secreting tumours was 0.82 nmol/L (interquartile range (IQR) 0.52 to 1.60 nmol/L), which was significantly higher(Wilcoxon rank sum exact test, P= 0.0374) than the vasostatin concentration in adrenocortical tumours (median 0.50; IQR 0.34 to 0.59 nmol/L). A subsetof dogs (5/12) with catecholamine-secreting tumours had elevated plasma vasostatin concentrations preoperatively. After successful surgery, thepreoperatively elevated plasma vasostatin concentrations decreased numerically, however without reaching statistical significance. Catestatin concentrationdid not differ between tumour types.\nCONCLUSIONS: Elevated plasma concentration of the CgA epitope vasostatin showed potential as a biomarker for asubset of catecholamine-secreting tumours.",
+    "journal": "BMC Vet Res",
+    "year": "2026",
+    "doi": "10.1186/s12917-026-05996-6",
+    "authors": "Prabert J et al.",
+    "topic": "副腎",
+    "date_added": "2026-10-20"
   }
 ]
