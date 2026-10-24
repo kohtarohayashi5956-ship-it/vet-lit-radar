@@ -3089,5 +3089,27 @@
     "authors": "Harris AN et al.",
     "topic": "腎臓",
     "date_added": "2026-10-23"
+  },
+  {
+    "pmid": "42915224",
+    "title": "Systematic review supports the idea that no alternative test presently replaces elimination diet test and oral food challenge to diagnose canine adverse food reactions.",
+    "abstract": "BACKGROUND: Adverse food reactions in dogs are clinically heterogeneous and overlap with canine atopic dermatitis, and diagnosis still relies on an elimination diet test followed by oral food challenge (EDT+OFC). Numerous allergen-specific tests have been proposed, but their diagnostic value remains controversial. Our objective was to identify, synthesize, and critically evaluate the diagnostic tests used or investigated for canine food allergy, with emphasis on their clinical validity, applicability, and agreement with the EDT+OFC reference standard.\nMETHODS: In accordance with PRISMA (ie, Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 2020 guidelines, Scopus and PubMed were searched without publication-year restrictions, and records were independently screened in duplicate at the title, abstract, and full-text stages.\nRESULTS: A meta-analysis was not feasible owing to heterogeneity. Fifty-nine studies (1986 to 2025) from 16 countries were included and grouped into elimination/provocation diets and serological, cutaneous, cellular, and molecular tests. The most consistently validated approach remained EDT+OFC. Serological IgG/IgE (and salivary) tests were poorly correlated with clinical outcome; the standardized patch test showed the best cutaneous performance (high negative predictive value), cellular tests (lymphocyte proliferation) showed the closest concordance with the OFC, and molecular/proteomic methods advanced allergen characterization and the understanding of cross-reactivity.\nCLINICAL RELEVANCE: No alternative test reliably replaces EDT+OFC. Although patch testing may seem beneficial, its practical value is limited, and cellular assays represent a promising area for future biomarker research; standardized protocols and well-designed prospective studies are needed.",
+    "journal": "J Am Vet Med Assoc",
+    "year": "2026",
+    "doi": "10.2460/javma.26.06.0456",
+    "authors": "Morales-Romero R et al.",
+    "topic": "食事療法/栄養学",
+    "date_added": "2026-10-24"
+  },
+  {
+    "pmid": "42915069",
+    "title": "Diagnosis of exocrine pancreatic insufficiency in dogs requires use of a newly adjusted reference range and diagnostic cutoff for measurement of trypsin-like immunoreactivity.",
+    "abstract": "OBJECTIVE: To adjust the reference interval (RI) for a commercially available canine trypsin-like immunoreactivity (cTLI) assay and the cutoff value for the diagnosis of exocrine pancreatic insufficiency (EPI).\nMETHODS: Lower limit of the RI was calculated based on the fifth percentile of cTLI concentrations in 102 clinically healthy dogs. Questionnaires were sent to clinicians for cases with serum cTLI concentrations ≤ 10 µg/L. Five board-certified small animal internists blinded to serum cTLI concentration individually reviewed questionnaire responses to clinically classify each dog. Dogs were classified as \"EPI\" or \"not EPI\" based on the consensus when ≥ 4 internists assigned the same classification. The cutoff was determined by maximizing the weighted Youden index (1.34 × sensitivity + 0.67 × specificity - 1). Sensitivity was prioritized, as false negatives were considered more deleterious than false positives.\nRESULTS: The calculated lower RI limit was ≥ 11.8 µg/L. Forty-seven dogs each were classified as EPI and not EPI. The median (range) serum cTLI concentrations were 1.5 µg/L (0.9 to 7.2) for the EPI dogs and 8.3 µg/L (2.2 to 10.0) for the not EPI dogs. The optimal diagnostic cutoff was 5.5 µg/L, with a sensitivity of 95.7% and specificity of 83.0%.\nCONCLUSIONS: Use of the updated RI (≥ 11.8 µg/L) and diagnostic cutoff value for EPI (5.5 µg/L) should reduce false-negative results when using this commercial assay.\nCLINICAL RELEVANCE: There has been an upward shift in serum cTLI measurements with this commercial assay, consistent with clinical observations.",
+    "journal": "J Am Vet Med Assoc",
+    "year": "2026",
+    "doi": "10.2460/javma.26.05.0350",
+    "authors": "Chuang WH et al.",
+    "topic": "肝胆膵",
+    "date_added": "2026-10-24"
   }
 ]
