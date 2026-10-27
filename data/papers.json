@@ -3155,5 +3155,16 @@
     "authors": "Marcellin-Little DJ et al.",
     "topic": "その他",
     "date_added": "2026-10-25"
+  },
+  {
+    "pmid": "42932825",
+    "title": "An observational retrospective study of online owner perceptions of diet-related health signs in dogs using social media listening.",
+    "abstract": "BACKGROUND: Dog owners increasingly link health to diet type, and the pet food market has diversified beyond kibble/canned diets (KC) to raw and fresh diets (FD; human-grade, gently/mildly cooked, and home-cooked). However, it remains unclear which owner-reported health-related signs (ORHS) are associated with dietary changes, including KC-FD transitions. Social media listening (SML) enables large-scale capture of naturally-occurring online owner discussions.\nHYPOTHESIS/OBJECTIVES: Investigate owner perceptions of diet-related ORHS in dogs within online discourse using SML.\nANIMALS: None.\nMETHODS: Observational, retrospective study of 21 896 KC and 2336 FD online posts (>96% from Reddit) collected using Pulsar Platform™ (January 1, 2025 to July 3, 2025). After preprocessing and large language model (LLM)-based zero-shot filtering, 8040 KC and 924 FD posts were analyzed using LLM-assisted topic modeling and dictionary-based ORHS quantification.\nRESULTS: Topic modeling identified recurrent themes across KC (number of topics [k] = 7, coherence score [Cv] = 0.58) and FD (k = 6, Cv = 0.44) posts. Owners discussed diet as both the perceived cause and management strategy for gastrointestinal (GI), dermatologic, allergy/intolerance, appetite, and body condition ORHS, alongside decision uncertainties. Gastrointestinal (2286/8040, 28.4%; 282/924, 30.5%) and allergy/intolerance (1932/8040, 24.0%; 194/924, 21.0%) ORHS predominated within KC and FD posts, respectively; allergy/intolerance co-occurred with skin/coat (478/918, 52.1%; 57/114, 50.0%), and GI with allergy/intolerance (476/1,932, 24.6%; 68/194, 35.1%).\nCONCLUSIONS AND CLINICAL IMPORTANCE: Our study demonstrates the feasibility of SML-LLM-assisted analysis for capturing diet-related ORHS in online dog owner discourse. The study captured owner perceptions rather than clinically verified outcomes, highlighting the need for future studies to align ORHS with clinically validated endpoints to support veterinary nutrition discussions and informed owner decision-making.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag245",
+    "authors": "Kaur JP et al.",
+    "topic": "消化器",
+    "date_added": "2026-10-27"
   }
 ]
