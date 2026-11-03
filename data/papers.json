@@ -3463,5 +3463,27 @@
     "authors": "Neittaanmäki H et al.",
     "topic": "消化器",
     "date_added": "2026-10-31"
+  },
+  {
+    "pmid": "42969556",
+    "title": "Bendamustine induces peripheral lymphodepletion in dogs with relapsed lymphoma.",
+    "abstract": "BACKGROUND: Chimeric antigen receptor (CAR) T-cell therapy has improved outcomes for many human patients with B-cell lymphoma and provides a rational template for analogous canine patients. To date, the expansion, persistence, and activity of CAR T cells in dogs have been limited. Lymphodepletion supports CAR T-cell engraftment and antitumor activity. In human medical oncology, bendamustine has emerged as a well-tolerated lymphodepleting agent. However, prospective use of bendamustine for dogs with lymphoma has not been characterized.\nHYPOTHESIS/OBJECTIVES: To determine the lymphodepleting activity and tolerability of bendamustine in dogs with relapsed lymphoma. Secondary objectives included monitoring serum cytokines and short-term changes in peripheral tumor burden.\nANIMALS: Eleven client-owned dogs with relapsed lymphoma.\nMETHODS: Luminescent assays were used to assess the direct cytotoxic activity of bendamustine against canine lymphoid cell lines. A prospective rapid dose-escalation pilot trial was undertaken in 11 dogs with relapsed lymphoma to evaluate tolerability while tracking peripheral lymphocyte counts, serum cytokine concentrations, and lymph node measurements.\nRESULTS: Bendamustine induced concentration-dependent cytotoxicity in all cell lines tested. Two-dose bendamustine regimens up to 90 mg/m2 were generally well tolerated, with no dose-limiting toxicities observed, and resulted in peripheral lymphodepletion (pretreatment median, 880 cells/μL; posttreatment median, 310 cells/μL), an exploratory decrease in circulating interleukin-6 (pretreatment median, 5.32 pg/mL; posttreatment median, 1.33 pg/mL), and a short-term decrease in peripheral nodal burden in 8 of 11 dogs.\nCONCLUSIONS AND CLINICAL IMPORTANCE: Bendamustine was generally well tolerated and induced lymphodepletion in our cohort. These findings support further evaluation of bendamustine as a preconditioning agent before autologous canine CAR T-cell infusion.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag283",
+    "authors": "Lenz JA et al.",
+    "topic": "リンパ腫",
+    "date_added": "2026-11-03"
+  },
+  {
+    "pmid": "42968222",
+    "title": "EXPRESS: Hyperammonemia in cats with acute (on chronic) kidney disease: associations with urea cycle amino acids, azotemia and acid-base status.",
+    "abstract": "ObjectivesHyperammonemia occurs in cats with kidney disease although the pathophysiology is poorly understood. The objective of this study was to determine if hyperammonemia in cats with kidney disease is associated with decreased concentrations of plasma amino acids involved in the urea cycle and more severe acid-base derangements.MethodsTwenty cats presenting with acute kidney injury (AKI) and acute on chronic kidney disease (AoCKD) were prospectively enrolled. Fasting blood samples were analyzed for ammonia, pH, anion gap, electrolytes, lactate, blood urea nitrogen (BUN), creatinine and phosphorus. Plasma was frozen at -80oC and shipped for amino acid analysis.ResultsFive of 20 cats had an AKI and 15/20 had AoCKD. Median age and weight were 12 years (range 3-14) and 4.5 kg (range 3-5.6), respectively. Seven cats were hyperammonemic (median 252 µmol/l, range 113-886) and 13 were not (median 23 µmol/l, range 11-49). Creatinine, BUN and phosphorus were significantly higher in hyperammonemic cats. BUN and phosphorus correlated with ammonia. Fifteen of 20 cats (75%) were acidotic but there was no difference in lactate or blood and urine pH between the cats with and without hyperammonemia. The anion gap was higher (29.6, range 27-40 vs 25.1, range 11-34) and serum bicarbonate lower (9 mEq/L, range 4.8-13.5 vs 11.9, range 8-24.2) in hyperammonemic cats. Median plasma citrulline (47 nMol/mL, range 31-128 vs 22, range 12-37) and ornithine (20 nMol/mL, range 12-33 vs 10, range 7-35) but not arginine concentrations were significantly higher in hyperammonemic cats (p<0.05). Plasma citrulline concentrations were positively correlated with serum creatinine (r = 0.621, p = 0.003).Conclusions and relevanceHyperammonemic cats with AKI/AoCKD do not have deficiencies in urea cycle amino acid concentrations but do have more severe azotemia with accompanying high anion gap metabolic acidosis. Increases in citrulline may reflect decreased kidney function.",
+    "journal": "J Feline Med Surg",
+    "year": "2026",
+    "doi": "10.1177/1098612X261500246",
+    "authors": "McFadden K et al.",
+    "topic": "腎臓",
+    "date_added": "2026-11-03"
   }
 ]
