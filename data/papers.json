@@ -3485,5 +3485,16 @@
     "authors": "McFadden K et al.",
     "topic": "腎臓",
     "date_added": "2026-11-03"
+  },
+  {
+    "pmid": "42972575",
+    "title": "Clinically relevant hypomagnesemia during recovery from severe leptospirosis-associated acute kidney injury in a dog treated with continuous renal replacement therapy: a case report.",
+    "abstract": "BACKGROUND: Leptospirosis is an important cause of acute kidney injury (AKI) in dogs and commonly induces renal tubular dysfunction. Although electrolyte abnormalities are frequently recognized during the course of leptospirosis, clinically relevant hypomagnesemia associated with neurological manifestations has rarely been reported in dogs. This report describes a dog that developed severe symptomatic hypomagnesemia during recovery from severe leptospirosis-associated AKI treated with continuous renal replacement therapy (CRRT).\nCASE PRESENTATION: A 9 year old, 12 kg spayed female mixed-breed dog was referred for severe leptospirosis-associated AKI complicated by anuria, hyperbilirubinemia, thrombocytopenia, and pulmonary involvement. Blood and urine polymerase chain reaction assays confirmed Leptospira spp.\nINFECTION: Because of persistent anuria and progressive azotemia despite intensive medical management, the dog underwent two continuous renal replacement therapy sessions approximately 15 and 18 h, respectively. Urine production subsequently recovered, and the dog entered a polyuric recovery phase with progressive improvement in azotemia. On day 13 after admission, generalized tremors, hypersalivation, and altered mentation developed concurrently with severe hypomagnesemia (ionized magnesium, 0.24 mmol/L; total magnesium, 1.4 mg/dL). Fractional excretion of magnesium (FEMG) was markedly increased (38.8%), suggesting inappropriate renal magnesium loss despite improving renal function. Intravenous magnesium sulfate administered as a bolus followed by continuous rate infusion resulted in rapid resolution of the neurological signs. At follow-up evaluations performed 11 and 23 days after the hypomagnesemic episode, fractional excretion of magnesium remained increased at 30.2% and 28.4%, respectively, despite improvement in serum creatinine concentration, supporting persistent impairment of renal tubular magnesium handling during recovery.\nCONCLUSIONS: This case demonstrates that clinically significant hypomagnesemia may develop during the polyuric recovery phase of severe leptospirosis-associated AKI in dogs, even after apparent improvement in renal function. Serial measurements of fractional excretion of magnesium supported continued renal magnesium loss during recovery and emphasized the importance of monitoring magnesium concentrations in dogs with leptospirosis, particularly when neurological abnormalities develop.",
+    "journal": "BMC Vet Res",
+    "year": "2026",
+    "doi": "10.1186/s12917-026-05980-0",
+    "authors": "Cho J et al.",
+    "topic": "腎臓",
+    "date_added": "2026-11-04"
   }
 ]
