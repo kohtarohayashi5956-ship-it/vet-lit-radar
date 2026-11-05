@@ -3496,5 +3496,16 @@
     "authors": "Cho J et al.",
     "topic": "腎臓",
     "date_added": "2026-11-04"
+  },
+  {
+    "pmid": "42979989",
+    "title": "Survival time and prognostic factors in cats with suspected acute pyelonephritis.",
+    "abstract": "BACKGROUND: Although acute pyelonephritis (APN) is considered to have a better prognosis than other causes of acute kidney injury (AKI) in cats, survival time and prognostic factors are poorly defined.\nHYPOTHESIS/OBJECTIVES: To determine survival time and prognostic factors influencing survival time in cats suspected of APN.\nANIMALS: Fifty-four client-owned cats with suspected APN.\nMETHODS: A retrospective cohort study was designed to review medical records between June 2017 and December 2025 for clinical data and survival time. Overall survival time was assessed using Kaplan-Meier analysis. Cox proportional hazard regression univariable screening then multivariable modeling identified factors associated with survival. Clinical features of survivors and non-survivors to 30-days after presentation were compared.\nRESULTS: Median survival time (MST) was 390 days (95% CI, 153-774 days). Cats that experienced less than 50% reduction or any increase in percentage change in serum creatinine concentration between hospital admission and discharge or euthanasia (sCrΔ%) had significantly higher hazards of death than cats experiencing greater than 50% reduction in sCrΔ%, after adjusting for International Renal Interest Society (IRIS) AKI grade and admission temperature (adjusted hazard ratios [HRs], 8.4 × 104-1.1 × 106; 95% CIs, 4.9 × 102-3.1 × 108; P < .001). No other factors, including pre-existing chronic kidney disease, infecting bacterial isolate, or antimicrobial regimen used, were independently associated with overall survival time.\nCONCLUSIONS AND CLINICAL IMPORTANCE: Cats suspected of APN have favorable long-term prognosis. Less reduction or any increase in sCrΔ% was associated with shorter survival time, with the prognostic effect strongly influenced by IRIS AKI grade and temperature at admission.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag276",
+    "authors": "Fletcher JR et al.",
+    "topic": "腎臓",
+    "date_added": "2026-11-05"
   }
 ]
