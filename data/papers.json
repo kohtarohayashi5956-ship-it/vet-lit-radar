@@ -3507,5 +3507,60 @@
     "authors": "Fletcher JR et al.",
     "topic": "腎臓",
     "date_added": "2026-11-05"
+  },
+  {
+    "pmid": "42985006",
+    "title": "Precision nutrition in companion animals: a response-based framework linking dietary strategies, metabolic function, and measurable clinical outcomes.",
+    "abstract": "Population-level nutrient recommendations provide the foundation for complete and balanced diets in dogs and cats, but they do not fully account for inter-individual variation in nutritional requirements, metabolic phenotypes, and dietary responses. Precision nutrition provides a response-guided framework that integrates individual characteristics with monitored dietary responses to refine nutritional management through repeated reassessment. This review examines the conceptual framework, host determinants, clinical applications, and translational challenges of precision nutrition in companion animals. Obesity, chronic enteropathy, chronic kidney disease, and urolithiasis are discussed as representative clinical models in which dietary interventions can be linked to measurable outcomes and adjusted according to individual response. Current clinical implementation is informed primarily by phenotypic assessment, dietary history, routine clinical and biochemical measures, and longitudinal monitoring, with biomarkers such as serum phosphate providing direct guidance in specific clinical contexts. Microbiome and metabolomic profiles, selected molecular biomarkers, and digital monitoring tools, such as smart feeders and activity monitors, may provide complementary information, whereas multi-omics integration and AI-assisted prediction remain largely exploratory. Further progress will require standardized species-specific datasets, prospective validation of predictive biomarkers, reliable digital measurements, and externally validated, interpretable models that demonstrate added value beyond established clinical assessment. Overall, precision nutrition represents an iterative, response-guided framework in which individual characteristics and monitored outcomes inform dietary selection and adjustment over time.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1914947",
+    "authors": "Du X et al.",
+    "topic": "消化器",
+    "date_added": "2026-11-06"
+  },
+  {
+    "pmid": "42983861",
+    "title": "Establishment of an immortalized canine gallbladder epithelial cell line with cystic structures.",
+    "abstract": "In vitro models are crucial for understanding the pathophysiology of gallbladder-related diseases; however, the acquisition of gallbladder tissue presents challenges, necessitating the development of more adaptable models. In this study, we developed a gallbladder epithelial cell line named GBEC-5 derived from canine gallbladder tissue through the transduction of simian virus 40 large T antigen. GBEC-5 cells expressed epithelial markers, including E-cadherin and cytokeratin 19, as well as the chloride ion channel cystic fibrosis transmembrane regulator. Under three-dimensional culture conditions, GBEC-5 cells formed cystic structures. Notably, in these cysts, the gene expression of MUC5AC and MUC5B was elevated compared to that in two-dimensional cultures. To verify whether GBEC-5 is a useful gallbladder epithelial model, it is necessary to confirm its function as normal gallbladder epithelium.",
+    "journal": "J Vet Med Sci",
+    "year": "2026",
+    "doi": "10.1292/jvms.26-0351",
+    "authors": "Tsuji K et al.",
+    "topic": "肝胆膵",
+    "date_added": "2026-11-06"
+  },
+  {
+    "pmid": "42983717",
+    "title": "Determination of reference intervals for symmetric dimethylarginine (SDMA) in Lacaune sheep.",
+    "abstract": "Traditional biomarkers such as serum creatinine and urea often fail to reflect early renal dysfunction, particularly in emaciated animals, as they depend on muscle mass or dietary protein intake. Symmetric dimethylarginine (SDMA), a novel renal biomarker, has shown promise in other species for earlier and more sensitive detection of kidney disease. However, reference intervals for SDMA in ovine species remain undocumented. This study aimed to establish reference intervals for serum SDMA in clinically healthy Lacaune sheep. A reference population of 143 healthy sheep, stratified by age (juvenile < 1 year, adult ≥ 1 year), was selected based on clinical health, body condition score, and serum creatinine concentration. Serum SDMA was quantified using an ELISA validated for cats and dogs. Reference intervals were calculated as 0.59-1.72 µmol/l for all sheep, 0.59-1.56 µmol/l for adults, and 0.59-1.83 µmol/l for juveniles, with juveniles exhibiting significantly higher concentrations (p < 0.001). No sex-related differences were observed. In a retrospective analysis of 51 deceased sheep with histopathological renal assessments, SDMA concentrations were significantly elevated in animals with severe renal lesions compared to those with no, mild or moderate lesions (p = 0.005). Creatinine by contrast did not show significant differences. Notably, in animals with poor body condition, SDMA remained effective in identifying individuals with severe renal lesions, whereas creatinine levels remained within or below the reference interval. These findings suggest that SDMA is a more sensitive indicator of renal dysfunction in sheep than creatinine, particularly in emaciated individuals. The established reference intervals provide a foundation for clinical application. The economic feasibility of SDMA testing remains a limitation, but its potential to improve early diagnosis of renal disease in sheep justifies further investigation.",
+    "journal": "BMC Vet Res",
+    "year": "2026",
+    "doi": "10.1186/s12917-026-06074-7",
+    "authors": "Kiene F et al.",
+    "topic": "腎臓",
+    "date_added": "2026-11-06"
+  },
+  {
+    "pmid": "42983507",
+    "title": "Inflammatory myofibroblastic tumor in a 9-year-old male neutered mixed-breed dog with gastrointestinal signs; a case report.",
+    "abstract": "A 9-year-old male neutered mixed-breed dog was presented with chronic diarrhea and vomiting. Abdominal ultrasonography revealed a mass in the jejunum, which was surgically excised. Histopathological examination and immunohistochemistry confirmed the diagnosis of an inflammatory myofibroblastic tumor (IMT). This case report discusses the clinical presentation, diagnostic approach, and management of IMT in this dog.",
+    "journal": "BMC Vet Res",
+    "year": "2026",
+    "doi": "10.1186/s12917-026-05769-1",
+    "authors": "Vafaei R et al.",
+    "topic": "消化器",
+    "date_added": "2026-11-06"
+  },
+  {
+    "pmid": "42983423",
+    "title": "Evaluating plasma renin activity as a monitoring parameter for mineralocorticoid treatment in dogs with primary hypoadrenocorticism.",
+    "abstract": "BACKGROUND: In human medicine, plasma renin activity (PRA) is used to assess mineralocorticoid treatment adequacy in hypoadrenocorticism, with elevated levels indicating under-replacement and suppressed levels over-replacement. In dogs with primary hypoadrenocorticism, PRA is increased before treatment and decreases with treatment, but its value as a monitoring parameter remains uncertain. The objective of this study was to evaluate PRA as a marker to guide mineralocorticoid dosing in dogs with primary hypoadrenocorticism. A total of 52 PRA measurements were collected from 28 dogs during scheduled desoxycorticosterone pivalate (DOCP) treatment visits. All dogs had received DOCP and prednisolone for at least five months. PRA was measured by ELISA detecting angiotensin I.\nRESULTS: Median PRA was 1.6 ng/mL/h (range, 0-19.2), with 19 values above, 17 within, and 16 below the reference interval. PRA showed moderate correlations with potassium (p = 0.009, 𝛒 = 0.36), sodium (p = 0.02, 𝛒 = -0.33), the sodium-to-potassium (Na/K) ratio (p = 0.006, 𝛒 = -0.38), and DOCP dose (p = 0.02, 𝛒 = -0.34), while urine specific gravity correlated with DOCP dose (p = 0.01, 𝛒 = -0.50). Compared with visits with decreased PRA, visits with increased PRA had a significantly lower Na/K ratio (p = 0.048). Increased PRA occurred more frequently during visits with concurrent disease (p = 0.005); concurrent disease was also associated with higher creatinine concentrations (p = 0.023) and lower DOCP doses (p = 0.004). In subgroup analyses, chronic enteropathy was associated with higher potassium concentrations (p = 0.003), lower Na/K ratios (p = 0.009), and higher DOCP doses (p < 0.001), whereas chronic kidney disease was associated with higher creatinine concentrations (p < 0.001) and lower DOCP doses (p < 0.001). Clinical assessment and PRA status were concordant in 48% of visits.\nCONCLUSIONS: PRA may provide additional information for monitoring mineralocorticoid treatment in dogs with hypoadrenocorticism treated with DOCP. However, its interpretation can be challenging, as it often does not match electrolyte results and both PRA and electrolytes may be affected by other diseases. Therefore, PRA should be interpreted as a supportive parameter within the clinical context.",
+    "journal": "BMC Vet Res",
+    "year": "2026",
+    "doi": "10.1186/s12917-026-05645-y",
+    "authors": "Arrigoni S et al.",
+    "topic": "消化器",
+    "date_added": "2026-11-06"
   }
 ]
