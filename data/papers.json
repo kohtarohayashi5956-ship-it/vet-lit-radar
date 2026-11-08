@@ -3628,5 +3628,16 @@
     "authors": "Komatsu M et al.",
     "topic": "MMVD",
     "date_added": "2026-11-07"
+  },
+  {
+    "pmid": "42994086",
+    "title": "Premedication with medetomidine compared to acepromazine reduces the risk of hypotension and mild acute kidney injury in healthy dogs undergoing gonadectomy surgery: results of a randomized clinical trial.",
+    "abstract": "OBJECTIVE: To compare premedication with medetomidine or acepromazine in regard to hypotension and acute kidney injury (AKI) in dogs undergoing elective gonadectomy.\nMETHODS: This randomized clinical trial included healthy dogs ≥ 6 months of age undergoing gonadectomy in a university teaching hospital. Exclusion criteria were weight < 4 kg, American Society of Anesthesiologists risk > 2, or cardiovascular/renal disease. Premedication consisted of methadone and medetomidine at 0.3 to 5 µg/kg or acepromazine at 0.01 to 0.05 mg/kg IM. Anesthesia was induced with alfaxalone and maintained with isoflurane. Hypotension (mean arterial pressure < 60 mm Hg) frequency, severity, and duration; recovery temperature; and vomiting and pain interventions were compared. Oliguria 24 hours postoperatively was defined as no urination with low-volume bladder. Serum creatinine was measured from blood before and 24 hours after surgery. Acute kidney injury was defined as an increase of > 26.5 µmol/L.\nRESULTS: The medetomidine group included 51 dogs and the acepromazine group 43. There were no differences in preoperative characteristics, anesthetic doses, or time. Hypotension was significantly less frequent (51% vs 84%), had a shorter duration (14 ± 20.2 minutes vs 26 ± 24.2 minutes), and was less severe (lowest mean arterial pressure 60.0 ± 14.9 mm Hg vs 51 ± 10.3 mm Hg) following medetomidine. Acute kidney injury was less frequent in the medetomidine group (9.8% vs 20.9%), with no oliguric AKI cases compared to 4 following acepromazine. There were no differences in postoperative hypothermia or treatments for vomiting or pain.\nCONCLUSIONS: Premedication with medetomidine results in a lower frequency and duration of hypotension and might reduce the risk of AKI.\nCLINICAL RELEVANCE: For healthy dogs undergoing elective surgery, premedication with medetomidine is preferable to acepromazine.",
+    "journal": "J Am Vet Med Assoc",
+    "year": "2026",
+    "doi": "10.2460/javma.26.07.0574",
+    "authors": "Quinn CT et al.",
+    "topic": "腎臓",
+    "date_added": "2026-11-08"
   }
 ]
