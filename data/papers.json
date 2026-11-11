@@ -3672,5 +3672,49 @@
     "authors": "Hirayama T et al.",
     "topic": "消化器",
     "date_added": "2026-11-10"
+  },
+  {
+    "pmid": "43008074",
+    "title": "Esophageal strictures associated with prolonged nasoesophageal tube placement in three cats.",
+    "abstract": "Nasoesophageal tube placement for a prolonged period of time has not previously been associated with esophageal stricture in cats. Three cats with suspected hepatic lipidosis required extended enteral nutritional support because voluntary food intake remained < 25% of the calculated resting energy requirement. The cumulative duration of nasoesophageal tube placement was 24-37 days. Regurgitation or retching developed within 1-3 days after tube removal, and esophagoscopy identified severe focal strictures in the cervical esophagus at the C4-C6 vertebral level in all 3 cats. One cat underwent 3 endoscopic balloon dilatation sessions at 1-week intervals, with enlargement of the esophageal lumen. The consistent anatomic location and temporal association with prolonged tube placement suggest that extended nasoesophageal intubation may be a risk factor for cervical esophageal stricture formation in cats. When prolonged nutritional support is anticipated, transition to a feeding tube intended for long-term use should be considered.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag289",
+    "authors": "Cho J et al.",
+    "topic": "臨床栄養管理",
+    "date_added": "2026-11-11"
+  },
+  {
+    "pmid": "43008073",
+    "title": "Use of a novel low-fat hydrolyzed diet in the management of dogs with chronic enteropathy.",
+    "abstract": "BACKGROUND: Dietary management plays a central role in the diagnosis and treatment of chronic enteropathy (CE) in dogs. Although hydrolyzed-protein diets are commonly used in patients with CE, and dietary fat restriction is recommended in selected gastrointestinal disorders, the combined effect of low fat and hydrolyzed protein has not been specifically evaluated.\nHYPOTHESIS/OBJECTIVES: Assess clinical response and acceptability of a low-fat, hydrolyzed diet in dogs with CE.\nANIMALS: Thirty-one client-owned dogs.\nMETHODS: Prospective clinical study. Dogs were fed a commercial low-fat (2.01 g/100 kcal metabolizable energy) hydrolyzed salmon protein diet and stratified according to previous dietary history. Dogs were evaluated at baseline, 1 month, and 3 months. The primary outcome was clinical response, classified as complete response (CR), partial response (PR), or non-response (NR) based on gastrointestinal signs and the Canine Inflammatory Bowel Disease Activity Index (CIBDAI) score. Dogs with CR or PR were considered responders. Diet acceptability was assessed.\nRESULTS: At T1, 20 of 31 (64.5%) dogs were categorized as CR, 3 of 31 (9.7%) as PR, and 8 of 31 (25.8%) as NR. Twenty-three of 31 (74.2%) dogs had a positive clinical response. The CIBDAI scores decreased significantly from T0 to T1 (P < .001). At T2, 94.4% of initial responders maintained CR. Diet acceptability was excellent in 75.0% of cases.\nCONCLUSIONS AND CLINICAL IMPORTANCE: This low-fat, hydrolyzed diet had significant short- and mid-term effectiveness and was well tolerated in dogs with CE, reinforcing its potential as a treatment for food-responsive enteropathy.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag288",
+    "authors": "Hernández-Anllo C et al.",
+    "topic": "消化器",
+    "date_added": "2026-11-11"
+  },
+  {
+    "pmid": "43008072",
+    "title": "Ultrasound-measured renal length and corticomedullary thickness for the diagnosis and staging of chronic kidney disease in cats.",
+    "abstract": "BACKGROUND: Ultrasonography is well established in veterinary practice, and renal dimensions may aid in diagnosing chronic kidney disease (CKD) in cats.\nHYPOTHESIS/OBJECTIVES: Assess whether renal length, cortical and medullary thickness, and derived ratios identify CKD, reflect CKD severity, and are changed by hyperthyroidism. Evaluate effects of age, body weight, sex, laterality, and observer variability on renal dimensions.\nANIMALS: Two hundred fifty-nine client-owned cats: healthy (n = 179), CKD-affected (n = 38), and nonazotemic hyperthyroid (n = 42).\nMETHODS: Ultrasonographic renal dimensions were measured retrospectively. Group comparisons were performed using fixed effects and mixed models. Diagnostic accuracy was assessed using receiver operating characteristic analysis. Effects of age, body weight, sex, and laterality were evaluated using multiple linear regression. Intraobserver (novice) and interobserver (novice vs expert) variability were quantified using intraclass correlation coefficients from random effect models.\nRESULTS: Age, body weight, and sex accounted for biological variation in healthy cats, which also exhibited minor left-right kidney asymmetry. Cats with CKD were reliably distinguished from healthy and hyperthyroid cats by renal dimensions. Compared with age-comparable healthy cats, CKD-affected cats had shorter kidneys (-0.49 cm, -13.26%, P < .001), thinner cortices (dorsal: -0.10 cm, -16.23%, P < .001; transverse: -0.06 cm, -9.14%, P < .05), and thinner medullae (dorsal: -0.28 cm, -26.25%, P < .001; transverse: -0.24 cm, -19.7%, P < .001). Renal length and medullary thickness showed the highest diagnostic accuracy, but no renal dimension reliably reflected disease severity. Interobserver variability was considerable.\nCONCLUSIONS AND CLINICAL IMPORTANCE: Ultrasonographic renal dimensions may support CKD diagnosis in cats, but biological and observer variability must be considered.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag274",
+    "authors": "Brans M et al.",
+    "topic": "甲状腺",
+    "date_added": "2026-11-11"
+  },
+  {
+    "pmid": "43006832",
+    "title": "Correction to: Single Enema Fecal Microbiota Transplantation in Cats With Chronic Enteropathy.",
+    "abstract": "",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag303",
+    "authors": "",
+    "topic": "消化器",
+    "date_added": "2026-11-11"
   }
 ]
