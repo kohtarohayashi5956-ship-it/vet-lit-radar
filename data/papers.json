@@ -3914,5 +3914,38 @@
     "authors": "Lee G et al.",
     "topic": "腎臓",
     "date_added": "2026-11-18"
+  },
+  {
+    "pmid": "43047359",
+    "title": "Intratumoral STING agonist therapy as a potential bridge to surgery in canine sarcoma.",
+    "abstract": "BACKGROUND: Sarcomas are rare and aggressive malignancies in humans. Management of sarcoma primarily involves surgical intervention with neoadjuvant radiotherapy. Many sarcomas are refractory to existing immunotherapies. Recent studies in murine sarcoma have shown that activation of the stimulator of interferon genes pathway (STING) can induce tumor eradication. Although sarcomas are rare in humans, they occur frequently in dogs. Studying STING therapy in canine sarcoma patients provides a unique opportunity to explore a clinically translational animal model that recapitulates tumor size and clinical progression of human disease.\nMETHODS: Four sarcoma-bearing dogs were recruited for this study. All subjects underwent weekly intratumoral STING therapy until a surgical or humane-endpoints were reached. Tumor volume, vital signs, and weight were measured at each visit. Two STING agonists were studied (ADU-S100 - CDN and E7766). Sera were collected prior to and 6h following STING immunotherapy to measure systemic cytokine levels. Histologic assessment of tumors was completed at time of biopsy or necropsy.\nRESULTS: All dogs experienced a reduction in tumor volume. Two dogs became surgical candidates following STING treatment. Overall survival varied between 14-736 days among treated dogs. Systemic cytokine elevation was observed following STING therapy. At time of necropsy, none of the dogs showed macroscopic evidence of metastatic disease.\nCONCLUSIONS: Intralesional STING immunotherapy is a feasible treatment for dogs with sarcoma, demonstrating biological activity enabling surgical intervention in 2/4 dogs. At time of necropsy, no metastatic disease was observed. Future prospective cohort studies should be completed to further investigate this translational immunotherapy.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1985843",
+    "authors": "Hildebrand KM et al.",
+    "topic": "免疫療法",
+    "date_added": "2026-11-19"
+  },
+  {
+    "pmid": "43044243",
+    "title": "Azotemia does not clinically affect the interpretation of increased serum pancreatic lipase activity or pancreatic lipase immunoreactivity in dogs.",
+    "abstract": "OBJECTIVE: The objective was to compare paired pancreatic lipase immunoreactivity (PLI) concentrations and pancreatic lipase activity in serum samples in a population of azotemic dogs.\nMETHODS: This observational study included client-owned dogs with azotemia and serum lipase activity above the reference interval (17 to 156 U/L). Lipase activity (Roche LIPC lipase colorimetric assay, substrate 1,2-o-dilauryl-rac-glycero-3-glutaric acid-[60-methylresorufin] ester) and serum creatinine concentration were measured as part of routine clinical diagnostics. Monthly screening identified leftover serum samples from azotemic dogs with hyperlipasemia. The PLI concentration was measured from banked serum aliquots of those samples. Associations between serum creatinine concentration, lipase activity, and PLI concentration were evaluated using correlation analysis and generalized linear mixed-effects models.\nRESULTS: 49 serum samples from 32 dogs were included. Serum creatinine concentration weakly correlated with lipase activity (Spearman rank correlation coefficient = 0.36) and PLI concentration (Spearman rank correlation coefficient = 0.30). Generalized linear mixed-effects modeling identified a significant association between azotemia and lipase activity, whereas no significant association was identified for PLI concentration. Per 0.3-mg/dL increase in serum creatinine concentration, lipase activity increased by 1.11 U/L.\nCONCLUSIONS: Although azotemia was statistically associated with a significant increase in lipase activity in azotemic dogs, the magnitude of this effect was negligible.\nCLINICAL RELEVANCE: Azotemia has no clinically relevant effect on the diagnostic interpretation of increased lipase activity in dogs.",
+    "journal": "Am J Vet Res",
+    "year": "2026",
+    "doi": "10.2460/ajvr.26.08.0362",
+    "authors": "Niemann L et al.",
+    "topic": "肝胆膵",
+    "date_added": "2026-11-19"
+  },
+  {
+    "pmid": "43044231",
+    "title": "Distribution and clinical features of raccoon roundworm (Baylisascaris procyonis) infection in dogs and cats as detected by fecal quantitative polymerase chain reaction.",
+    "abstract": "OBJECTIVE: To describe the geographic distribution and clinical features of dogs and cats with Baylisascaris procyonis detected by fecal quantitative PCR (qPCR).\nMETHODS: Dogs and cats in the US and Canada that were diagnosed with B procyonis via fecal qPCR performed by a veterinary diagnostic laboratory from March 3, 2022, through November 1, 2023, were identified. Details about patient demographics, clinical signs, treatment, and outcome were retrospectively captured via questionnaires sent to each pet's primary care veterinarian. Descriptive statistics were calculated.\nRESULTS: B procyonis was detected in 74 dogs and 3 cats through fecal qPCR screening. Dogs were from Canada (n = 22) and the US (52), and cats were from the US (3). The US-detected samples were from the Midwest (35%) and Northeast (22%). Most US-detected cases (69%) resided in a suburban environment, and most Canadian cases (80%) resided in an urban environment. Clinical signs were not reported in most (62%) cases with fecal qPCR-detected B procyonis. Gastrointestinal signs were reported in 36% of cases, and resolution of gastrointestinal signs following anthelmintic treatment was reported in most (72.9%) of those.\nCONCLUSIONS: The geographic distribution of detected B procyonis in dogs and cats is similar to that reported in raccoons. Reported clinical disease appears mild and responsive to anthelmintic treatment in most dogs and cats.\nCLINICAL RELEVANCE: Veterinarian awareness of risk regions for raccoon roundworm detection is critical for One Health. Detection of B procyonis through routine fecal screening of dogs and cats informs risk of environmental exposure and zoonoses and allows for targeted antiparasitic prevention.",
+    "journal": "Am J Vet Res",
+    "year": "2026",
+    "doi": "10.2460/ajvr.26.07.0326",
+    "authors": "Teng E et al.",
+    "topic": "消化器",
+    "date_added": "2026-11-19"
   }
 ]
