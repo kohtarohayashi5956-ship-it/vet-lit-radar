@@ -4024,5 +4024,38 @@
     "authors": "Poellmann LJ et al.",
     "topic": "消化器",
     "date_added": "2026-11-20"
+  },
+  {
+    "pmid": "43062967",
+    "title": "Feasibility and clinical safety of cytokine-activated anti-tumor lymphocytes infusion in dogs with diffuse large B-cell lymphoma: a pilot study.",
+    "abstract": "BACKGROUND: Diffuse large B-cell lymphoma (DLBCL) is the most common histologic subtype of lymphoma in dogs. Although using cyclophosphamide, doxorubicin, vincristine and prednisone (CHOP) chemotherapy is the standard treatment, outcomes remain suboptimal, emphasizing the need for novel therapeutic strategies.\nHYPOTHESIS/OBJECTIVES: Evaluate the feasibility and potential therapeutic benefit of adoptive immunotherapy using ex vivo-expanded cytokine-activated anti-tumor lymphocytes (CATLs) in dogs with DLBCL treated using CHOP chemotherapy and an autologous tumor vaccine.\nANIMALS: Seven client-owned dogs with naturally occurring DLBCL.\nMETHODS: Dogs received CHOP-based chemotherapy and the APAVAC® autologous vaccine. Peripheral blood mononuclear cells (PBMCs) were expanded ex vivo for 14 days using interleukin-2 and anti-CD3/CD28 stimulation. The CATLs were characterized by flow cytometry and reinfused.\nRESULTS: Peripheral blood mononuclear cells were successfully expanded. After 14 days, the median cell yield was 728 × 106 cells (range, 162.4 × 106-1 500 × 106), corresponding to a median 8.6-fold expansion. Median fold increases of positive cells were 7.23 (interquartile range [IQR], 6.46-9.64) for CD3+, 8.56 (IQR, 7.11-14.56) for CD4+, 8.41 (IQR, 6.24-9.29) for CD5+, 10.35 (IQR, 7.63-14.67) for CD8+, and 16.16 (IQR, 12.22-30.40) for CD4+CD8+ cells. Reinfused CATLs ranged from 162.4 × 106 to 1 500 × 106 cells.\nCONCLUSIONS AND CLINICAL IMPORTANCE: Ex vivo expansion and reinfusion of autologous CATLs in dogs with DLBCL receiving CHOP chemotherapy and APAVAC® vaccination are feasible and induce robust T-cell expansion, suggesting this combined chemo-immunotherapeutic approach may enhance anti-tumor immunity and warrants further investigation in larger clinical studies.",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag299",
+    "authors": "Capellero S et al.",
+    "topic": "リンパ腫",
+    "date_added": "2026-11-21"
+  },
+  {
+    "pmid": "43062028",
+    "title": "Correction to: ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
+    "abstract": "",
+    "journal": "J Vet Intern Med",
+    "year": "2026",
+    "doi": "10.1093/jvimsj/aalag318",
+    "authors": "",
+    "topic": "IMHA/ITP",
+    "date_added": "2026-11-21"
+  },
+  {
+    "pmid": "43061543",
+    "title": "Ventral approach for ultrasound-guided perineural injection of the canine L7 spinal nerve: a cadaveric feasibility study.",
+    "abstract": "Neuropathy of the L7 spinal nerve is common in dogs with degenerative lumbosacral disease, yet description of targeted perineural injection therapy in this region is scarce. This study introduces a novel ventral ultrasound-guided approach to the canine L7 spinal nerve and evaluates its feasibility for guiding perineural injections. Using cadavers of medium- to large-breed dogs, ultrasound-guided injections of a methylene blue and contrast agent solution were performed bilaterally. The technique was successful in 11 of 14 injections, assessed by computed tomography in all cases, and by anatomical dissection in one case. Success was consistent in cadavers with normal body condition scores, while unsuccessful injections occurred only in overweight dogs. Notably, 5 of 6 injections succeeded in cadavers with degenerative lumbosacral changes, suggesting the technique's potential clinical utility. These findings suggest that ventral ultrasound-guided L7 perineural injection is feasible and may provide a targeted, minimally invasive option for managing lumbosacral neuropathy in dogs, though further in vivo validation is needed.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1932351",
+    "authors": "Dittmann R et al.",
+    "topic": "肥満/体重管理",
+    "date_added": "2026-11-21"
   }
 ]
