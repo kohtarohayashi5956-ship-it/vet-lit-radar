@@ -4079,5 +4079,16 @@
     "authors": "Lewicki M et al.",
     "topic": "MMVD",
     "date_added": "2026-11-22"
+  },
+  {
+    "pmid": "43072603",
+    "title": "Evaluation of the association of serum paraoxonase-1 and butyrylcholinesterase activities with ultrasonographic gastrointestinal changes in dogs with acute pancreatitis.",
+    "abstract": "Gastrointestinal ultrasonographic (USGI) abnormalities are frequently detected in dogs with acute pancreatitis (AP), but their relationship with systemic biochemical changes has not been well studied. This retrospective study evaluated the association between serum paraoxonase-1 (PON1) and butyrylcholinesterase (BChE) activities and the presence and severity of USGI abnormalities in dogs with AP. The medical records of dogs diagnosed with AP between January 1, 2017, and January 1, 2026, were reviewed. Dogs were included if a clinical examination, laboratory testing and abdominal ultrasonography were performed within a 6-hour period. Gastrointestinal ultrasonographic findings were graded using the Ultrasonographic Gastrointestinal Assessment Severity Score (UGASS) developed for this study. Fifty-seven dogs met the inclusion criteria, and 35 of them (61.4%) showed USGI abnormalities, with the stomach being the most frequently affected segment. Dogs with USGI changes had significantly lower serum PON1 and BChE activities than those without USGI abnormalities (p < 0.05), although considerable overlap in individual values was observed between groups. PON1 activity was not significantly correlated with UGASS, whereas BChE activity showed a moderate negative correlation with UGASS (r = -0.460, p = 0.005). Serum PON1 and BChE activities were positively correlated (r = 0.340, p = 0.009). In conclusion, USGI abnormalities were common in dogs with AP and were associated with lower serum PON1 and BChE activities. Only BChE activity correlated significantly with the severity of USGI abnormalities, as assessed using the UGASS.",
+    "journal": "Vet J",
+    "year": "2026",
+    "doi": "10.1016/j.tvjl.2026.106974",
+    "authors": "Cordon B et al.",
+    "topic": "消化器",
+    "date_added": "2026-11-24"
   }
 ]
