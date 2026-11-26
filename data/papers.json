@@ -4090,5 +4090,27 @@
     "authors": "Cordon B et al.",
     "topic": "消化器",
     "date_added": "2026-11-24"
+  },
+  {
+    "pmid": "43082252",
+    "title": "Canine Hypercalcaemia: part 1, Pathophysiology and Causes.",
+    "abstract": "Hypercalcaemia is an important metabolic abnormality that has been associated with a wide range of conditions in the dog. This paper reviews calcium regulation, the pathophysiological mechanisms leading to increased calcium concentrations and the clinical consequences. It then provides a narrative review of all reported causes of canine hypercalcaemia. Although neoplasia, particularly lymphoma, is the most frequently recognised cause, there are also important endocrine (hyperparathyroidism and hypoadrenocorticism), renal, inflammatory and toxic causes. A second part of this review will focus on the diagnostic approach and the treatment of canine hypercalcaemia in greater detail. The aims of these reviews are to provide an evidence-based summary of the pathogenesis, differential diagnosis and clinical approach to canine hypercalcaemia.",
+    "journal": "J Small Anim Pract",
+    "year": "2026",
+    "doi": "10.1111/jsap.70222",
+    "authors": "Cardoso M et al.",
+    "topic": "リンパ腫",
+    "date_added": "2026-11-26"
+  },
+  {
+    "pmid": "43080372",
+    "title": "Association between lipid profile alterations and azotemia severity in dogs: a cross-sectional study.",
+    "abstract": "BACKGROUND: Renal dysfunction in dogs is accompanied by metabolic and biochemical disturbances, including dyslipidemia. However, information on the relationship between lipid abnormalities and azotemia severity remains limited. This study evaluated lipid profile alterations and their association with biochemical and hematological parameters in azotemic dogs.\nMETHODS: Clinical and laboratory records of 100 dogs presented to the Teaching Veterinary Clinical Complex, Bihar Veterinary College, Patna, India, between April 2024 and March 2025 were retrospectively evaluated. The study included 50 healthy and 50 azotemic dogs with serum creatinine >1.7 mg/dl. Azotemic dogs were categorized as Group 1 (1.7- <5.0 mg/dl; n = 17), Group 2 (5.0-15.0 mg/dl; n = 23), and Group 3 (>15.0 mg/dl; n = 10). Hematological, renal, electrolyte, hepatic-associated biochemical, and lipid parameters were evaluated. Data were expressed as median (interquartile range). Group differences were assessed using the Kruskal-Wallis H test followed by Dunn's post-hoc test with Bonferroni correction. Associations were evaluated using Spearman's rank correlation coefficient (ρ), with p < 0.05 considered significant.\nRESULTS: Compared with healthy dogs, azotemic dogs had lower hemoglobin and hematocrit and higher blood urea nitrogen, potassium, phosphorus, alkaline phosphatase, and total bilirubin concentrations. Albumin was significantly lower in Groups 2 and 3. Cholesterol, triglycerides, and low-density lipoprotein (LDL) were significantly higher in all azotemia groups than in healthy controls, whereas high-density lipoprotein did not differ significantly. However, cholesterol, triglycerides, and LDL did not differ significantly among azotemia groups, indicating no stepwise increase with creatinine-defined severity. In the overall azotemic population, creatinine correlated positively with cholesterol (ρ = 0.393, p < 0.001), triglycerides (ρ = 0.265, p = 0.008), and LDL (ρ = 0.457, p < 0.001). Blood urea nitrogen correlated positively with cholesterol (ρ = 0.455, p < 0.001) and LDL (ρ = 0.571, p < 0.001).\nCONCLUSION: Azotemia in dogs is associated with dyslipidemia and broader systemic biochemical alterations. Although cholesterol, triglycerides, and LDL were increased in azotemic dogs, they did not progressively increase across creatinine-defined categories. Lipid profiling may therefore serve as an adjunct to metabolic evaluation, while longitudinal studies incorporating additional renal biomarkers are warranted.",
+    "journal": "Front Vet Sci",
+    "year": "2026",
+    "doi": "10.3389/fvets.2026.1918512",
+    "authors": "Bhardwaj H et al.",
+    "topic": "腎臓",
+    "date_added": "2026-11-26"
   }
 ]
